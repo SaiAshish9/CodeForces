@@ -1,4 +1,4 @@
-## 📂 Contents (37 A-D+ problems)
+## 📂 Contents (41 A-D+ problems)
 
 1. **Div1 Contest**
 
@@ -10,6 +10,7 @@
    4. [1049](./div2/1049)
    5. [1051](./div2/1051)
    6. [Educational 182](./div2/Educational182)
+   7. [1052](./div2/1052)
 
 3. **Div1 + Div2 Contest**
 
