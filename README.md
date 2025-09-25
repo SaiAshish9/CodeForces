@@ -1,4 +1,4 @@
-## 📂 Contents (41 A-D+ problems, 10 contests)
+## 📂 Contents (47 A-D+ problems, 11 contests)
 
 1. **Div1 Contest**
 
@@ -19,7 +19,7 @@
 4. **Div3 Contest**
 
    1. [1047](./div3/1047)
-   2. [1054](./div3/1054)
+   2. [1054](./div3/1054) (A-E and G)
 
 5. **Div4 Contest**
 
