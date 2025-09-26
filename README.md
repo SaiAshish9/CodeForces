@@ -41,4 +41,4 @@ First Contest: 26th August 2025
 
 ---
 
-<img width="538" height="662" alt="Screenshot 2025-09-16 at 8 49 31 PM" src="https://github.com/user-attachments/assets/2c57d286-c08b-438f-8c13-263271c88885" />
+<img width="395" height="463" alt="Screenshot 2025-09-26 at 9 53 54 AM" src="https://github.com/user-attachments/assets/02820f03-835e-4d4a-b439-b8132004cc92" />
