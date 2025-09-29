@@ -29,8 +29,6 @@
 ---
 
 ```
-First Contest: 26th August 2025
-
 < 1200 → Newbie (grey)
 1200 – 1399 → Pupil (green)
 1400 – 1599 → Specialist (cyan/teal)
