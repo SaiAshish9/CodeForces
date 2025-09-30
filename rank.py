@@ -6,7 +6,7 @@ import json
 contest_id = "" 
 handle = ""
 
-url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=1000"
+url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=1700"
 resp = requests.get(url).json()
 
 if resp["status"] != "OK":
@@ -30,8 +30,8 @@ handles = ";".join(map(lambda x: x["handle"], rows))
 
 def fetch_user_info(handles):
     result = []
-    for i in range(0, len(handles), 100):  # batches of 100
-        batch = handles[i:i+100]
+    for i in range(0, len(handles), 500):  # batches of 500
+        batch = handles[i:i+500]
         url = "https://codeforces.com/api/user.info"
         resp = requests.get(url, params={"handles": ";".join(batch)}).json()
         if resp["status"] != "OK":
