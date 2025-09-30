@@ -1,3 +1,5 @@
+# 🚀 Python script for fetching your All India Rank (AIR) in a Codeforces contest
+
 import requests
 import json
 
