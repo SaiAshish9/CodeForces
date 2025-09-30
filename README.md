@@ -20,7 +20,7 @@
 4. **Div3 Contest**
 
    1. [1047](./div3/1047)
-   2. [1054](./div3/1054) (A-E and G) (Rank: 683/31K contestants)
+   2. [1054](./div3/1054) (A-E and G) (AIR 144 (Global 683) out of 20K+ global contestants)
 
 5. **Div4 Contest**
 
