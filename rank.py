@@ -3,10 +3,10 @@
 import requests
 import json
 
-contest_id = 2149 
-handle = ""
+contest_id = 1496 
+handle = "nks43"
 
-url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=700"
+url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=1000"
 resp = requests.get(url).json()
 
 if resp["status"] != "OK":
@@ -28,10 +28,21 @@ rows = rows[:index+1]
 
 handles = ";".join(map(lambda x: x["handle"], rows))
 
-api = f"https://codeforces.com/api/user.info?handles={handles}"
-resp = requests.get(api).json()
+def fetch_user_info(handles):
+    result = []
+    for i in range(0, len(handles), 100):  # batches of 100
+        batch = handles[i:i+100]
+        url = "https://codeforces.com/api/user.info"
+        resp = requests.get(url, params={"handles": ";".join(batch)}).json()
+        if resp["status"] != "OK":
+            raise Exception("API error")
+        result.extend(resp["result"])
+    return result
+
+user_data = fetch_user_info([row["handle"] for row in rows])
+
 country = list(
-    map(lambda x: {"handle": x["handle"], "country": x.get("country", "Unknown")}, resp["result"])
+    map(lambda x: {"handle": x["handle"], "country": x.get("country", "Unknown")}, user_data)
 )
 
 for row in rows:
