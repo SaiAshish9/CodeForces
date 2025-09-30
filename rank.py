@@ -26,8 +26,6 @@ index = next(
 
 rows = rows[:index+1]
 
-print(f"Total participants: {len(rows)}")
-
 handles = ";".join(map(lambda x: x["handle"], rows))
 
 api = f"https://codeforces.com/api/user.info?handles={handles}"
@@ -47,8 +45,7 @@ with open("rows.json", "w", encoding="utf-8") as f:
 
 country = list(filter(lambda x: x["country"] == "India", country))
 
-print(f"Total Indian participants: {len(country)}")
-print(country[-1]["handle"])
+print(f"AIR of handle {country[-1]["handle"]} : {len(country)}")
 
 # python3 -m venv codeforces   
 # source codeforces/bin/activate
