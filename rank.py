@@ -3,8 +3,8 @@
 import requests
 import json
 
-contest_id = "" 
-handle = ""
+contest_id = "2149" 
+handle = "saiashish9"
 
 url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=1700"
 resp = requests.get(url).json()
@@ -47,16 +47,29 @@ country = list(
 
 for row in rows:
     for c in country:
-        if row["handle"] == c["handle"] and c["country"] != "Unknown":
+        if row["handle"] == c["handle"] and c["country"] == "India" and c["country"] != "Unknown":
             row["country"] = c["country"]
             break
         
+res= []
+for row in rows:
+    if "country" in row and row["country"] == "India":
+        res.append(row)
+        
+seen = set()
+ans = []
+
+for entry in res:
+    if entry["rank"] not in seen:
+        ans.append(entry)
+        seen.add(entry["rank"])
+
 with open("rows.json", "w", encoding="utf-8") as f:
-    json.dump(rows, f, ensure_ascii=False, indent=2)
+    json.dump(ans, f, ensure_ascii=False, indent=2)
 
 country = list(filter(lambda x: x["country"] == "India", country))
 
-print(f"AIR of handle {country[-1]["handle"]} : {len(country)}")
+print(f"AIR of handle {country[-1]["handle"]} : {len(ans)}")
 
 # python3 -m venv codeforces   
 # source codeforces/bin/activate
