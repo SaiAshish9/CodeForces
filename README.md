@@ -20,7 +20,7 @@
 4. **Div3 Contest**
 
    1. [1047](./div3/1047)
-   2. [1054](./div3/1054) (A-E and G) (AIR 99 (Global 683) out of ~35K global contestants (All India Top 0.28%))
+   2. [1054](./div3/1054) (A-E and G) (All India Rank (AIR) 99 (Global 683) out of ~35K global contestants (All India Top 0.28%))
 
 5. **Div4 Contest**
 
