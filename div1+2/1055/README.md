@@ -4,5 +4,5 @@ Squarepoint is actively hiring! If you have a background in engineering, compute
 
 🎁 Prizes:
 
-Top 5 performers will receive a $300 Amazon voucher each.
-Next 10 highest scorers will receive a $50 Amazon voucher each.
+1. Top 5 performers will receive a $300 Amazon voucher each.
+2. Next 10 highest scorers will receive a $50 Amazon voucher each.
