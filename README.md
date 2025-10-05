@@ -11,6 +11,7 @@
    5. [1051](./div2/1051)
    6. [Educational 182](./div2/Educational182)
    7. [1052](./div2/1052)
+   8. [1052](./div2/1056)
 
 3. **Div1 + Div2 Contest**
 
