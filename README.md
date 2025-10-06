@@ -16,11 +16,11 @@
 3. **Div1 + Div2 Contest**
 
    1. [Global 29](./div1+2/29)
-   2. [Company: Squarepoint Challenge](.div1+2/1055) (All India Rank (AIR) 519, All India 1.99% out of ~26K global contestants)
+   2. [Company: Squarepoint Challenge](.div1+2/1055) (All India Rank (AIR) 519, All India Top 1.99% out of ~26K global contestants)
 
 4. **Div3 Contest**
 
-   1. [1047](./div3/1047)
+   1. [1047](./div3/1047) (All India Rank (AIR) 625, All India Top 2.23% out of ~28K global registered participants)
    2. [1054](./div3/1054) (A-E and G) (All India Rank (AIR) 99 (Global 683) out of ~35K global contestants (All India Top 0.28%, 9900/35000))
 
 5. **Div4 Contest**
