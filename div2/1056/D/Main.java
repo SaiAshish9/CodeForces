@@ -12,7 +12,7 @@ public class Main {
 
             int verdict = scanner.nextInt();
             if (verdict == 1) {
-                isWinningMove = true; // Found correct response
+                isWinningMove = true; 
             }
         }
     }
