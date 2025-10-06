@@ -12,6 +12,7 @@
    6. [Educational 182](./div2/Educational182)
    7. [1052](./div2/1052)
    8. [1052](./div2/1056)
+   9. [Educational 183 (Rated for Div. 2)](./div2/Educational183)
 
 3. **Div1 + Div2 Contest**
 
