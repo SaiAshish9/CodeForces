@@ -9,10 +9,10 @@
    3. [1048](./div2/1048)
    4. [1049](./div2/1049)
    5. [1051](./div2/1051)
-   6. [Educational 182](./div2/Educational182)
+   6. [Educational 182](./div2/Educational182)(All India Rank (AIR) 166, All India Top 0.63% out of ~26K global contestants)
    7. [1052](./div2/1052)
    8. [1052](./div2/1056)
-   9. [Educational 183 (Rated for Div. 2)](./div2/Educational183) (.div1+2/1055) (All India Rank (AIR) 211, All India Top 0.78% out of ~27K global contestants)
+   9. [Educational 183 (Rated for Div. 2)](./div2/Educational183) (All India Rank (AIR) 211, All India Top 0.78% out of ~27K global contestants)
 
 3. **Div1 + Div2 Contest**
 
