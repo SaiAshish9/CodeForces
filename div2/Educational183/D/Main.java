@@ -1,93 +1,78 @@
-import java.io.*;
- 
+import java.util.*;
+
 public class Main {
-    // fast scanner
-    static final class FastScanner {
-        private final InputStream in;
-        private final byte[] buffer = new byte[1 << 16];
-        private int ptr = 0, len = 0;
-        FastScanner(InputStream is) { in = is; }
-        private int read() throws IOException {
-            if (ptr >= len) {
-                len = in.read(buffer);
-                ptr = 0;
-                if (len <= 0) return -1;
-            }
-            return buffer[ptr++];
+
+    static void dfs(int n, List<Integer> curr, List<List<Integer>> result, int maxParts, int maxValue) {
+        int currentSum = curr.stream().mapToInt(Integer::intValue).sum();
+
+        if (currentSum == n) {
+            result.add(new ArrayList<>(curr));
+            return;
         }
-        int nextInt() throws IOException {
-            int c;
-            while ((c = read()) <= ' ') if (c == -1) return Integer.MIN_VALUE;
-            int sign = 1;
-            if (c == '-') { sign = -1; c = read(); }
-            int val = 0;
-            while (c > ' ') {
-                val = val * 10 + (c - '0');
-                c = read();
-            }
-            return val * sign;
-        }
-        long nextLong() throws IOException {
-            int c;
-            while ((c = read()) <= ' ') if (c == -1) return Long.MIN_VALUE;
-            int sign = 1;
-            if (c == '-') { sign = -1; c = read(); }
-            long val = 0;
-            while (c > ' ') {
-                val = val * 10 + (c - '0');
-                c = read();
-            }
-            return val * sign;
+        if (maxParts != -1 && curr.size() == maxParts) return;
+
+        int maxNext = curr.isEmpty() ? n : curr.get(curr.size() - 1);
+        if (maxValue != -1) maxNext = Math.min(maxNext, maxValue);
+        maxNext = Math.min(maxNext, n - currentSum);
+
+        for (int nextValue = maxNext; nextValue >= 1; nextValue--) {
+            curr.add(nextValue);
+            dfs(n, curr, result, maxParts, maxNext);
+            curr.remove(curr.size() - 1);
         }
     }
- 
-    public static void main(String[] args) throws Exception {
-        FastScanner fs = new FastScanner(System.in);
- 
-        int t = fs.nextInt();
-        while (t-- > 0) {
-            int n = fs.nextInt();
-            long y = fs.nextLong();
- 
-            int[] c = new int[n];
-            int maxC = 0;
-            for (int i = 0; i < n; i++) {
-                c[i] = fs.nextInt();
-                if (c[i] > maxC) maxC = c[i];
+
+    static List<List<Integer>> enumeratePartition(int n) {
+        List<List<Integer>> result = new ArrayList<>();
+        dfs(n, new ArrayList<>(), result, -1, -1);
+        return result;
+    }
+
+    static void solve(Scanner scanner) {
+        long n = scanner.nextLong();
+        long k = scanner.nextLong();
+        k = n * (n - 1) / 2 - k;
+
+        List<Integer> matchingPartition = new ArrayList<>();
+
+        List<List<Integer>> allPartitions = enumeratePartition((int) n);
+        for (List<Integer> currPartition : allPartitions) {
+            long sumPairs = 0;
+            for (int size : currPartition) {
+                sumPairs += (long) size * (size - 1) / 2;
             }
- 
-            // freq of original tags (index = price)
-            int[] freq = new int[maxC + 2]; // +2 to be safe with indexing
-            for (int v : c) freq[v]++;
- 
-            // prefix of frequencies for O(1) range counts
-            int[] prefix = new int[maxC + 2];
-            for (int i = 1; i <= maxC; i++) prefix[i] = prefix[i - 1] + freq[i];
- 
-            long best = Long.MIN_VALUE;
- 
-            // iterate x from 2 to maxC + 1
-            for (int x = 2; x <= maxC + 1; x++) {
-                long sum = 0L;
-                long need = 0L;
-                int k = 1;
-                // process groups: ci in [(k-1)*x + 1 .. k*x]
-                for (int L = 1; L <= maxC; L += x, k++) {
-                    int R = L + x - 1;
-                    if (R > maxC) R = maxC;
-                    int count = prefix[R] - prefix[L - 1];
-                    if (count == 0) continue;
-                    sum += (long) k * count;
-                    // old tags for price k (if k <= maxC)
-                    int old = (k <= maxC) ? freq[k] : 0;
-                    if (count > old) need += (count - old);
-                }
-                long income = sum - need * y;
-                if (income > best) best = income;
+            if (sumPairs == k) {
+                matchingPartition = currPartition;
+                break;
             }
- 
-            System.out.println(best);
         }
- 
+
+        if (matchingPartition.isEmpty()) {
+            System.out.println(0);
+            return;
+        }
+
+        long currentNumber = n;
+        List<Long> resultSequence = new ArrayList<>();
+        for (int size : matchingPartition) {
+            for (long num = currentNumber - size + 1; num <= currentNumber; num++) {
+                resultSequence.add(num);
+            }
+            currentNumber -= size;
+        }
+
+        for (int i = 0; i < resultSequence.size(); i++) {
+            if (i > 0) System.out.print(" ");
+            System.out.print(resultSequence.get(i));
+        }
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int testCases = scanner.nextInt();
+        for (int t = 0; t < testCases; t++) {
+            solve(scanner);
+        }
     }
 }
