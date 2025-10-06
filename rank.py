@@ -3,8 +3,8 @@
 import requests
 import json
 
-contest_id = "2155" 
-handle = "saiashish9"
+contest_id = "" 
+handle = ""
 
 url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=4000"
 resp = requests.get(url).json()
