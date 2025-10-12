@@ -3,7 +3,7 @@
 import requests
 import json
 
-contest_id = "2153" 
+contest_id = "2160" 
 handle = "saiashish9"
 
 url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=7000"

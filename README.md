@@ -14,6 +14,7 @@
    8. [1056](./div2/1056)
    9. [Educational 183 (Rated for Div. 2)](./div2/Educational183) (All India Rank (AIR) 211, All India Top 0.78% out of ~27K global contestants)
    10. [1057](./div2/1057) (All India Top 2.4% out of ~34K global contestants)
+   11. [1058](./div2/1058) (All India Top 3.9% out of ~25K global contestants)
 
 3. **Div1 + Div2 Contest**
 

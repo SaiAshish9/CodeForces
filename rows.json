@@ -1,4112 +1,4957 @@
 [
   {
-    "rank": 8,
-    "handle": "Dark__Seith",
-    "country": "India"
-  },
-  {
-    "rank": 21,
-    "handle": "suhel98934",
-    "country": "India"
-  },
-  {
-    "rank": 32,
-    "handle": "Swayyyy",
-    "country": "India"
-  },
-  {
-    "rank": 36,
-    "handle": "Ak_16",
-    "country": "India"
-  },
-  {
-    "rank": 43,
-    "handle": "CoderAbhi27",
-    "country": "India"
-  },
-  {
-    "rank": 53,
-    "handle": "ayush.raj12516",
-    "country": "India"
-  },
-  {
-    "rank": 56,
-    "handle": "dumb_boi",
-    "country": "India"
-  },
-  {
-    "rank": 66,
-    "handle": "kaustuk2003",
-    "country": "India"
-  },
-  {
-    "rank": 89,
-    "handle": "Alt_Shift_Elite",
-    "country": "India"
-  },
-  {
-    "rank": 103,
-    "handle": "omkar_169",
-    "country": "India"
-  },
-  {
-    "rank": 105,
-    "handle": "_AdiYadav_",
-    "country": "India"
-  },
-  {
-    "rank": 108,
-    "handle": "UP84",
-    "country": "India"
-  },
-  {
-    "rank": 114,
-    "handle": "chaitanyan",
-    "country": "India"
-  },
-  {
-    "rank": 120,
-    "handle": "theobito",
-    "country": "India"
-  },
-  {
-    "rank": 127,
-    "handle": "KingOfThisWorld",
-    "country": "India"
-  },
-  {
-    "rank": 138,
-    "handle": "Aisenh037",
-    "country": "India"
-  },
-  {
-    "rank": 162,
-    "handle": "Neyoo0101",
-    "country": "India"
-  },
-  {
-    "rank": 176,
-    "handle": "sharma4tushar",
-    "country": "India"
-  },
-  {
-    "rank": 201,
-    "handle": "algo-ra",
-    "country": "India"
-  },
-  {
-    "rank": 203,
-    "handle": "conjectureguy",
-    "country": "India"
-  },
-  {
-    "rank": 205,
-    "handle": "LuciferIsBack",
-    "country": "India"
-  },
-  {
-    "rank": 209,
-    "handle": "SaranshBaid",
-    "country": "India"
-  },
-  {
-    "rank": 245,
-    "handle": "Edward4762",
-    "country": "India"
-  },
-  {
-    "rank": 278,
-    "handle": "Sam_2027",
-    "country": "India"
-  },
-  {
-    "rank": 280,
-    "handle": "Shash_S02",
-    "country": "India"
-  },
-  {
-    "rank": 286,
-    "handle": "RizzGod",
-    "country": "India"
-  },
-  {
-    "rank": 291,
-    "handle": "Harshvardhan_Acharya",
-    "country": "India"
-  },
-  {
-    "rank": 297,
-    "handle": "jatint_05",
-    "country": "India"
-  },
-  {
-    "rank": 317,
-    "handle": "H-R-2004",
-    "country": "India"
-  },
-  {
-    "rank": 326,
-    "handle": "biraj01",
-    "country": "India"
-  },
-  {
-    "rank": 332,
-    "handle": "umesh_konduru",
-    "country": "India"
-  },
-  {
-    "rank": 334,
-    "handle": "parag776",
-    "country": "India"
-  },
-  {
-    "rank": 347,
-    "handle": "neel__18",
-    "country": "India"
-  },
-  {
-    "rank": 352,
-    "handle": "cksquare",
-    "country": "India"
-  },
-  {
-    "rank": 393,
-    "handle": "mrjithin",
-    "country": "India"
-  },
-  {
-    "rank": 399,
-    "handle": "shinigami11",
-    "country": "India"
-  },
-  {
-    "rank": 403,
-    "handle": "KaijuNoXero",
-    "country": "India"
-  },
-  {
-    "rank": 426,
-    "handle": "iridescent_1024",
-    "country": "India"
-  },
-  {
-    "rank": 431,
-    "handle": "seezong",
-    "country": "India"
-  },
-  {
-    "rank": 442,
-    "handle": "Ridham.",
-    "country": "India"
-  },
-  {
-    "rank": 444,
-    "handle": "friedel",
-    "country": "India"
-  },
-  {
-    "rank": 448,
-    "handle": "Rahul",
-    "country": "India"
-  },
-  {
-    "rank": 453,
-    "handle": "NamanKr",
-    "country": "India"
-  },
-  {
-    "rank": 464,
-    "handle": "DustOfSnow",
-    "country": "India"
-  },
-  {
-    "rank": 468,
-    "handle": "Forge",
-    "country": "India"
-  },
-  {
-    "rank": 469,
-    "handle": "Patta_gobhi_",
-    "country": "India"
-  },
-  {
-    "rank": 490,
-    "handle": "CODE__INFINITY",
-    "country": "India"
-  },
-  {
-    "rank": 505,
-    "handle": "Coding............",
-    "country": "India"
-  },
-  {
-    "rank": 518,
-    "handle": "edge_case",
-    "country": "India"
-  },
-  {
-    "rank": 528,
-    "handle": "neal27",
-    "country": "India"
-  },
-  {
-    "rank": 532,
-    "handle": "El-Metador",
-    "country": "India"
-  },
-  {
-    "rank": 541,
-    "handle": "dangiyatharth9",
-    "country": "India"
-  },
-  {
-    "rank": 547,
-    "handle": "ananthak",
-    "country": "India"
-  },
-  {
-    "rank": 549,
-    "handle": "bingo",
-    "country": "India"
-  },
-  {
-    "rank": 554,
-    "handle": "smittcodes",
-    "country": "India"
-  },
-  {
-    "rank": 557,
-    "handle": "Naman1005",
-    "country": "India"
-  },
-  {
-    "rank": 565,
-    "handle": "summertime.sadness",
-    "country": "India"
-  },
-  {
-    "rank": 570,
-    "handle": "Hyder1102",
-    "country": "India"
-  },
-  {
-    "rank": 580,
-    "handle": "abhishekdon9928",
-    "country": "India"
-  },
-  {
-    "rank": 581,
-    "handle": "Determinist",
-    "country": "India"
-  },
-  {
-    "rank": 583,
-    "handle": "_val_",
-    "country": "India"
-  },
-  {
-    "rank": 590,
-    "handle": "Newt_ScAmANdeR",
-    "country": "India"
-  },
-  {
-    "rank": 597,
-    "handle": "Geto",
-    "country": "India"
-  },
-  {
-    "rank": 601,
-    "handle": "ArjitShukla",
-    "country": "India"
-  },
-  {
-    "rank": 602,
-    "handle": "_CrazyForCode_",
-    "country": "India"
-  },
-  {
-    "rank": 607,
-    "handle": "AnAverageElectrician",
-    "country": "India"
-  },
-  {
-    "rank": 612,
-    "handle": "kalpitdon7",
-    "country": "India"
-  },
-  {
-    "rank": 620,
-    "handle": "anish06",
-    "country": "India"
-  },
-  {
-    "rank": 624,
-    "handle": "contests_superhero",
-    "country": "India"
-  },
-  {
-    "rank": 636,
-    "handle": "RushMe04",
-    "country": "India"
-  },
-  {
-    "rank": 637,
-    "handle": "lucky__389",
-    "country": "India"
-  },
-  {
-    "rank": 642,
-    "handle": "DhruvGarg007",
-    "country": "India"
-  },
-  {
-    "rank": 645,
-    "handle": "angesh",
-    "country": "India"
-  },
-  {
-    "rank": 648,
-    "handle": "tryingoutcp",
-    "country": "India"
-  },
-  {
-    "rank": 652,
-    "handle": "huzaifa8104",
-    "country": "India"
-  },
-  {
-    "rank": 657,
-    "handle": "zero7",
-    "country": "India"
-  },
-  {
-    "rank": 673,
-    "handle": "_Dhaniya_Patta_",
-    "country": "India"
-  },
-  {
-    "rank": 688,
-    "handle": "kanishk2223",
-    "country": "India"
-  },
-  {
-    "rank": 696,
+    "rank": 13,
     "handle": "sam990",
     "country": "India"
   },
   {
-    "rank": 702,
-    "handle": "Eshan_Karia",
+    "rank": 20,
+    "handle": "haveOlogntime",
     "country": "India"
   },
   {
-    "rank": 705,
-    "handle": "pranavsingh0111",
+    "rank": 31,
+    "handle": "Tanjiro_Kamado_069",
     "country": "India"
   },
   {
-    "rank": 707,
-    "handle": "dawipayandas",
+    "rank": 40,
+    "handle": "shubhu_279",
     "country": "India"
   },
   {
-    "rank": 708,
-    "handle": "Mehul_zzz",
+    "rank": 47,
+    "handle": "ReverseFlash081",
     "country": "India"
   },
   {
-    "rank": 716,
-    "handle": "rokacoding",
-    "country": "India"
-  },
-  {
-    "rank": 722,
-    "handle": "ankitkundu837",
-    "country": "India"
-  },
-  {
-    "rank": 724,
-    "handle": "Tanmay7404",
-    "country": "India"
-  },
-  {
-    "rank": 728,
-    "handle": "uday3421",
-    "country": "India"
-  },
-  {
-    "rank": 732,
-    "handle": "vedantjain29",
-    "country": "India"
-  },
-  {
-    "rank": 734,
-    "handle": "Ellipse",
-    "country": "India"
-  },
-  {
-    "rank": 739,
-    "handle": "bhanu2306",
-    "country": "India"
-  },
-  {
-    "rank": 743,
-    "handle": "synthborne",
-    "country": "India"
-  },
-  {
-    "rank": 745,
-    "handle": "akshatbarnwal925",
-    "country": "India"
-  },
-  {
-    "rank": 746,
-    "handle": "SiddharthJoshi",
-    "country": "India"
-  },
-  {
-    "rank": 752,
-    "handle": "jainsujan031",
-    "country": "India"
-  },
-  {
-    "rank": 757,
-    "handle": "Soureen2006",
-    "country": "India"
-  },
-  {
-    "rank": 764,
-    "handle": "sparsh_16",
-    "country": "India"
-  },
-  {
-    "rank": 776,
-    "handle": "schrodeR",
-    "country": "India"
-  },
-  {
-    "rank": 780,
-    "handle": "GosarGawd",
-    "country": "India"
-  },
-  {
-    "rank": 784,
-    "handle": "Ruthvik2835",
-    "country": "India"
-  },
-  {
-    "rank": 791,
-    "handle": "vineetiwari",
-    "country": "India"
-  },
-  {
-    "rank": 796,
-    "handle": "H_a_r_M_i_t",
-    "country": "India"
-  },
-  {
-    "rank": 803,
-    "handle": "Sourav_Kushwaha",
-    "country": "India"
-  },
-  {
-    "rank": 804,
-    "handle": "jvatsal79",
-    "country": "India"
-  },
-  {
-    "rank": 807,
-    "handle": "Bhavy_Ramani",
-    "country": "India"
-  },
-  {
-    "rank": 808,
-    "handle": "sklamba",
-    "country": "India"
-  },
-  {
-    "rank": 812,
-    "handle": "vedic86",
-    "country": "India"
-  },
-  {
-    "rank": 819,
-    "handle": "Malhar_17",
-    "country": "India"
-  },
-  {
-    "rank": 834,
-    "handle": "ChandrashekharD",
-    "country": "India"
-  },
-  {
-    "rank": 837,
-    "handle": "lazy_tree",
-    "country": "India"
-  },
-  {
-    "rank": 843,
-    "handle": "gb2955381",
-    "country": "India"
-  },
-  {
-    "rank": 845,
-    "handle": "RealAryan",
-    "country": "India"
-  },
-  {
-    "rank": 848,
-    "handle": "deepakkumar.nea10a",
-    "country": "India"
-  },
-  {
-    "rank": 859,
-    "handle": "MayankSavaliya",
-    "country": "India"
-  },
-  {
-    "rank": 864,
-    "handle": "thetwoface",
-    "country": "India"
-  },
-  {
-    "rank": 869,
-    "handle": "yvmr_33",
-    "country": "India"
-  },
-  {
-    "rank": 874,
-    "handle": "1.3.5.7.9.on.purple.--",
-    "country": "India"
-  },
-  {
-    "rank": 875,
-    "handle": "CodeDamnIt_Aryan",
-    "country": "India"
-  },
-  {
-    "rank": 885,
-    "handle": "Aarush",
-    "country": "India"
-  },
-  {
-    "rank": 888,
-    "handle": "why_are_you_GrAY",
-    "country": "India"
-  },
-  {
-    "rank": 892,
-    "handle": "Jamshed11",
-    "country": "India"
-  },
-  {
-    "rank": 895,
-    "handle": "I_Vishnuvarun",
-    "country": "India"
-  },
-  {
-    "rank": 904,
-    "handle": "_shriom_",
-    "country": "India"
-  },
-  {
-    "rank": 907,
-    "handle": "alphagarg",
-    "country": "India"
-  },
-  {
-    "rank": 911,
-    "handle": "kreeeesh_17",
-    "country": "India"
-  },
-  {
-    "rank": 914,
-    "handle": "Koosh18",
-    "country": "India"
-  },
-  {
-    "rank": 919,
-    "handle": "limpbizkit1976",
-    "country": "India"
-  },
-  {
-    "rank": 921,
-    "handle": "do4z",
-    "country": "India"
-  },
-  {
-    "rank": 923,
-    "handle": "suryansh_goel",
-    "country": "India"
-  },
-  {
-    "rank": 937,
-    "handle": "daksh942",
-    "country": "India"
-  },
-  {
-    "rank": 939,
-    "handle": "ArrayKnight",
-    "country": "India"
-  },
-  {
-    "rank": 941,
-    "handle": "3Apoorva",
-    "country": "India"
-  },
-  {
-    "rank": 949,
-    "handle": "code.breaker23",
-    "country": "India"
-  },
-  {
-    "rank": 961,
-    "handle": "kipra.2003",
-    "country": "India"
-  },
-  {
-    "rank": 965,
-    "handle": "sapcoder",
-    "country": "India"
-  },
-  {
-    "rank": 977,
-    "handle": "sanchit1053",
-    "country": "India"
-  },
-  {
-    "rank": 985,
-    "handle": "minus_M1",
-    "country": "India"
-  },
-  {
-    "rank": 990,
-    "handle": "Ragnar21",
-    "country": "India"
-  },
-  {
-    "rank": 997,
-    "handle": "HemantSingh",
-    "country": "India"
-  },
-  {
-    "rank": 999,
-    "handle": "Priyank.Gupta",
-    "country": "India"
-  },
-  {
-    "rank": 1012,
-    "handle": "Rishiyangala",
-    "country": "India"
-  },
-  {
-    "rank": 1015,
-    "handle": "alpha_6124",
-    "country": "India"
-  },
-  {
-    "rank": 1016,
-    "handle": "dumbcoder10",
-    "country": "India"
-  },
-  {
-    "rank": 1021,
-    "handle": "yogi3926",
-    "country": "India"
-  },
-  {
-    "rank": 1025,
-    "handle": "rana_2406",
-    "country": "India"
-  },
-  {
-    "rank": 1026,
-    "handle": "Jenil_01",
-    "country": "India"
-  },
-  {
-    "rank": 1034,
-    "handle": "sarvagya2545",
-    "country": "India"
-  },
-  {
-    "rank": 1036,
-    "handle": "SomilP",
-    "country": "India"
-  },
-  {
-    "rank": 1051,
-    "handle": "muksah2520",
-    "country": "India"
-  },
-  {
-    "rank": 1052,
-    "handle": "SilverTongue1729",
-    "country": "India"
-  },
-  {
-    "rank": 1059,
-    "handle": "AL_Qiswa",
-    "country": "India"
-  },
-  {
-    "rank": 1076,
-    "handle": "Codebard_Yashh_yg",
-    "country": "India"
-  },
-  {
-    "rank": 1082,
-    "handle": "Shashwat_skr",
-    "country": "India"
-  },
-  {
-    "rank": 1089,
-    "handle": "HaRsH_sHUKlA-",
-    "country": "India"
-  },
-  {
-    "rank": 1090,
-    "handle": "Cannonbolt2704",
-    "country": "India"
-  },
-  {
-    "rank": 1102,
-    "handle": "raghavmcs1",
-    "country": "India"
-  },
-  {
-    "rank": 1105,
-    "handle": "all_out_01",
-    "country": "India"
-  },
-  {
-    "rank": 1107,
-    "handle": "dpsvoyager.16",
-    "country": "India"
-  },
-  {
-    "rank": 1121,
-    "handle": "abhinavgangil",
-    "country": "India"
-  },
-  {
-    "rank": 1126,
-    "handle": "The_Elephant",
-    "country": "India"
-  },
-  {
-    "rank": 1128,
-    "handle": "uttej_777",
-    "country": "India"
-  },
-  {
-    "rank": 1131,
-    "handle": "SauravMehra",
-    "country": "India"
-  },
-  {
-    "rank": 1139,
-    "handle": "sahoo_devaratha",
-    "country": "India"
-  },
-  {
-    "rank": 1144,
-    "handle": "codack_mayank",
-    "country": "India"
-  },
-  {
-    "rank": 1148,
-    "handle": "knlydv",
-    "country": "India"
-  },
-  {
-    "rank": 1157,
-    "handle": "pienotpi",
-    "country": "India"
-  },
-  {
-    "rank": 1160,
-    "handle": "3rrSensei",
-    "country": "India"
-  },
-  {
-    "rank": 1164,
-    "handle": "ujjawals159",
-    "country": "India"
-  },
-  {
-    "rank": 1177,
-    "handle": "DaBest",
-    "country": "India"
-  },
-  {
-    "rank": 1185,
-    "handle": "rahulb2809",
-    "country": "India"
-  },
-  {
-    "rank": 1188,
-    "handle": "algoslayer",
-    "country": "India"
-  },
-  {
-    "rank": 1202,
-    "handle": "BoundlessBit",
-    "country": "India"
-  },
-  {
-    "rank": 1211,
-    "handle": "ce220004008",
-    "country": "India"
-  },
-  {
-    "rank": 1213,
-    "handle": "Gits_oel",
-    "country": "India"
-  },
-  {
-    "rank": 1214,
-    "handle": "hombrecito2580",
-    "country": "India"
-  },
-  {
-    "rank": 1215,
-    "handle": "maheshc1",
-    "country": "India"
-  },
-  {
-    "rank": 1217,
-    "handle": "ashish1729",
-    "country": "India"
-  },
-  {
-    "rank": 1220,
-    "handle": "ninjaHattori1",
-    "country": "India"
-  },
-  {
-    "rank": 1222,
-    "handle": "ayushman18",
-    "country": "India"
-  },
-  {
-    "rank": 1231,
-    "handle": "seven_mark",
-    "country": "India"
-  },
-  {
-    "rank": 1234,
-    "handle": "p_nag",
-    "country": "India"
-  },
-  {
-    "rank": 1237,
-    "handle": "shahbas",
-    "country": "India"
-  },
-  {
-    "rank": 1253,
-    "handle": "incheif",
-    "country": "India"
-  },
-  {
-    "rank": 1258,
-    "handle": "amanmaloo",
-    "country": "India"
-  },
-  {
-    "rank": 1262,
-    "handle": "dhruvil_9198",
-    "country": "India"
-  },
-  {
-    "rank": 1266,
-    "handle": "tirthgohil1410",
-    "country": "India"
-  },
-  {
-    "rank": 1280,
-    "handle": "4pranjaljain",
-    "country": "India"
-  },
-  {
-    "rank": 1284,
-    "handle": "not_insync",
-    "country": "India"
-  },
-  {
-    "rank": 1288,
-    "handle": "KaSo06",
-    "country": "India"
-  },
-  {
-    "rank": 1290,
-    "handle": "satpura_na16",
-    "country": "India"
-  },
-  {
-    "rank": 1293,
-    "handle": "Manzood",
-    "country": "India"
-  },
-  {
-    "rank": 1295,
-    "handle": "akhil",
-    "country": "India"
-  },
-  {
-    "rank": 1301,
-    "handle": "abhi_8923",
-    "country": "India"
-  },
-  {
-    "rank": 1315,
-    "handle": "SumitKundu",
-    "country": "India"
-  },
-  {
-    "rank": 1327,
-    "handle": "AvanSingh",
-    "country": "India"
-  },
-  {
-    "rank": 1328,
-    "handle": "kadamrohan0215",
-    "country": "India"
-  },
-  {
-    "rank": 1332,
-    "handle": "AkShukla",
-    "country": "India"
-  },
-  {
-    "rank": 1342,
-    "handle": "AmanSR",
-    "country": "India"
-  },
-  {
-    "rank": 1343,
-    "handle": "lazycoder1601",
-    "country": "India"
-  },
-  {
-    "rank": 1346,
-    "handle": "Rupam_09",
-    "country": "India"
-  },
-  {
-    "rank": 1348,
-    "handle": "harshagr0110",
-    "country": "India"
-  },
-  {
-    "rank": 1358,
-    "handle": "guptaparth1911",
-    "country": "India"
-  },
-  {
-    "rank": 1364,
-    "handle": "roy_abir05",
-    "country": "India"
-  },
-  {
-    "rank": 1368,
-    "handle": "deep_n_drap",
-    "country": "India"
-  },
-  {
-    "rank": 1373,
-    "handle": "jets_psd",
-    "country": "India"
-  },
-  {
-    "rank": 1382,
-    "handle": "BreakingGood",
-    "country": "India"
-  },
-  {
-    "rank": 1384,
-    "handle": "Ashcode_IITH",
-    "country": "India"
-  },
-  {
-    "rank": 1386,
-    "handle": "_safalkumar_",
-    "country": "India"
-  },
-  {
-    "rank": 1392,
-    "handle": "amalverma",
-    "country": "India"
-  },
-  {
-    "rank": 1394,
-    "handle": "YSlow",
-    "country": "India"
-  },
-  {
-    "rank": 1403,
-    "handle": "ChaoticCoder",
-    "country": "India"
-  },
-  {
-    "rank": 1410,
-    "handle": "Parth1636",
-    "country": "India"
-  },
-  {
-    "rank": 1415,
-    "handle": "panchangamakhil",
-    "country": "India"
-  },
-  {
-    "rank": 1419,
-    "handle": "souvikofculture",
-    "country": "India"
-  },
-  {
-    "rank": 1429,
-    "handle": "ritam1234",
-    "country": "India"
-  },
-  {
-    "rank": 1437,
-    "handle": "Ishirey.X",
-    "country": "India"
-  },
-  {
-    "rank": 1438,
-    "handle": "jayantjha1109",
-    "country": "India"
-  },
-  {
-    "rank": 1439,
-    "handle": "nowayjose",
-    "country": "India"
-  },
-  {
-    "rank": 1445,
-    "handle": "Ayushkun",
-    "country": "India"
-  },
-  {
-    "rank": 1447,
-    "handle": "Himanshu2125",
-    "country": "India"
-  },
-  {
-    "rank": 1452,
-    "handle": "Akhil_09",
-    "country": "India"
-  },
-  {
-    "rank": 1453,
-    "handle": "jharwal_ji",
-    "country": "India"
-  },
-  {
-    "rank": 1457,
-    "handle": "charanteja001",
-    "country": "India"
-  },
-  {
-    "rank": 1460,
-    "handle": "Maroon5_sugar",
-    "country": "India"
-  },
-  {
-    "rank": 1469,
-    "handle": "mohd_ayaan",
-    "country": "India"
-  },
-  {
-    "rank": 1481,
-    "handle": "sharkss",
-    "country": "India"
-  },
-  {
-    "rank": 1484,
-    "handle": "Anand_Bharti",
-    "country": "India"
-  },
-  {
-    "rank": 1489,
-    "handle": "shobyy",
-    "country": "India"
-  },
-  {
-    "rank": 1500,
-    "handle": "naam_me_kya_rakha_hai_",
-    "country": "India"
-  },
-  {
-    "rank": 1502,
-    "handle": "Prady",
-    "country": "India"
-  },
-  {
-    "rank": 1507,
-    "handle": "arshad_shahzeb",
-    "country": "India"
-  },
-  {
-    "rank": 1509,
-    "handle": "Ananya_agr",
-    "country": "India"
-  },
-  {
-    "rank": 1512,
-    "handle": "sanjay_thiru",
-    "country": "India"
-  },
-  {
-    "rank": 1539,
-    "handle": "WrongAnswerOnTestCase2",
-    "country": "India"
-  },
-  {
-    "rank": 1556,
-    "handle": "k9vaibhav6",
-    "country": "India"
-  },
-  {
-    "rank": 1564,
-    "handle": "SHIVANG12",
-    "country": "India"
-  },
-  {
-    "rank": 1566,
-    "handle": "DeepakPrajapati",
-    "country": "India"
-  },
-  {
-    "rank": 1571,
-    "handle": "Saviour26",
-    "country": "India"
-  },
-  {
-    "rank": 1573,
-    "handle": "Mr__D",
-    "country": "India"
-  },
-  {
-    "rank": 1580,
-    "handle": "Garvit_Goyal",
-    "country": "India"
-  },
-  {
-    "rank": 1590,
-    "handle": "ManasaLGM",
-    "country": "India"
-  },
-  {
-    "rank": 1592,
-    "handle": "4M49_H3R3",
-    "country": "India"
-  },
-  {
-    "rank": 1599,
-    "handle": "RishabhXHecker",
-    "country": "India"
-  },
-  {
-    "rank": 1600,
-    "handle": "alpha1215",
-    "country": "India"
-  },
-  {
-    "rank": 1610,
-    "handle": "satyam533patel",
-    "country": "India"
-  },
-  {
-    "rank": 1613,
-    "handle": "SP1029",
-    "country": "India"
-  },
-  {
-    "rank": 1615,
-    "handle": "vikranttarwatkar2003",
-    "country": "India"
-  },
-  {
-    "rank": 1617,
-    "handle": "Prabuddha_Sinha",
-    "country": "India"
-  },
-  {
-    "rank": 1624,
-    "handle": "pappuovi8",
-    "country": "India"
-  },
-  {
-    "rank": 1631,
-    "handle": "dota2_player",
-    "country": "India"
-  },
-  {
-    "rank": 1644,
-    "handle": "KetanS08",
-    "country": "India"
-  },
-  {
-    "rank": 1646,
-    "handle": "shwet46",
-    "country": "India"
-  },
-  {
-    "rank": 1648,
-    "handle": "chrisrex",
-    "country": "India"
-  },
-  {
-    "rank": 1658,
-    "handle": "jaygoti2006",
-    "country": "India"
-  },
-  {
-    "rank": 1661,
-    "handle": "vnjain2004",
-    "country": "India"
-  },
-  {
-    "rank": 1662,
-    "handle": "Betelgeuse",
-    "country": "India"
-  },
-  {
-    "rank": 1668,
-    "handle": "ShivamRS0712",
-    "country": "India"
-  },
-  {
-    "rank": 1678,
-    "handle": "Ayanokoji7",
-    "country": "India"
-  },
-  {
-    "rank": 1686,
-    "handle": "shubham_0712",
-    "country": "India"
-  },
-  {
-    "rank": 1689,
-    "handle": "komal417",
-    "country": "India"
-  },
-  {
-    "rank": 1690,
-    "handle": "anirudhc69",
-    "country": "India"
-  },
-  {
-    "rank": 1696,
-    "handle": "Kunal_Dev",
-    "country": "India"
-  },
-  {
-    "rank": 1699,
-    "handle": "ReaperScythe21",
-    "country": "India"
-  },
-  {
-    "rank": 1703,
-    "handle": "priyanshu.p",
-    "country": "India"
-  },
-  {
-    "rank": 1704,
-    "handle": "_helloLad",
-    "country": "India"
-  },
-  {
-    "rank": 1705,
-    "handle": "Call_me_abhi",
-    "country": "India"
-  },
-  {
-    "rank": 1707,
-    "handle": "prasu-baran",
-    "country": "India"
-  },
-  {
-    "rank": 1709,
-    "handle": "iamaryankr",
-    "country": "India"
-  },
-  {
-    "rank": 1712,
-    "handle": "seemple_12",
-    "country": "India"
-  },
-  {
-    "rank": 1714,
-    "handle": "AnkanMisra",
-    "country": "India"
-  },
-  {
-    "rank": 1717,
-    "handle": "boyzz",
-    "country": "India"
-  },
-  {
-    "rank": 1732,
-    "handle": "Harsh_Yadav1729",
-    "country": "India"
-  },
-  {
-    "rank": 1735,
-    "handle": "Maven_19",
-    "country": "India"
-  },
-  {
-    "rank": 1739,
-    "handle": "siddharthraj097",
-    "country": "India"
-  },
-  {
-    "rank": 1743,
-    "handle": "longago_06",
-    "country": "India"
-  },
-  {
-    "rank": 1752,
-    "handle": "ShashankGupta",
-    "country": "India"
-  },
-  {
-    "rank": 1756,
-    "handle": "Sai_Sindhush_P",
-    "country": "India"
-  },
-  {
-    "rank": 1769,
-    "handle": "arpit_kr",
-    "country": "India"
-  },
-  {
-    "rank": 1772,
-    "handle": "aditya0013",
-    "country": "India"
-  },
-  {
-    "rank": 1774,
-    "handle": "sushmanth.dampur8780",
-    "country": "India"
-  },
-  {
-    "rank": 1776,
-    "handle": "ShubhamYadav27",
-    "country": "India"
-  },
-  {
-    "rank": 1778,
-    "handle": "jayesh.muley",
-    "country": "India"
-  },
-  {
-    "rank": 1815,
-    "handle": "ishaansahu1218",
-    "country": "India"
-  },
-  {
-    "rank": 1817,
-    "handle": "aphex",
-    "country": "India"
-  },
-  {
-    "rank": 1819,
-    "handle": "darkphoenix2208",
-    "country": "India"
-  },
-  {
-    "rank": 1823,
-    "handle": "Satyam_0129",
-    "country": "India"
-  },
-  {
-    "rank": 1833,
-    "handle": "Entity069",
-    "country": "India"
-  },
-  {
-    "rank": 1846,
-    "handle": "i_squared",
-    "country": "India"
-  },
-  {
-    "rank": 1850,
-    "handle": "sleeping_pizza_",
-    "country": "India"
-  },
-  {
-    "rank": 1875,
-    "handle": "mooIi",
-    "country": "India"
-  },
-  {
-    "rank": 1878,
-    "handle": "hawk851",
-    "country": "India"
-  },
-  {
-    "rank": 1896,
-    "handle": "coderRebooted",
-    "country": "India"
-  },
-  {
-    "rank": 1902,
-    "handle": "KushKushal",
-    "country": "India"
-  },
-  {
-    "rank": 1912,
-    "handle": "Ineesh_reddy",
-    "country": "India"
-  },
-  {
-    "rank": 1914,
-    "handle": "nickhilverma",
-    "country": "India"
-  },
-  {
-    "rank": 1919,
-    "handle": "sps64044",
-    "country": "India"
-  },
-  {
-    "rank": 1921,
-    "handle": "vss_1307",
-    "country": "India"
-  },
-  {
-    "rank": 1923,
-    "handle": "Nish",
-    "country": "India"
-  },
-  {
-    "rank": 1927,
-    "handle": "kanav67",
-    "country": "India"
-  },
-  {
-    "rank": 1937,
-    "handle": "BitCrafter",
-    "country": "India"
-  },
-  {
-    "rank": 1956,
-    "handle": "nikT",
-    "country": "India"
-  },
-  {
-    "rank": 1958,
+    "rank": 48,
     "handle": "Riemann25",
     "country": "India"
   },
   {
-    "rank": 1960,
-    "handle": "Vassu05",
+    "rank": 49,
+    "handle": "cksquare",
     "country": "India"
   },
   {
-    "rank": 1969,
-    "handle": "Darsh_Jain",
+    "rank": 51,
+    "handle": "edge_case",
     "country": "India"
   },
   {
-    "rank": 1975,
-    "handle": "V3k0r",
+    "rank": 57,
+    "handle": "Lucifer_K",
     "country": "India"
   },
   {
-    "rank": 1982,
-    "handle": "Neev4321",
+    "rank": 64,
+    "handle": "naivedyam",
     "country": "India"
   },
   {
-    "rank": 1990,
-    "handle": "shre99",
+    "rank": 76,
+    "handle": "_shriom_",
     "country": "India"
   },
   {
-    "rank": 2004,
-    "handle": "emir_raze",
+    "rank": 89,
+    "handle": "sav",
     "country": "India"
   },
   {
-    "rank": 2009,
-    "handle": "Anuron_Das",
+    "rank": 113,
+    "handle": "sandeep5445",
     "country": "India"
   },
   {
-    "rank": 2011,
-    "handle": "V_Prabath",
+    "rank": 123,
+    "handle": "milind0110",
     "country": "India"
   },
   {
-    "rank": 2013,
-    "handle": "varun-1728",
+    "rank": 126,
+    "handle": "Tanmay7404",
     "country": "India"
   },
   {
-    "rank": 2017,
-    "handle": "parthpratyush",
+    "rank": 127,
+    "handle": "jvatsal79",
     "country": "India"
   },
   {
-    "rank": 2024,
-    "handle": "coder097",
+    "rank": 141,
+    "handle": "DhruvGarg007",
     "country": "India"
   },
   {
-    "rank": 2036,
-    "handle": "naitik_agrawal",
+    "rank": 147,
+    "handle": "Krabbypatty",
     "country": "India"
   },
   {
-    "rank": 2041,
-    "handle": "fenil7806",
+    "rank": 148,
+    "handle": "pranavsingh0111",
     "country": "India"
   },
   {
-    "rank": 2044,
-    "handle": "nabhya_p",
+    "rank": 171,
+    "handle": "blue_phoenixx",
     "country": "India"
   },
   {
-    "rank": 2055,
-    "handle": "aloo08051999",
+    "rank": 172,
+    "handle": "Coder_Nayak",
     "country": "India"
   },
   {
-    "rank": 2063,
-    "handle": "Eren12",
+    "rank": 173,
+    "handle": "yeswanth",
     "country": "India"
   },
   {
-    "rank": 2068,
-    "handle": "yellow_13",
+    "rank": 178,
+    "handle": "HemantSingh",
     "country": "India"
   },
   {
-    "rank": 2073,
-    "handle": "Rittin_Sehgal",
+    "rank": 184,
+    "handle": "KushKushal",
     "country": "India"
   },
   {
-    "rank": 2080,
-    "handle": "bhagwandai",
+    "rank": 187,
+    "handle": "Koosh18",
     "country": "India"
   },
   {
-    "rank": 2089,
-    "handle": "ayuxhkumxr22",
+    "rank": 189,
+    "handle": "SardonyxX_1628",
     "country": "India"
   },
   {
-    "rank": 2093,
-    "handle": "progskipper",
+    "rank": 197,
+    "handle": "neal27",
     "country": "India"
   },
   {
-    "rank": 2094,
-    "handle": "vectordeepanshu",
+    "rank": 200,
+    "handle": "umesh_konduru",
     "country": "India"
   },
   {
-    "rank": 2098,
-    "handle": "MegaUmbreon",
+    "rank": 203,
+    "handle": "Harshaditya_Sharma",
     "country": "India"
   },
   {
-    "rank": 2107,
-    "handle": "ishan130803",
+    "rank": 216,
+    "handle": "ChandrashekharD",
     "country": "India"
   },
   {
-    "rank": 2126,
-    "handle": "expertaq",
+    "rank": 224,
+    "handle": "_Gawd_",
     "country": "India"
   },
   {
-    "rank": 2127,
-    "handle": "Crick26",
+    "rank": 231,
+    "handle": "GreySpecter",
     "country": "India"
   },
   {
-    "rank": 2129,
-    "handle": "Ronit5",
-    "country": "India"
-  },
-  {
-    "rank": 2146,
-    "handle": "eshaansodhi",
-    "country": "India"
-  },
-  {
-    "rank": 2151,
-    "handle": "shankhadeepg444",
-    "country": "India"
-  },
-  {
-    "rank": 2159,
-    "handle": "prabhakar03",
-    "country": "India"
-  },
-  {
-    "rank": 2166,
-    "handle": "Mak_05",
-    "country": "India"
-  },
-  {
-    "rank": 2173,
-    "handle": "Deepanshu_Pundir1709",
-    "country": "India"
-  },
-  {
-    "rank": 2179,
-    "handle": "saurabh_y11",
-    "country": "India"
-  },
-  {
-    "rank": 2189,
+    "rank": 235,
     "handle": "VectorVirtuoso",
     "country": "India"
   },
   {
-    "rank": 2196,
-    "handle": "Parthprajapat_2005",
-    "country": "India"
-  },
-  {
-    "rank": 2211,
-    "handle": "harshitkantharia1",
-    "country": "India"
-  },
-  {
-    "rank": 2214,
-    "handle": "vasu_boda_",
-    "country": "India"
-  },
-  {
-    "rank": 2227,
-    "handle": "kuladeep_dasari",
-    "country": "India"
-  },
-  {
-    "rank": 2237,
-    "handle": "il-pragadish-aak",
-    "country": "India"
-  },
-  {
-    "rank": 2240,
-    "handle": "jenil0108",
-    "country": "India"
-  },
-  {
-    "rank": 2251,
-    "handle": "utkarshver11",
-    "country": "India"
-  },
-  {
-    "rank": 2258,
-    "handle": "varunguptha",
-    "country": "India"
-  },
-  {
-    "rank": 2266,
-    "handle": "silentail",
-    "country": "India"
-  },
-  {
-    "rank": 2268,
-    "handle": "mjmanas54",
-    "country": "India"
-  },
-  {
-    "rank": 2272,
-    "handle": "Mridul_007",
-    "country": "India"
-  },
-  {
-    "rank": 2277,
-    "handle": "manavjain",
-    "country": "India"
-  },
-  {
-    "rank": 2280,
-    "handle": "anshhhhh",
-    "country": "India"
-  },
-  {
-    "rank": 2286,
-    "handle": "yravidheeraj12",
-    "country": "India"
-  },
-  {
-    "rank": 2290,
-    "handle": "Rishi_677",
-    "country": "India"
-  },
-  {
-    "rank": 2296,
-    "handle": "RudranilJadhav",
-    "country": "India"
-  },
-  {
-    "rank": 2307,
-    "handle": "shashankindukuri14",
-    "country": "India"
-  },
-  {
-    "rank": 2312,
-    "handle": "amod_24",
-    "country": "India"
-  },
-  {
-    "rank": 2318,
-    "handle": "SidM007",
-    "country": "India"
-  },
-  {
-    "rank": 2330,
-    "handle": "kaneki003",
-    "country": "India"
-  },
-  {
-    "rank": 2336,
-    "handle": "rky_cse",
-    "country": "India"
-  },
-  {
-    "rank": 2341,
-    "handle": "vanshitkumar",
-    "country": "India"
-  },
-  {
-    "rank": 2347,
-    "handle": "hem_patel_02",
-    "country": "India"
-  },
-  {
-    "rank": 2356,
-    "handle": "dev_cse",
-    "country": "India"
-  },
-  {
-    "rank": 2364,
-    "handle": "priyansh_0901",
-    "country": "India"
-  },
-  {
-    "rank": 2370,
-    "handle": "Mr.Roamer",
-    "country": "India"
-  },
-  {
-    "rank": 2376,
-    "handle": "phoenix_2232",
-    "country": "India"
-  },
-  {
-    "rank": 2379,
-    "handle": "Aryan_Pravin",
-    "country": "India"
-  },
-  {
-    "rank": 2386,
-    "handle": "tridipta2806",
-    "country": "India"
-  },
-  {
-    "rank": 2393,
-    "handle": "Pilgrim1043",
-    "country": "India"
-  },
-  {
-    "rank": 2410,
-    "handle": "deepbuha06",
-    "country": "India"
-  },
-  {
-    "rank": 2415,
-    "handle": "divyanshii10",
-    "country": "India"
-  },
-  {
-    "rank": 2419,
-    "handle": "Kushal_Gunala",
-    "country": "India"
-  },
-  {
-    "rank": 2426,
-    "handle": "Archit_Gogoi",
-    "country": "India"
-  },
-  {
-    "rank": 2431,
-    "handle": "sparrow82",
-    "country": "India"
-  },
-  {
-    "rank": 2451,
-    "handle": "pushkar_j123",
-    "country": "India"
-  },
-  {
-    "rank": 2460,
-    "handle": "radon86inert",
-    "country": "India"
-  },
-  {
-    "rank": 2461,
-    "handle": "being_the_one",
-    "country": "India"
-  },
-  {
-    "rank": 2464,
-    "handle": "PetrificusTotalus",
-    "country": "India"
-  },
-  {
-    "rank": 2472,
-    "handle": "Kumar_Abhay",
-    "country": "India"
-  },
-  {
-    "rank": 2479,
-    "handle": "yuvraj_coder1",
-    "country": "India"
-  },
-  {
-    "rank": 2488,
-    "handle": "Amiakhan",
-    "country": "India"
-  },
-  {
-    "rank": 2493,
-    "handle": "nithish654",
-    "country": "India"
-  },
-  {
-    "rank": 2502,
-    "handle": "adityasaah",
-    "country": "India"
-  },
-  {
-    "rank": 2503,
-    "handle": "so-called-iitian",
-    "country": "India"
-  },
-  {
-    "rank": 2509,
-    "handle": "itisdevansh",
-    "country": "India"
-  },
-  {
-    "rank": 2511,
-    "handle": "Mridul_Garg",
-    "country": "India"
-  },
-  {
-    "rank": 2516,
-    "handle": "metarudra28",
-    "country": "India"
-  },
-  {
-    "rank": 2517,
-    "handle": "AayushBadoni2005",
-    "country": "India"
-  },
-  {
-    "rank": 2521,
-    "handle": "kr_vishal",
-    "country": "India"
-  },
-  {
-    "rank": 2536,
-    "handle": "bvsmjayaditya",
-    "country": "India"
-  },
-  {
-    "rank": 2544,
-    "handle": "rohit_dayalani",
-    "country": "India"
-  },
-  {
-    "rank": 2552,
-    "handle": "KushalBijarniya",
-    "country": "India"
-  },
-  {
-    "rank": 2554,
-    "handle": "Amit_Khedar",
-    "country": "India"
-  },
-  {
-    "rank": 2557,
-    "handle": "Oatschamp",
-    "country": "India"
-  },
-  {
-    "rank": 2570,
-    "handle": "dkmidha70",
-    "country": "India"
-  },
-  {
-    "rank": 2589,
-    "handle": "pradyumnakatarki",
-    "country": "India"
-  },
-  {
-    "rank": 2601,
-    "handle": "Prerak_7108",
-    "country": "India"
-  },
-  {
-    "rank": 2604,
-    "handle": "_runtimeTerror_",
-    "country": "India"
-  },
-  {
-    "rank": 2610,
-    "handle": "disha00",
-    "country": "India"
-  },
-  {
-    "rank": 2618,
-    "handle": "MaiHoonDawn",
-    "country": "India"
-  },
-  {
-    "rank": 2629,
-    "handle": "Balaji_B",
-    "country": "India"
-  },
-  {
-    "rank": 2634,
-    "handle": "cse220001042",
-    "country": "India"
-  },
-  {
-    "rank": 2637,
-    "handle": "oxidisingojha",
-    "country": "India"
-  },
-  {
-    "rank": 2641,
-    "handle": "harsh1t_t1war1",
-    "country": "India"
-  },
-  {
-    "rank": 2655,
-    "handle": "DSKroc",
-    "country": "India"
-  },
-  {
-    "rank": 2656,
-    "handle": "arpit45_8",
-    "country": "India"
-  },
-  {
-    "rank": 2668,
-    "handle": "pc19937",
-    "country": "India"
-  },
-  {
-    "rank": 2675,
-    "handle": "SayMyName_",
-    "country": "India"
-  },
-  {
-    "rank": 2692,
-    "handle": "kunjshah",
-    "country": "India"
-  },
-  {
-    "rank": 2698,
-    "handle": "kanishk_mehta",
-    "country": "India"
-  },
-  {
-    "rank": 2712,
-    "handle": "tvcv901",
-    "country": "India"
-  },
-  {
-    "rank": 2717,
-    "handle": "ashu_bhatta",
-    "country": "India"
-  },
-  {
-    "rank": 2727,
-    "handle": "Kshitij_Patel",
-    "country": "India"
-  },
-  {
-    "rank": 2731,
-    "handle": "MoonlightCodata",
-    "country": "India"
-  },
-  {
-    "rank": 2736,
-    "handle": "daksh_arora",
-    "country": "India"
-  },
-  {
-    "rank": 2745,
-    "handle": "Pranav_19111",
-    "country": "India"
-  },
-  {
-    "rank": 2750,
-    "handle": "Yo_Yo_Yogi",
-    "country": "India"
-  },
-  {
-    "rank": 2759,
-    "handle": "kv_dhruv",
-    "country": "India"
-  },
-  {
-    "rank": 2774,
-    "handle": "Blackwater",
-    "country": "India"
-  },
-  {
-    "rank": 2779,
-    "handle": "nagar007sachin",
-    "country": "India"
-  },
-  {
-    "rank": 2791,
-    "handle": "shivang_2006",
-    "country": "India"
-  },
-  {
-    "rank": 2801,
-    "handle": "AhanH31",
-    "country": "India"
-  },
-  {
-    "rank": 2812,
-    "handle": "Swarnadip_Kar",
-    "country": "India"
-  },
-  {
-    "rank": 2821,
-    "handle": "tnaveen2308",
-    "country": "India"
-  },
-  {
-    "rank": 2826,
-    "handle": "codemart786",
-    "country": "India"
-  },
-  {
-    "rank": 2830,
-    "handle": "blazedishoon1409",
-    "country": "India"
-  },
-  {
-    "rank": 2838,
-    "handle": "satya12345678",
-    "country": "India"
-  },
-  {
-    "rank": 2847,
-    "handle": "Mandar.Parihar",
-    "country": "India"
-  },
-  {
-    "rank": 2854,
-    "handle": "Yaichi",
-    "country": "India"
-  },
-  {
-    "rank": 2858,
-    "handle": "dsa-Daddy",
-    "country": "India"
-  },
-  {
-    "rank": 2860,
-    "handle": "mohdfaiz.72",
-    "country": "India"
-  },
-  {
-    "rank": 2867,
-    "handle": "rishiupadhayay67",
-    "country": "India"
-  },
-  {
-    "rank": 2870,
-    "handle": "-214748364",
-    "country": "India"
-  },
-  {
-    "rank": 2874,
-    "handle": "shashankRoy",
-    "country": "India"
-  },
-  {
-    "rank": 2882,
-    "handle": "Krishnadev44",
-    "country": "India"
-  },
-  {
-    "rank": 2885,
-    "handle": "Darknight26",
-    "country": "India"
-  },
-  {
-    "rank": 2897,
-    "handle": "_princegrewal",
-    "country": "India"
-  },
-  {
-    "rank": 2906,
-    "handle": "Adi.gain",
-    "country": "India"
-  },
-  {
-    "rank": 2912,
-    "handle": "yeetholmes619",
-    "country": "India"
-  },
-  {
-    "rank": 2919,
-    "handle": "Muqeeth7",
-    "country": "India"
-  },
-  {
-    "rank": 2933,
-    "handle": "Md_Anas_Ali_Usmani",
-    "country": "India"
-  },
-  {
-    "rank": 2939,
-    "handle": "sumanth7",
-    "country": "India"
-  },
-  {
-    "rank": 2947,
-    "handle": "SLEDGER",
-    "country": "India"
-  },
-  {
-    "rank": 2951,
-    "handle": "Maverick_869",
-    "country": "India"
-  },
-  {
-    "rank": 2961,
-    "handle": "saurav_chaudhary26",
-    "country": "India"
-  },
-  {
-    "rank": 2968,
-    "handle": "King_Jack",
-    "country": "India"
-  },
-  {
-    "rank": 2975,
-    "handle": "pulkit_garg14",
-    "country": "India"
-  },
-  {
-    "rank": 2990,
-    "handle": "Yash_2310",
-    "country": "India"
-  },
-  {
-    "rank": 2993,
-    "handle": "Ricoprogrammer",
-    "country": "India"
-  },
-  {
-    "rank": 3004,
-    "handle": "aryan_gupta_iitg",
-    "country": "India"
-  },
-  {
-    "rank": 3012,
-    "handle": "LuckyAgrawal",
-    "country": "India"
-  },
-  {
-    "rank": 3018,
-    "handle": "AgrimGoyal",
-    "country": "India"
-  },
-  {
-    "rank": 3022,
-    "handle": "brajesh_muwel17",
-    "country": "India"
-  },
-  {
-    "rank": 3032,
-    "handle": "parthagarwal8910",
-    "country": "India"
-  },
-  {
-    "rank": 3041,
-    "handle": "anmolagrawal_21",
-    "country": "India"
-  },
-  {
-    "rank": 3042,
-    "handle": "Jelly.bean",
-    "country": "India"
-  },
-  {
-    "rank": 3053,
-    "handle": "amankumar555",
-    "country": "India"
-  },
-  {
-    "rank": 3062,
-    "handle": "pvr04",
-    "country": "India"
-  },
-  {
-    "rank": 3067,
-    "handle": "_ritheesh_",
-    "country": "India"
-  },
-  {
-    "rank": 3071,
-    "handle": "adroitanuj",
-    "country": "India"
-  },
-  {
-    "rank": 3075,
-    "handle": "Rohit_kaushik",
-    "country": "India"
-  },
-  {
-    "rank": 3080,
-    "handle": "Saivishwas",
-    "country": "India"
-  },
-  {
-    "rank": 3082,
-    "handle": "vishalrathod16",
-    "country": "India"
-  },
-  {
-    "rank": 3088,
-    "handle": "RohiT_6",
-    "country": "India"
-  },
-  {
-    "rank": 3099,
-    "handle": "bhajji",
-    "country": "India"
-  },
-  {
-    "rank": 3105,
-    "handle": "inverted69",
-    "country": "India"
-  },
-  {
-    "rank": 3112,
-    "handle": "orenji",
-    "country": "India"
-  },
-  {
-    "rank": 3115,
-    "handle": "ShashankGaur03",
-    "country": "India"
-  },
-  {
-    "rank": 3118,
-    "handle": "Aman_27p",
-    "country": "India"
-  },
-  {
-    "rank": 3138,
-    "handle": "Anuj_Balwada9697",
-    "country": "India"
-  },
-  {
-    "rank": 3144,
-    "handle": "Prateek_2005",
-    "country": "India"
-  },
-  {
-    "rank": 3150,
-    "handle": "yash3292",
-    "country": "India"
-  },
-  {
-    "rank": 3162,
-    "handle": "kulkarnichaitanya665",
-    "country": "India"
-  },
-  {
-    "rank": 3168,
-    "handle": "pjmundada2005",
-    "country": "India"
-  },
-  {
-    "rank": 3177,
-    "handle": "VinayRajput28",
-    "country": "India"
-  },
-  {
-    "rank": 3182,
-    "handle": "divyadoctor1",
-    "country": "India"
-  },
-  {
-    "rank": 3191,
-    "handle": "introvert54cf",
-    "country": "India"
-  },
-  {
-    "rank": 3194,
-    "handle": "jtgoyal05",
-    "country": "India"
-  },
-  {
-    "rank": 3200,
-    "handle": "ameyatambat2004",
-    "country": "India"
-  },
-  {
-    "rank": 3214,
-    "handle": "Squishhyy",
-    "country": "India"
-  },
-  {
-    "rank": 3221,
-    "handle": "dakshat",
-    "country": "India"
-  },
-  {
-    "rank": 3226,
-    "handle": "Kailash01",
-    "country": "India"
-  },
-  {
-    "rank": 3231,
-    "handle": "YASH_VENOM",
-    "country": "India"
-  },
-  {
-    "rank": 3234,
-    "handle": "paarth_kaushik",
-    "country": "India"
-  },
-  {
-    "rank": 3239,
-    "handle": "vibranium375",
-    "country": "India"
-  },
-  {
-    "rank": 3241,
-    "handle": "TejasKatare",
-    "country": "India"
-  },
-  {
-    "rank": 3246,
-    "handle": "nimish.agarwal.2006",
-    "country": "India"
-  },
-  {
-    "rank": 3254,
-    "handle": "Sohail_Kasmani",
-    "country": "India"
-  },
-  {
-    "rank": 3264,
-    "handle": "itsiftikar02",
-    "country": "India"
-  },
-  {
-    "rank": 3272,
-    "handle": "Darkknight20",
-    "country": "India"
-  },
-  {
-    "rank": 3278,
-    "handle": "ritikrajvanshi",
-    "country": "India"
-  },
-  {
-    "rank": 3293,
-    "handle": "there_was_a_blog_3dots",
-    "country": "India"
-  },
-  {
-    "rank": 3300,
-    "handle": "frinad.8555",
-    "country": "India"
-  },
-  {
-    "rank": 3311,
-    "handle": "pseudo404",
-    "country": "India"
-  },
-  {
-    "rank": 3319,
-    "handle": "abhiap2004",
-    "country": "India"
-  },
-  {
-    "rank": 3329,
-    "handle": "darsh9510",
-    "country": "India"
-  },
-  {
-    "rank": 3339,
-    "handle": "vitthalkudav",
-    "country": "India"
-  },
-  {
-    "rank": 3347,
-    "handle": "MayankGaurav",
-    "country": "India"
-  },
-  {
-    "rank": 3355,
-    "handle": "Anay_mahajan",
-    "country": "India"
-  },
-  {
-    "rank": 3359,
-    "handle": "martian098",
-    "country": "India"
-  },
-  {
-    "rank": 3382,
-    "handle": "vexo",
-    "country": "India"
-  },
-  {
-    "rank": 3403,
-    "handle": "highpinginfinity",
-    "country": "India"
-  },
-  {
-    "rank": 3408,
-    "handle": "Khush_08",
-    "country": "India"
-  },
-  {
-    "rank": 3417,
-    "handle": "sejalmaurya",
-    "country": "India"
-  },
-  {
-    "rank": 3427,
-    "handle": "ps2006",
-    "country": "India"
-  },
-  {
-    "rank": 3434,
-    "handle": "bitthal04",
-    "country": "India"
-  },
-  {
-    "rank": 3447,
-    "handle": "rk_verma",
-    "country": "India"
-  },
-  {
-    "rank": 3456,
-    "handle": "Wanderer_Tanishq",
-    "country": "India"
-  },
-  {
-    "rank": 3461,
-    "handle": "Yoder2k4",
-    "country": "India"
-  },
-  {
-    "rank": 3467,
-    "handle": "utsavshahm",
-    "country": "India"
-  },
-  {
-    "rank": 3473,
-    "handle": "paramveer5404",
-    "country": "India"
-  },
-  {
-    "rank": 3476,
-    "handle": "toxik",
-    "country": "India"
-  },
-  {
-    "rank": 3486,
-    "handle": "nithin0810",
-    "country": "India"
-  },
-  {
-    "rank": 3497,
-    "handle": "LuxTheDeveloper",
-    "country": "India"
-  },
-  {
-    "rank": 3503,
-    "handle": "Akshar_7",
-    "country": "India"
-  },
-  {
-    "rank": 3519,
-    "handle": "Badri41",
-    "country": "India"
-  },
-  {
-    "rank": 3528,
-    "handle": "RishabhGupta_cf",
-    "country": "India"
-  },
-  {
-    "rank": 3536,
-    "handle": "Yug_Bargaway",
-    "country": "India"
-  },
-  {
-    "rank": 3548,
-    "handle": "apoorvtandon81",
-    "country": "India"
-  },
-  {
-    "rank": 3555,
-    "handle": "Speedster1010",
-    "country": "India"
-  },
-  {
-    "rank": 3562,
-    "handle": "Chaotic_Cyris07",
-    "country": "India"
-  },
-  {
-    "rank": 3571,
-    "handle": "Coder.124421",
-    "country": "India"
-  },
-  {
-    "rank": 3583,
-    "handle": "Priyam2005",
-    "country": "India"
-  },
-  {
-    "rank": 3594,
-    "handle": "dhruvvd",
-    "country": "India"
-  },
-  {
-    "rank": 3600,
-    "handle": "mdxz",
-    "country": "India"
-  },
-  {
-    "rank": 3621,
-    "handle": "Vidush.rk11",
-    "country": "India"
-  },
-  {
-    "rank": 3628,
-    "handle": "ujwal_33",
-    "country": "India"
-  },
-  {
-    "rank": 3632,
-    "handle": "sujansg23",
-    "country": "India"
-  },
-  {
-    "rank": 3639,
-    "handle": "mightguy106",
-    "country": "India"
-  },
-  {
-    "rank": 3642,
-    "handle": "Milan_Prajapati",
-    "country": "India"
-  },
-  {
-    "rank": 3650,
-    "handle": "Squittal",
-    "country": "India"
-  },
-  {
-    "rank": 3659,
-    "handle": "NitinIITR",
-    "country": "India"
-  },
-  {
-    "rank": 3665,
-    "handle": "Adii",
-    "country": "India"
-  },
-  {
-    "rank": 3673,
-    "handle": "Ishan_07",
-    "country": "India"
-  },
-  {
-    "rank": 3680,
-    "handle": "Io_Vinci",
-    "country": "India"
-  },
-  {
-    "rank": 3692,
-    "handle": "rijwiz",
-    "country": "India"
-  },
-  {
-    "rank": 3697,
-    "handle": "_gautam_11",
-    "country": "India"
-  },
-  {
-    "rank": 3704,
-    "handle": "Aditya8676",
-    "country": "India"
-  },
-  {
-    "rank": 3711,
-    "handle": "jaskaran2004",
-    "country": "India"
-  },
-  {
-    "rank": 3720,
-    "handle": "samay9o",
-    "country": "India"
-  },
-  {
-    "rank": 3727,
-    "handle": "Rajai_kambal",
-    "country": "India"
-  },
-  {
-    "rank": 3737,
-    "handle": "IEC2024032",
-    "country": "India"
-  },
-  {
-    "rank": 3746,
-    "handle": "Yashas333",
-    "country": "India"
-  },
-  {
-    "rank": 3752,
-    "handle": "sashshaikh12",
-    "country": "India"
-  },
-  {
-    "rank": 3758,
-    "handle": "_sano_",
-    "country": "India"
-  },
-  {
-    "rank": 3768,
-    "handle": "Code_Web",
-    "country": "India"
-  },
-  {
-    "rank": 3774,
-    "handle": "Nirupam",
-    "country": "India"
-  },
-  {
-    "rank": 3784,
-    "handle": "siddharth0714",
-    "country": "India"
-  },
-  {
-    "rank": 3794,
-    "handle": "Deepak-singh",
-    "country": "India"
-  },
-  {
-    "rank": 3797,
-    "handle": "l_lost_l",
-    "country": "India"
-  },
-  {
-    "rank": 3800,
-    "handle": "Systuumatic",
-    "country": "India"
-  },
-  {
-    "rank": 3813,
-    "handle": "Adithya_Royal",
-    "country": "India"
-  },
-  {
-    "rank": 3820,
-    "handle": "zonedout",
-    "country": "India"
-  },
-  {
-    "rank": 3824,
-    "handle": "Zeno07",
-    "country": "India"
-  },
-  {
-    "rank": 3830,
-    "handle": "VishalP",
-    "country": "India"
-  },
-  {
-    "rank": 3835,
-    "handle": "Bhagyesh_Kothalkar",
-    "country": "India"
-  },
-  {
-    "rank": 3839,
-    "handle": "priyanshupriyank04",
-    "country": "India"
-  },
-  {
-    "rank": 3845,
-    "handle": "codingjourney9",
-    "country": "India"
-  },
-  {
-    "rank": 3853,
-    "handle": "lakshya004",
-    "country": "India"
-  },
-  {
-    "rank": 3858,
-    "handle": "dijkstra_bull",
-    "country": "India"
-  },
-  {
-    "rank": 3865,
-    "handle": "Akshat_Singhal0504",
-    "country": "India"
-  },
-  {
-    "rank": 3877,
-    "handle": "abhi____123",
-    "country": "India"
-  },
-  {
-    "rank": 3882,
-    "handle": "_onlynerds",
-    "country": "India"
-  },
-  {
-    "rank": 3890,
-    "handle": "EigenEdge",
-    "country": "India"
-  },
-  {
-    "rank": 3894,
-    "handle": "Neet0110",
-    "country": "India"
-  },
-  {
-    "rank": 3896,
-    "handle": "weatherwise",
-    "country": "India"
-  },
-  {
-    "rank": 3899,
-    "handle": "Thundervolt",
-    "country": "India"
-  },
-  {
-    "rank": 3902,
-    "handle": "rohit_raj_37",
-    "country": "India"
-  },
-  {
-    "rank": 3909,
-    "handle": "sarthakkjha",
-    "country": "India"
-  },
-  {
-    "rank": 3912,
-    "handle": "Kunal_K99418",
-    "country": "India"
-  },
-  {
-    "rank": 3921,
-    "handle": "krishsaini_777",
-    "country": "India"
-  },
-  {
-    "rank": 3927,
-    "handle": "notalone008",
-    "country": "India"
-  },
-  {
-    "rank": 3931,
-    "handle": "_._aayush_",
-    "country": "India"
-  },
-  {
-    "rank": 3934,
-    "handle": "ayushmittal007",
-    "country": "India"
-  },
-  {
-    "rank": 3943,
-    "handle": "Agent_S",
-    "country": "India"
-  },
-  {
-    "rank": 3946,
-    "handle": "sayan_mandal",
-    "country": "India"
-  },
-  {
-    "rank": 3953,
-    "handle": "Jinansh_dalal",
-    "country": "India"
-  },
-  {
-    "rank": 3958,
-    "handle": "Saurx9611",
-    "country": "India"
-  },
-  {
-    "rank": 3962,
-    "handle": "Lucifer489",
-    "country": "India"
-  },
-  {
-    "rank": 3966,
-    "handle": "Hetkumar_Patel",
-    "country": "India"
-  },
-  {
-    "rank": 3970,
-    "handle": "ayushdevani01",
-    "country": "India"
-  },
-  {
-    "rank": 3983,
-    "handle": "utube2021bk",
-    "country": "India"
-  },
-  {
-    "rank": 3991,
-    "handle": "__7781",
-    "country": "India"
-  },
-  {
-    "rank": 3998,
-    "handle": "abheping",
-    "country": "India"
-  },
-  {
-    "rank": 4006,
-    "handle": "kaustavbhowal",
-    "country": "India"
-  },
-  {
-    "rank": 4013,
-    "handle": "Nehal21",
-    "country": "India"
-  },
-  {
-    "rank": 4016,
-    "handle": "locked_in_hell",
-    "country": "India"
-  },
-  {
-    "rank": 4021,
-    "handle": "E_Abishek",
-    "country": "India"
-  },
-  {
-    "rank": 4028,
-    "handle": "utk_09",
-    "country": "India"
-  },
-  {
-    "rank": 4036,
-    "handle": "niku_raaz",
-    "country": "India"
-  },
-  {
-    "rank": 4042,
-    "handle": "jai_gurudev",
-    "country": "India"
-  },
-  {
-    "rank": 4051,
-    "handle": "Iamheretocode",
-    "country": "India"
-  },
-  {
-    "rank": 4057,
-    "handle": "_paras_",
-    "country": "India"
-  },
-  {
-    "rank": 4069,
-    "handle": "sonitraj8458",
-    "country": "India"
-  },
-  {
-    "rank": 4076,
-    "handle": "opbot_xd",
-    "country": "India"
-  },
-  {
-    "rank": 4082,
-    "handle": "guptaprakhar_01",
-    "country": "India"
-  },
-  {
-    "rank": 4087,
-    "handle": "dazai05",
-    "country": "India"
-  },
-  {
-    "rank": 4091,
-    "handle": "TuSh4r",
-    "country": "India"
-  },
-  {
-    "rank": 4100,
-    "handle": "harshil7_",
-    "country": "India"
-  },
-  {
-    "rank": 4103,
-    "handle": "ShannuOP",
-    "country": "India"
-  },
-  {
-    "rank": 4113,
-    "handle": "Shashank_Kumar204",
-    "country": "India"
-  },
-  {
-    "rank": 4119,
-    "handle": "Gotaduck",
-    "country": "India"
-  },
-  {
-    "rank": 4123,
-    "handle": "cricrazy_001",
-    "country": "India"
-  },
-  {
-    "rank": 4124,
-    "handle": "dhamer69",
-    "country": "India"
-  },
-  {
-    "rank": 4131,
-    "handle": "karock",
-    "country": "India"
-  },
-  {
-    "rank": 4142,
-    "handle": "Iemonjuice",
-    "country": "India"
-  },
-  {
-    "rank": 4146,
-    "handle": "karanbhatia857",
-    "country": "India"
-  },
-  {
-    "rank": 4154,
-    "handle": "Archit_Modi_21",
-    "country": "India"
-  },
-  {
-    "rank": 4178,
-    "handle": "shashantjindal",
-    "country": "India"
-  },
-  {
-    "rank": 4182,
-    "handle": "IEC2024044",
-    "country": "India"
-  },
-  {
-    "rank": 4186,
-    "handle": "Aryan_Vadhadiya",
-    "country": "India"
-  },
-  {
-    "rank": 4191,
-    "handle": "Bitz",
-    "country": "India"
-  },
-  {
-    "rank": 4200,
-    "handle": "KartevSumit",
-    "country": "India"
-  },
-  {
-    "rank": 4204,
-    "handle": "euler_san",
-    "country": "India"
-  },
-  {
-    "rank": 4218,
-    "handle": "astronom1cal",
-    "country": "India"
-  },
-  {
-    "rank": 4221,
-    "handle": "seaSmoke",
-    "country": "India"
-  },
-  {
-    "rank": 4234,
-    "handle": "raghav_agg",
-    "country": "India"
-  },
-  {
-    "rank": 4240,
-    "handle": "Soumil_Patria",
-    "country": "India"
-  },
-  {
-    "rank": 4243,
-    "handle": "OTC_Roman",
-    "country": "India"
-  },
-  {
-    "rank": 4248,
-    "handle": "archi470",
-    "country": "India"
-  },
-  {
-    "rank": 4251,
-    "handle": "EpicCoder03",
-    "country": "India"
-  },
-  {
-    "rank": 4255,
-    "handle": "FireANMA",
-    "country": "India"
-  },
-  {
-    "rank": 4263,
-    "handle": "TheDumbCoder69",
-    "country": "India"
-  },
-  {
-    "rank": 4267,
-    "handle": "adityaaryan151",
-    "country": "India"
-  },
-  {
-    "rank": 4274,
-    "handle": "rushvl",
-    "country": "India"
-  },
-  {
-    "rank": 4281,
-    "handle": "zapwiz22",
-    "country": "India"
-  },
-  {
-    "rank": 4286,
-    "handle": "kanishkgupta071",
-    "country": "India"
-  },
-  {
-    "rank": 4301,
-    "handle": "shreyansh7",
-    "country": "India"
-  },
-  {
-    "rank": 4309,
-    "handle": "soumil_10",
-    "country": "India"
-  },
-  {
-    "rank": 4313,
-    "handle": "rushil_a_",
-    "country": "India"
-  },
-  {
-    "rank": 4325,
-    "handle": "sagnik998",
-    "country": "India"
-  },
-  {
-    "rank": 4334,
-    "handle": "harshit0705_",
-    "country": "India"
-  },
-  {
-    "rank": 4338,
-    "handle": "aryamahendraker",
-    "country": "India"
-  },
-  {
-    "rank": 4341,
-    "handle": "Someone_Unknown69",
-    "country": "India"
-  },
-  {
-    "rank": 4346,
-    "handle": "aryankesharwani142004",
-    "country": "India"
-  },
-  {
-    "rank": 4355,
-    "handle": "Saksham_Garg48",
-    "country": "India"
-  },
-  {
-    "rank": 4358,
-    "handle": "Prax27",
-    "country": "India"
-  },
-  {
-    "rank": 4366,
-    "handle": "vissu2603",
-    "country": "India"
-  },
-  {
-    "rank": 4374,
-    "handle": "pranavdhardwivedi",
-    "country": "India"
-  },
-  {
-    "rank": 4380,
-    "handle": "Casual_W",
-    "country": "India"
-  },
-  {
-    "rank": 4388,
-    "handle": "navneetk12",
-    "country": "India"
-  },
-  {
-    "rank": 4395,
-    "handle": "mysterious_wanderer",
-    "country": "India"
-  },
-  {
-    "rank": 4398,
-    "handle": "Sk2003_23",
-    "country": "India"
-  },
-  {
-    "rank": 4404,
-    "handle": "ritikb_0618",
-    "country": "India"
-  },
-  {
-    "rank": 4409,
-    "handle": "xfppm47",
-    "country": "India"
-  },
-  {
-    "rank": 4411,
-    "handle": "jkpromax",
-    "country": "India"
-  },
-  {
-    "rank": 4421,
-    "handle": "meer45",
-    "country": "India"
-  },
-  {
-    "rank": 4427,
-    "handle": "Zaskare",
-    "country": "India"
-  },
-  {
-    "rank": 4429,
-    "handle": "akramdevstuffs",
-    "country": "India"
-  },
-  {
-    "rank": 4441,
-    "handle": "harsh_kaku",
-    "country": "India"
-  },
-  {
-    "rank": 4446,
-    "handle": "asterisk11",
-    "country": "India"
-  },
-  {
-    "rank": 4448,
-    "handle": "SINNOCENT",
-    "country": "India"
-  },
-  {
-    "rank": 4455,
-    "handle": "YLNarasimha1711",
-    "country": "India"
-  },
-  {
-    "rank": 4461,
-    "handle": "kumar_shubham15",
-    "country": "India"
-  },
-  {
-    "rank": 4463,
-    "handle": "viditanupgupta",
-    "country": "India"
-  },
-  {
-    "rank": 4479,
-    "handle": "yashu1819",
-    "country": "India"
-  },
-  {
-    "rank": 4484,
-    "handle": "imran67",
-    "country": "India"
-  },
-  {
-    "rank": 4493,
-    "handle": "jungharerishi",
-    "country": "India"
-  },
-  {
-    "rank": 4500,
-    "handle": "Rushil24",
-    "country": "India"
-  },
-  {
-    "rank": 4504,
-    "handle": "OjMaha",
-    "country": "India"
-  },
-  {
-    "rank": 4511,
-    "handle": "smash_potato",
-    "country": "India"
-  },
-  {
-    "rank": 4517,
-    "handle": "JK_9054",
-    "country": "India"
-  },
-  {
-    "rank": 4519,
-    "handle": "Jayesh_M01",
-    "country": "India"
-  },
-  {
-    "rank": 4523,
-    "handle": "csk2005",
-    "country": "India"
-  },
-  {
-    "rank": 4529,
-    "handle": "pravin014",
-    "country": "India"
-  },
-  {
-    "rank": 4531,
-    "handle": "Sarav_24",
-    "country": "India"
-  },
-  {
-    "rank": 4534,
-    "handle": "blazzingrocky",
-    "country": "India"
-  },
-  {
-    "rank": 4540,
-    "handle": "m23022002",
-    "country": "India"
-  },
-  {
-    "rank": 4545,
-    "handle": "aashraymahajan374",
-    "country": "India"
-  },
-  {
-    "rank": 4562,
-    "handle": "Ahmik_Virani",
-    "country": "India"
-  },
-  {
-    "rank": 4566,
-    "handle": "arahan_673",
-    "country": "India"
-  },
-  {
-    "rank": 4570,
-    "handle": "harshkumar3.14",
-    "country": "India"
-  },
-  {
-    "rank": 4577,
-    "handle": "Adi_tyaa_26",
-    "country": "India"
-  },
-  {
-    "rank": 4582,
-    "handle": "chethan78",
-    "country": "India"
-  },
-  {
-    "rank": 4586,
-    "handle": "tanishqmandhane2005",
-    "country": "India"
-  },
-  {
-    "rank": 4594,
-    "handle": "RUTHVIK0811",
-    "country": "India"
-  },
-  {
-    "rank": 4602,
-    "handle": "Nilpotent",
-    "country": "India"
-  },
-  {
-    "rank": 4608,
-    "handle": "dynamo_4533",
-    "country": "India"
-  },
-  {
-    "rank": 4616,
-    "handle": "shreya_2413",
-    "country": "India"
-  },
-  {
-    "rank": 4619,
-    "handle": "Greyitis",
-    "country": "India"
-  },
-  {
-    "rank": 4622,
-    "handle": "dhirajpatil2346",
-    "country": "India"
-  },
-  {
-    "rank": 4626,
-    "handle": "namish--shankar",
-    "country": "India"
-  },
-  {
-    "rank": 4632,
-    "handle": "Scholiboi",
-    "country": "India"
-  },
-  {
-    "rank": 4637,
-    "handle": "orange_trie",
-    "country": "India"
-  },
-  {
-    "rank": 4642,
-    "handle": "619",
-    "country": "India"
-  },
-  {
-    "rank": 4648,
-    "handle": "ashuramajestic",
-    "country": "India"
-  },
-  {
-    "rank": 4653,
-    "handle": "Utkarsh2907",
-    "country": "India"
-  },
-  {
-    "rank": 4660,
-    "handle": "KalashShah",
-    "country": "India"
-  },
-  {
-    "rank": 4670,
-    "handle": "anand__code",
-    "country": "India"
-  },
-  {
-    "rank": 4678,
-    "handle": "Om_007",
-    "country": "India"
-  },
-  {
-    "rank": 4683,
-    "handle": "raghav_guptaa",
-    "country": "India"
-  },
-  {
-    "rank": 4688,
-    "handle": "aaryagopani",
-    "country": "India"
-  },
-  {
-    "rank": 4691,
-    "handle": "Gyanendra_512",
-    "country": "India"
-  },
-  {
-    "rank": 4694,
-    "handle": "Kshetru06",
-    "country": "India"
-  },
-  {
-    "rank": 4699,
-    "handle": "Deathcold",
-    "country": "India"
-  },
-  {
-    "rank": 4703,
-    "handle": "trishfr",
-    "country": "India"
-  },
-  {
-    "rank": 4708,
-    "handle": "RoarX2",
-    "country": "India"
-  },
-  {
-    "rank": 4710,
-    "handle": "Aashwat",
-    "country": "India"
-  },
-  {
-    "rank": 4712,
-    "handle": "Just_chill_",
-    "country": "India"
-  },
-  {
-    "rank": 4726,
-    "handle": "adarshworkplace",
-    "country": "India"
-  },
-  {
-    "rank": 4730,
-    "handle": "xyron",
-    "country": "India"
-  },
-  {
-    "rank": 4734,
-    "handle": "xod",
-    "country": "India"
-  },
-  {
-    "rank": 4736,
-    "handle": "kunj_bhesaniya",
-    "country": "India"
-  },
-  {
-    "rank": 4740,
-    "handle": "Karthik1812",
-    "country": "India"
-  },
-  {
-    "rank": 4751,
-    "handle": "m.arush",
-    "country": "India"
-  },
-  {
-    "rank": 4757,
-    "handle": "Animesh15Aug",
-    "country": "India"
-  },
-  {
-    "rank": 4758,
-    "handle": "Pankaj1008",
-    "country": "India"
-  },
-  {
-    "rank": 4761,
-    "handle": "prxtxk",
-    "country": "India"
-  },
-  {
-    "rank": 4777,
-    "handle": "Aviskar_Mvp",
-    "country": "India"
-  },
-  {
-    "rank": 4782,
-    "handle": "Harsh103",
-    "country": "India"
-  },
-  {
-    "rank": 4787,
-    "handle": "Adarsh__Pal",
-    "country": "India"
-  },
-  {
-    "rank": 4796,
-    "handle": "code_guitar_master",
-    "country": "India"
-  },
-  {
-    "rank": 4803,
-    "handle": "roybiraj179",
-    "country": "India"
-  },
-  {
-    "rank": 4805,
-    "handle": "zwix",
-    "country": "India"
-  },
-  {
-    "rank": 4811,
-    "handle": "am_aadvik",
-    "country": "India"
-  },
-  {
-    "rank": 4822,
-    "handle": "AllainP",
-    "country": "India"
-  },
-  {
-    "rank": 4824,
-    "handle": "sohxm2k",
-    "country": "India"
-  },
-  {
-    "rank": 4828,
-    "handle": "slytherin_dk",
-    "country": "India"
-  },
-  {
-    "rank": 4832,
-    "handle": "annywaysss",
-    "country": "India"
-  },
-  {
-    "rank": 4834,
-    "handle": "vslokesh",
-    "country": "India"
-  },
-  {
-    "rank": 4846,
-    "handle": "hars_raj",
-    "country": "India"
-  },
-  {
-    "rank": 4849,
-    "handle": "kumar_utkarsh_iitbhu",
-    "country": "India"
-  },
-  {
-    "rank": 4852,
-    "handle": "ashavez62",
-    "country": "India"
-  },
-  {
-    "rank": 4861,
-    "handle": "gjaynir0508",
-    "country": "India"
-  },
-  {
-    "rank": 4865,
-    "handle": "Moksh_Jain",
-    "country": "India"
-  },
-  {
-    "rank": 4871,
-    "handle": "Vyanki.79",
-    "country": "India"
-  },
-  {
-    "rank": 4874,
-    "handle": "SAJAL_JAINN",
-    "country": "India"
-  },
-  {
-    "rank": 4876,
-    "handle": "_vaibhav_9888",
-    "country": "India"
-  },
-  {
-    "rank": 4884,
-    "handle": "suhani14",
-    "country": "India"
-  },
-  {
-    "rank": 4893,
-    "handle": "Alphabet",
-    "country": "India"
-  },
-  {
-    "rank": 4903,
-    "handle": "jigyasu_kalyan",
-    "country": "India"
-  },
-  {
-    "rank": 4904,
-    "handle": "Kartheek_4444",
-    "country": "India"
-  },
-  {
-    "rank": 4908,
-    "handle": "deepak_k27",
-    "country": "India"
-  },
-  {
-    "rank": 4916,
-    "handle": "Dhruv_S1nghal",
-    "country": "India"
-  },
-  {
-    "rank": 4921,
-    "handle": "Jaimin003",
-    "country": "India"
-  },
-  {
-    "rank": 4932,
-    "handle": "navahc09",
-    "country": "India"
-  },
-  {
-    "rank": 4936,
-    "handle": "karthikeya48",
-    "country": "India"
-  },
-  {
-    "rank": 4943,
-    "handle": "alyosha",
-    "country": "India"
-  },
-  {
-    "rank": 4945,
-    "handle": "Santhu_01",
-    "country": "India"
-  },
-  {
-    "rank": 4950,
-    "handle": "Purush9983",
-    "country": "India"
-  },
-  {
-    "rank": 4952,
-    "handle": "9315695614khanhjhbh",
-    "country": "India"
-  },
-  {
-    "rank": 4958,
-    "handle": "dhruv_lakhani94",
-    "country": "India"
-  },
-  {
-    "rank": 4961,
-    "handle": "ShaikAbdulSameer",
-    "country": "India"
-  },
-  {
-    "rank": 4962,
-    "handle": "rockstar_op_ar",
-    "country": "India"
-  },
-  {
-    "rank": 4966,
-    "handle": "tee_01",
-    "country": "India"
-  },
-  {
-    "rank": 4970,
-    "handle": "krbd04",
-    "country": "India"
-  },
-  {
-    "rank": 4973,
-    "handle": "DeXTer-69",
-    "country": "India"
-  },
-  {
-    "rank": 4978,
-    "handle": "sujal100",
-    "country": "India"
-  },
-  {
-    "rank": 4988,
-    "handle": "Thorfinn_",
-    "country": "India"
-  },
-  {
-    "rank": 4991,
-    "handle": "Honoured_1",
-    "country": "India"
-  },
-  {
-    "rank": 4999,
-    "handle": "vinitp866",
-    "country": "India"
-  },
-  {
-    "rank": 5006,
-    "handle": "7_7_7_7_",
-    "country": "India"
-  },
-  {
-    "rank": 5007,
-    "handle": "ydv_m_k",
-    "country": "India"
-  },
-  {
-    "rank": 5012,
-    "handle": "Harsh2005",
-    "country": "India"
-  },
-  {
-    "rank": 5015,
-    "handle": "9thJune2006",
-    "country": "India"
-  },
-  {
-    "rank": 5032,
-    "handle": "pushpraj_singh",
-    "country": "India"
-  },
-  {
-    "rank": 5038,
-    "handle": "harshalhadke48",
-    "country": "India"
-  },
-  {
-    "rank": 5039,
-    "handle": "shubhuCodes",
-    "country": "India"
-  },
-  {
-    "rank": 5048,
-    "handle": "BeyonderxX",
-    "country": "India"
-  },
-  {
-    "rank": 5054,
-    "handle": "vasishta_04",
-    "country": "India"
-  },
-  {
-    "rank": 5058,
-    "handle": "VaiseIamHere",
-    "country": "India"
-  },
-  {
-    "rank": 5070,
-    "handle": "srikar2429",
-    "country": "India"
-  },
-  {
-    "rank": 5073,
-    "handle": "__severus__",
-    "country": "India"
-  },
-  {
-    "rank": 5076,
-    "handle": "code_par",
-    "country": "India"
-  },
-  {
-    "rank": 5080,
-    "handle": "sagesofindia",
-    "country": "India"
-  },
-  {
-    "rank": 5089,
-    "handle": "sas39",
-    "country": "India"
-  },
-  {
-    "rank": 5107,
-    "handle": "prtxdongare",
-    "country": "India"
-  },
-  {
-    "rank": 5111,
-    "handle": "lucky1426shrma",
-    "country": "India"
-  },
-  {
-    "rank": 5132,
-    "handle": "prakhar7472pk",
-    "country": "India"
-  },
-  {
-    "rank": 5140,
-    "handle": "Siddhanttiwari_174",
-    "country": "India"
-  },
-  {
-    "rank": 5145,
-    "handle": "shashwat_ss",
-    "country": "India"
-  },
-  {
-    "rank": 5149,
-    "handle": "j.uday",
-    "country": "India"
-  },
-  {
-    "rank": 5154,
-    "handle": "popeye16",
-    "country": "India"
-  },
-  {
-    "rank": 5161,
-    "handle": "gsri_18",
-    "country": "India"
-  },
-  {
-    "rank": 5179,
-    "handle": "SMT_SA",
-    "country": "India"
-  },
-  {
-    "rank": 5183,
-    "handle": "SHUBHAM_SINGH_PATEL__",
-    "country": "India"
-  },
-  {
-    "rank": 5187,
-    "handle": "arpitpathak",
-    "country": "India"
-  },
-  {
-    "rank": 5197,
-    "handle": "no_its_becky",
-    "country": "India"
-  },
-  {
-    "rank": 5215,
-    "handle": "rajpookie",
-    "country": "India"
-  },
-  {
-    "rank": 5216,
-    "handle": "Vikas_56",
-    "country": "India"
-  },
-  {
-    "rank": 5232,
-    "handle": "khan.daniyal1329",
-    "country": "India"
-  },
-  {
-    "rank": 5240,
-    "handle": "Shrek38",
-    "country": "India"
-  },
-  {
-    "rank": 5249,
-    "handle": "duvvurisamanvith",
-    "country": "India"
-  },
-  {
-    "rank": 5251,
-    "handle": "KrishnaSh1355",
-    "country": "India"
-  },
-  {
-    "rank": 5253,
-    "handle": "Deadpool_11",
-    "country": "India"
-  },
-  {
-    "rank": 5254,
-    "handle": "himanshi_srivastav",
-    "country": "India"
-  },
-  {
-    "rank": 5256,
-    "handle": "niggaballs",
-    "country": "India"
-  },
-  {
-    "rank": 5257,
-    "handle": "AtulKS",
-    "country": "India"
-  },
-  {
-    "rank": 5260,
-    "handle": "Lucky_2004",
-    "country": "India"
-  },
-  {
-    "rank": 5268,
-    "handle": "ANUSHRI_T",
-    "country": "India"
-  },
-  {
-    "rank": 5270,
-    "handle": "ObviouslyBhavya",
-    "country": "India"
-  },
-  {
-    "rank": 5279,
-    "handle": "manyuMG",
-    "country": "India"
-  },
-  {
-    "rank": 5285,
-    "handle": "guptavishu1000",
-    "country": "India"
-  },
-  {
-    "rank": 5291,
-    "handle": "parteekoncode",
-    "country": "India"
-  },
-  {
-    "rank": 5296,
-    "handle": "Ujjwal_Gupta_96",
-    "country": "India"
-  },
-  {
-    "rank": 5302,
-    "handle": "000nobody000",
-    "country": "India"
-  },
-  {
-    "rank": 5303,
-    "handle": "sohamgupta.1515",
-    "country": "India"
-  },
-  {
-    "rank": 5315,
-    "handle": "cache_123",
-    "country": "India"
-  },
-  {
-    "rank": 5317,
-    "handle": "REtoAC2001",
-    "country": "India"
-  },
-  {
-    "rank": 5325,
-    "handle": "REDVED",
-    "country": "India"
-  },
-  {
-    "rank": 5332,
-    "handle": "tusharrajput2008",
-    "country": "India"
-  },
-  {
-    "rank": 5337,
-    "handle": "sudhanshu9028",
-    "country": "India"
-  },
-  {
-    "rank": 5339,
-    "handle": "nicks10905",
-    "country": "India"
-  },
-  {
-    "rank": 5342,
-    "handle": "Mayank_kumar1710",
-    "country": "India"
-  },
-  {
-    "rank": 5343,
-    "handle": "prateeksahu_45",
-    "country": "India"
-  },
-  {
-    "rank": 5353,
-    "handle": "Nerdy_specs11",
-    "country": "India"
-  },
-  {
-    "rank": 5359,
-    "handle": "coderranjeete",
-    "country": "India"
-  },
-  {
-    "rank": 5360,
-    "handle": "Shivansh_Srivastava",
-    "country": "India"
-  },
-  {
-    "rank": 5361,
-    "handle": "GauravYadavAtWork",
-    "country": "India"
-  },
-  {
-    "rank": 5371,
-    "handle": "Phoenix_1729",
-    "country": "India"
-  },
-  {
-    "rank": 5382,
-    "handle": "narayanp",
-    "country": "India"
-  },
-  {
-    "rank": 5389,
-    "handle": "Chaitu123432",
-    "country": "India"
-  },
-  {
-    "rank": 5391,
-    "handle": "vimaaan",
-    "country": "India"
-  },
-  {
-    "rank": 5403,
-    "handle": "Redemptionizer_72",
-    "country": "India"
-  },
-  {
-    "rank": 5410,
-    "handle": "arnavra3",
-    "country": "India"
-  },
-  {
-    "rank": 5418,
+    "rank": 240,
     "handle": "ImSarthak",
     "country": "India"
   },
   {
-    "rank": 5428,
+    "rank": 243,
+    "handle": "dpsvoyager.16",
+    "country": "India"
+  },
+  {
+    "rank": 247,
+    "handle": "clueless_girrafe",
+    "country": "India"
+  },
+  {
+    "rank": 251,
+    "handle": "hecker_dt",
+    "country": "India"
+  },
+  {
+    "rank": 253,
+    "handle": "The_Elephant",
+    "country": "India"
+  },
+  {
+    "rank": 258,
+    "handle": "Crick26",
+    "country": "India"
+  },
+  {
+    "rank": 266,
+    "handle": "pienotpi",
+    "country": "India"
+  },
+  {
+    "rank": 267,
+    "handle": "abhijeetballabh_23",
+    "country": "India"
+  },
+  {
+    "rank": 270,
+    "handle": "AS23",
+    "country": "India"
+  },
+  {
+    "rank": 273,
+    "handle": "tryingoutcp",
+    "country": "India"
+  },
+  {
+    "rank": 278,
+    "handle": "ashish1729",
+    "country": "India"
+  },
+  {
+    "rank": 280,
+    "handle": "Shashwat_skr",
+    "country": "India"
+  },
+  {
+    "rank": 281,
+    "handle": "jenil0108",
+    "country": "India"
+  },
+  {
+    "rank": 292,
+    "handle": "AgrimGoyal",
+    "country": "India"
+  },
+  {
+    "rank": 298,
+    "handle": "3rrSensei",
+    "country": "India"
+  },
+  {
+    "rank": 300,
+    "handle": "chethan78",
+    "country": "India"
+  },
+  {
+    "rank": 303,
+    "handle": "naitik_agrawal",
+    "country": "India"
+  },
+  {
+    "rank": 306,
+    "handle": "Harshvardhan_Acharya",
+    "country": "India"
+  },
+  {
+    "rank": 309,
+    "handle": "Balu2907",
+    "country": "India"
+  },
+  {
+    "rank": 319,
+    "handle": "cricrazy_001",
+    "country": "India"
+  },
+  {
+    "rank": 324,
+    "handle": "Adith1000",
+    "country": "India"
+  },
+  {
+    "rank": 327,
+    "handle": "ayuxhkumxr22",
+    "country": "India"
+  },
+  {
+    "rank": 335,
+    "handle": "_greedy",
+    "country": "India"
+  },
+  {
+    "rank": 339,
+    "handle": "zapwiz22",
+    "country": "India"
+  },
+  {
+    "rank": 342,
+    "handle": "dhruvcodes423",
+    "country": "India"
+  },
+  {
+    "rank": 345,
+    "handle": "pavan_santhosh",
+    "country": "India"
+  },
+  {
+    "rank": 346,
+    "handle": "Tanmay1618",
+    "country": "India"
+  },
+  {
+    "rank": 349,
+    "handle": "hemanshuraheja",
+    "country": "India"
+  },
+  {
+    "rank": 352,
+    "handle": "adityasingh99",
+    "country": "India"
+  },
+  {
+    "rank": 362,
+    "handle": "Yasho_ham",
+    "country": "India"
+  },
+  {
+    "rank": 363,
+    "handle": "dakshat",
+    "country": "India"
+  },
+  {
+    "rank": 367,
+    "handle": "lakshyatyagi",
+    "country": "India"
+  },
+  {
+    "rank": 371,
+    "handle": "ajaydhakar.exe",
+    "country": "India"
+  },
+  {
+    "rank": 374,
+    "handle": "sarthakgangwal",
+    "country": "India"
+  },
+  {
+    "rank": 375,
+    "handle": "ramu1440",
+    "country": "India"
+  },
+  {
+    "rank": 377,
+    "handle": "yeetholmes619",
+    "country": "India"
+  },
+  {
+    "rank": 398,
+    "handle": "naresh1",
+    "country": "India"
+  },
+  {
+    "rank": 405,
+    "handle": "El-Metador",
+    "country": "India"
+  },
+  {
+    "rank": 410,
+    "handle": "BitCrafter",
+    "country": "India"
+  },
+  {
+    "rank": 419,
+    "handle": "Manas_DixiT",
+    "country": "India"
+  },
+  {
+    "rank": 420,
+    "handle": "SHREYANSHJAIN",
+    "country": "India"
+  },
+  {
+    "rank": 423,
+    "handle": "Darsh_Jain",
+    "country": "India"
+  },
+  {
+    "rank": 426,
+    "handle": "MegaUmbreon",
+    "country": "India"
+  },
+  {
+    "rank": 431,
+    "handle": "Patta_gobhi_",
+    "country": "India"
+  },
+  {
+    "rank": 433,
+    "handle": "nikT",
+    "country": "India"
+  },
+  {
+    "rank": 440,
+    "handle": "Rupam_09",
+    "country": "India"
+  },
+  {
+    "rank": 444,
+    "handle": "Vikas_soni",
+    "country": "India"
+  },
+  {
+    "rank": 449,
+    "handle": "ritam1234",
+    "country": "India"
+  },
+  {
+    "rank": 454,
+    "handle": "MaiHoonDawn",
+    "country": "India"
+  },
+  {
+    "rank": 458,
+    "handle": "MaLsI_rAmO",
+    "country": "India"
+  },
+  {
+    "rank": 462,
+    "handle": "muskan05gupta",
+    "country": "India"
+  },
+  {
+    "rank": 476,
+    "handle": "AlgoRithmic91",
+    "country": "India"
+  },
+  {
+    "rank": 484,
+    "handle": "i_squared",
+    "country": "India"
+  },
+  {
+    "rank": 488,
+    "handle": "NeverSpot",
+    "country": "India"
+  },
+  {
+    "rank": 504,
+    "handle": "contests_superhero",
+    "country": "India"
+  },
+  {
+    "rank": 508,
+    "handle": "SidM007",
+    "country": "India"
+  },
+  {
+    "rank": 513,
+    "handle": "ReaperScythe21",
+    "country": "India"
+  },
+  {
+    "rank": 517,
+    "handle": "pulkit_garg14",
+    "country": "India"
+  },
+  {
+    "rank": 519,
+    "handle": "ninjaHattori1",
+    "country": "India"
+  },
+  {
+    "rank": 527,
+    "handle": "chiragoncf",
+    "country": "India"
+  },
+  {
+    "rank": 531,
+    "handle": "NeeeraJ",
+    "country": "India"
+  },
+  {
+    "rank": 533,
+    "handle": "lazycoder1601",
+    "country": "India"
+  },
+  {
+    "rank": 536,
+    "handle": "KaijuNoXero",
+    "country": "India"
+  },
+  {
+    "rank": 542,
+    "handle": "Akhil_09",
+    "country": "India"
+  },
+  {
+    "rank": 544,
+    "handle": "esh_war2",
+    "country": "India"
+  },
+  {
+    "rank": 548,
+    "handle": "muditmangal05",
+    "country": "India"
+  },
+  {
+    "rank": 551,
+    "handle": "__SAHIL_",
+    "country": "India"
+  },
+  {
+    "rank": 562,
+    "handle": "praveen_sr1",
+    "country": "India"
+  },
+  {
+    "rank": 563,
+    "handle": "uttej_777",
+    "country": "India"
+  },
+  {
+    "rank": 570,
+    "handle": "Serial_Coder",
+    "country": "India"
+  },
+  {
+    "rank": 573,
+    "handle": "AkShukla",
+    "country": "India"
+  },
+  {
+    "rank": 576,
+    "handle": "being_the_one",
+    "country": "India"
+  },
+  {
+    "rank": 579,
+    "handle": "brokesoul",
+    "country": "India"
+  },
+  {
+    "rank": 587,
+    "handle": "naveenthumati95",
+    "country": "India"
+  },
+  {
+    "rank": 598,
+    "handle": "sahil_beck",
+    "country": "India"
+  },
+  {
+    "rank": 602,
+    "handle": "kalpitdon7",
+    "country": "India"
+  },
+  {
+    "rank": 604,
+    "handle": "thotakesavachandra",
+    "country": "India"
+  },
+  {
+    "rank": 617,
+    "handle": "landour",
+    "country": "India"
+  },
+  {
+    "rank": 630,
+    "handle": "tanishqmandhane2005",
+    "country": "India"
+  },
+  {
+    "rank": 633,
+    "handle": "codevode",
+    "country": "India"
+  },
+  {
+    "rank": 635,
+    "handle": "Aryan_Jaiswal28",
+    "country": "India"
+  },
+  {
+    "rank": 640,
+    "handle": "jatint_05",
+    "country": "India"
+  },
+  {
+    "rank": 647,
+    "handle": "Newbie181",
+    "country": "India"
+  },
+  {
+    "rank": 656,
+    "handle": "abhinavawasthi",
+    "country": "India"
+  },
+  {
+    "rank": 661,
+    "handle": "guptaparth1911",
+    "country": "India"
+  },
+  {
+    "rank": 664,
+    "handle": "WrongAnswerOnTestCase2",
+    "country": "India"
+  },
+  {
+    "rank": 668,
+    "handle": "soulfull",
+    "country": "India"
+  },
+  {
+    "rank": 676,
+    "handle": "Supersidd",
+    "country": "India"
+  },
+  {
+    "rank": 679,
+    "handle": "AbhinavSinghVishen",
+    "country": "India"
+  },
+  {
+    "rank": 690,
+    "handle": "Dresist",
+    "country": "India"
+  },
+  {
+    "rank": 695,
+    "handle": "1DG",
+    "country": "India"
+  },
+  {
+    "rank": 706,
+    "handle": "Maverick_869",
+    "country": "India"
+  },
+  {
+    "rank": 713,
+    "handle": "arnavra3",
+    "country": "India"
+  },
+  {
+    "rank": 715,
+    "handle": "nowayjose",
+    "country": "India"
+  },
+  {
+    "rank": 716,
+    "handle": "RameshD",
+    "country": "India"
+  },
+  {
+    "rank": 719,
+    "handle": "zoroooo",
+    "country": "India"
+  },
+  {
+    "rank": 723,
+    "handle": "Slamix",
+    "country": "India"
+  },
+  {
+    "rank": 727,
+    "handle": "RustyIce",
+    "country": "India"
+  },
+  {
+    "rank": 733,
+    "handle": "Ruthvik2835",
+    "country": "India"
+  },
+  {
+    "rank": 734,
+    "handle": "ChickenTamer",
+    "country": "India"
+  },
+  {
+    "rank": 738,
+    "handle": "BoltzZ",
+    "country": "India"
+  },
+  {
+    "rank": 741,
+    "handle": "abhinavgangil",
+    "country": "India"
+  },
+  {
+    "rank": 747,
+    "handle": "_CrazyForCode_",
+    "country": "India"
+  },
+  {
+    "rank": 754,
+    "handle": "dishantttt",
+    "country": "India"
+  },
+  {
+    "rank": 758,
+    "handle": "Cannonbolt2704",
+    "country": "India"
+  },
+  {
+    "rank": 760,
+    "handle": "tanish.ag1295",
+    "country": "India"
+  },
+  {
+    "rank": 768,
+    "handle": "Rishiyangala",
+    "country": "India"
+  },
+  {
+    "rank": 770,
+    "handle": "Jatin_prime",
+    "country": "India"
+  },
+  {
+    "rank": 772,
+    "handle": "asterisk11",
+    "country": "India"
+  },
+  {
+    "rank": 782,
+    "handle": "shreyas333",
+    "country": "India"
+  },
+  {
+    "rank": 785,
+    "handle": "Rakshit_1",
+    "country": "India"
+  },
+  {
+    "rank": 793,
+    "handle": "Krypto_Ray",
+    "country": "India"
+  },
+  {
+    "rank": 800,
+    "handle": "shivang_2006",
+    "country": "India"
+  },
+  {
+    "rank": 806,
+    "handle": "puniTT",
+    "country": "India"
+  },
+  {
+    "rank": 816,
+    "handle": "Vidush.rk11",
+    "country": "India"
+  },
+  {
+    "rank": 833,
+    "handle": "alpha_6124",
+    "country": "India"
+  },
+  {
+    "rank": 837,
+    "handle": "DaBest",
+    "country": "India"
+  },
+  {
+    "rank": 842,
+    "handle": "deep_n_drap",
+    "country": "India"
+  },
+  {
+    "rank": 845,
+    "handle": "nithin0810",
+    "country": "India"
+  },
+  {
+    "rank": 867,
+    "handle": "sloppy_coder",
+    "country": "India"
+  },
+  {
+    "rank": 872,
+    "handle": "komal417",
+    "country": "India"
+  },
+  {
+    "rank": 879,
+    "handle": "monubhargav",
+    "country": "India"
+  },
+  {
+    "rank": 890,
+    "handle": ".....G.O.A.T.....",
+    "country": "India"
+  },
+  {
+    "rank": 904,
+    "handle": "Hyder1102",
+    "country": "India"
+  },
+  {
+    "rank": 908,
+    "handle": "kunjshah",
+    "country": "India"
+  },
+  {
+    "rank": 918,
+    "handle": "DBP_Heaven",
+    "country": "India"
+  },
+  {
+    "rank": 922,
+    "handle": "KaranBardhan",
+    "country": "India"
+  },
+  {
+    "rank": 926,
+    "handle": "bhajji",
+    "country": "India"
+  },
+  {
+    "rank": 933,
+    "handle": "karthik_reddy_yenugu",
+    "country": "India"
+  },
+  {
+    "rank": 935,
+    "handle": "ompatel45672",
+    "country": "India"
+  },
+  {
+    "rank": 945,
+    "handle": "bhagwandai",
+    "country": "India"
+  },
+  {
+    "rank": 952,
+    "handle": "DeepakPrajapati",
+    "country": "India"
+  },
+  {
+    "rank": 956,
+    "handle": "_o7_",
+    "country": "India"
+  },
+  {
+    "rank": 959,
+    "handle": "_ar07",
+    "country": "India"
+  },
+  {
+    "rank": 962,
+    "handle": "daksh942",
+    "country": "India"
+  },
+  {
+    "rank": 974,
+    "handle": "ritiktayal18",
+    "country": "India"
+  },
+  {
+    "rank": 978,
+    "handle": "TheCypher",
+    "country": "India"
+  },
+  {
+    "rank": 985,
+    "handle": "rohajrohit",
+    "country": "India"
+  },
+  {
+    "rank": 989,
+    "handle": "cse220001042",
+    "country": "India"
+  },
+  {
+    "rank": 993,
+    "handle": "24circles",
+    "country": "India"
+  },
+  {
+    "rank": 997,
+    "handle": "Lightning_crusader",
+    "country": "India"
+  },
+  {
+    "rank": 1003,
+    "handle": "Ankit-cp",
+    "country": "India"
+  },
+  {
+    "rank": 1014,
+    "handle": "jiraiya_chan",
+    "country": "India"
+  },
+  {
+    "rank": 1016,
+    "handle": "rohan_codegiant",
+    "country": "India"
+  },
+  {
+    "rank": 1026,
+    "handle": "Kumar_Abhay",
+    "country": "India"
+  },
+  {
+    "rank": 1036,
+    "handle": "om_malviya",
+    "country": "India"
+  },
+  {
+    "rank": 1049,
+    "handle": "Priyanshu_1.618031",
+    "country": "India"
+  },
+  {
+    "rank": 1054,
+    "handle": "vexo",
+    "country": "India"
+  },
+  {
+    "rank": 1062,
+    "handle": "thelonesailor",
+    "country": "India"
+  },
+  {
+    "rank": 1069,
+    "handle": "_sano_",
+    "country": "India"
+  },
+  {
+    "rank": 1073,
+    "handle": "rushinshah_",
+    "country": "India"
+  },
+  {
+    "rank": 1077,
+    "handle": "sreyas357",
+    "country": "India"
+  },
+  {
+    "rank": 1084,
+    "handle": "astronom1cal",
+    "country": "India"
+  },
+  {
+    "rank": 1087,
+    "handle": "yashu1819",
+    "country": "India"
+  },
+  {
+    "rank": 1091,
+    "handle": "yashkumar22072002",
+    "country": "India"
+  },
+  {
+    "rank": 1096,
+    "handle": "kundan_sai",
+    "country": "India"
+  },
+  {
+    "rank": 1099,
+    "handle": "vanshkalra",
+    "country": "India"
+  },
+  {
+    "rank": 1121,
+    "handle": "shailesh_2004",
+    "country": "India"
+  },
+  {
+    "rank": 1125,
+    "handle": "Zeno07",
+    "country": "India"
+  },
+  {
+    "rank": 1129,
+    "handle": "fart_smella",
+    "country": "India"
+  },
+  {
+    "rank": 1134,
+    "handle": "SherLocked25",
+    "country": "India"
+  },
+  {
+    "rank": 1136,
+    "handle": "priyanshu_2005_",
+    "country": "India"
+  },
+  {
+    "rank": 1138,
+    "handle": "hailcpy",
+    "country": "India"
+  },
+  {
+    "rank": 1146,
+    "handle": "sanju77",
+    "country": "India"
+  },
+  {
+    "rank": 1148,
+    "handle": "Ayush.Verma",
+    "country": "India"
+  },
+  {
+    "rank": 1155,
+    "handle": "Archit_Gogoi",
+    "country": "India"
+  },
+  {
+    "rank": 1167,
+    "handle": "shashankindukuri14",
+    "country": "India"
+  },
+  {
+    "rank": 1171,
+    "handle": "ParthP3",
+    "country": "India"
+  },
+  {
+    "rank": 1176,
+    "handle": "ayush118",
+    "country": "India"
+  },
+  {
+    "rank": 1183,
+    "handle": "hennessey",
+    "country": "India"
+  },
+  {
+    "rank": 1185,
+    "handle": "kipra.2003",
+    "country": "India"
+  },
+  {
+    "rank": 1192,
+    "handle": "raghavb_007",
+    "country": "India"
+  },
+  {
+    "rank": 1196,
+    "handle": "lg01",
+    "country": "India"
+  },
+  {
+    "rank": 1198,
+    "handle": "orange_trie",
+    "country": "India"
+  },
+  {
+    "rank": 1200,
+    "handle": "5121aryan.5121",
+    "country": "India"
+  },
+  {
+    "rank": 1210,
+    "handle": "AG___",
+    "country": "India"
+  },
+  {
+    "rank": 1214,
+    "handle": "pikachu_official",
+    "country": "India"
+  },
+  {
+    "rank": 1215,
+    "handle": "Archit_Modi_21",
+    "country": "India"
+  },
+  {
+    "rank": 1221,
+    "handle": "pc19937",
+    "country": "India"
+  },
+  {
+    "rank": 1227,
+    "handle": "MysticMavericks",
+    "country": "India"
+  },
+  {
+    "rank": 1232,
+    "handle": "Casual_W",
+    "country": "India"
+  },
+  {
+    "rank": 1240,
+    "handle": "POLYMORPHIC_PHANTOM",
+    "country": "India"
+  },
+  {
+    "rank": 1248,
+    "handle": "krish_ag087",
+    "country": "India"
+  },
+  {
+    "rank": 1254,
+    "handle": "lord_rajat",
+    "country": "India"
+  },
+  {
+    "rank": 1256,
+    "handle": "another_fake_account",
+    "country": "India"
+  },
+  {
+    "rank": 1268,
+    "handle": "Amit_Khedar",
+    "country": "India"
+  },
+  {
+    "rank": 1274,
+    "handle": "am_25",
+    "country": "India"
+  },
+  {
+    "rank": 1276,
+    "handle": "harsh1t_t1war1",
+    "country": "India"
+  },
+  {
+    "rank": 1279,
+    "handle": "rishitverma",
+    "country": "India"
+  },
+  {
+    "rank": 1283,
+    "handle": "truth",
+    "country": "India"
+  },
+  {
+    "rank": 1286,
+    "handle": "rahul_iitkgp",
+    "country": "India"
+  },
+  {
+    "rank": 1289,
+    "handle": "yravidheeraj12",
+    "country": "India"
+  },
+  {
+    "rank": 1296,
+    "handle": "yash3292",
+    "country": "India"
+  },
+  {
+    "rank": 1300,
+    "handle": "mzip",
+    "country": "India"
+  },
+  {
+    "rank": 1305,
+    "handle": "AyBarnwal",
+    "country": "India"
+  },
+  {
+    "rank": 1307,
+    "handle": "palakshgoyal1",
+    "country": "India"
+  },
+  {
+    "rank": 1316,
+    "handle": "Akshar_7",
+    "country": "India"
+  },
+  {
+    "rank": 1318,
+    "handle": "parteekoncode",
+    "country": "India"
+  },
+  {
+    "rank": 1329,
     "handle": "siic",
     "country": "India"
   },
   {
-    "rank": 5443,
-    "handle": "Supr_01",
+    "rank": 1333,
+    "handle": "YASH_VENOM",
     "country": "India"
   },
   {
-    "rank": 5459,
-    "handle": "Tushar444",
+    "rank": 1336,
+    "handle": "niggaballs",
     "country": "India"
   },
   {
-    "rank": 5470,
-    "handle": "TiwoeeM",
+    "rank": 1345,
+    "handle": "Mayank_kumar1710",
     "country": "India"
   },
   {
-    "rank": 5504,
-    "handle": "hgopani",
+    "rank": 1346,
+    "handle": "shobyy",
     "country": "India"
   },
   {
-    "rank": 5516,
-    "handle": "0718_lakshya",
+    "rank": 1349,
+    "handle": "Soumil_Patria",
     "country": "India"
   },
   {
-    "rank": 5528,
+    "rank": 1353,
+    "handle": "soham_c04",
+    "country": "India"
+  },
+  {
+    "rank": 1357,
+    "handle": "BitSlayer",
+    "country": "India"
+  },
+  {
+    "rank": 1360,
+    "handle": "Sid_7905",
+    "country": "India"
+  },
+  {
+    "rank": 1366,
+    "handle": "djh3",
+    "country": "India"
+  },
+  {
+    "rank": 1377,
+    "handle": "nirbhay_singh499",
+    "country": "India"
+  },
+  {
+    "rank": 1381,
+    "handle": "saurabh_12_IITI",
+    "country": "India"
+  },
+  {
+    "rank": 1400,
+    "handle": "AutumnBells",
+    "country": "India"
+  },
+  {
+    "rank": 1413,
+    "handle": "sushmanth.dampur8780",
+    "country": "India"
+  },
+  {
+    "rank": 1426,
+    "handle": "karock",
+    "country": "India"
+  },
+  {
+    "rank": 1431,
+    "handle": "chauhanasheesh",
+    "country": "India"
+  },
+  {
+    "rank": 1433,
+    "handle": "KaSo06",
+    "country": "India"
+  },
+  {
+    "rank": 1444,
+    "handle": "Neet0110",
+    "country": "India"
+  },
+  {
+    "rank": 1450,
+    "handle": "Ad28",
+    "country": "India"
+  },
+  {
+    "rank": 1452,
+    "handle": "_paras_",
+    "country": "India"
+  },
+  {
+    "rank": 1464,
+    "handle": "Redpanda_x",
+    "country": "India"
+  },
+  {
+    "rank": 1469,
+    "handle": "samar09",
+    "country": "India"
+  },
+  {
+    "rank": 1473,
+    "handle": "Mohak_25",
+    "country": "India"
+  },
+  {
+    "rank": 1478,
+    "handle": "SD_drago",
+    "country": "India"
+  },
+  {
+    "rank": 1483,
+    "handle": "vedic86",
+    "country": "India"
+  },
+  {
+    "rank": 1488,
+    "handle": "deepanshusau",
+    "country": "India"
+  },
+  {
+    "rank": 1492,
+    "handle": "itisdevansh",
+    "country": "India"
+  },
+  {
+    "rank": 1508,
+    "handle": "sridhanush1208",
+    "country": "India"
+  },
+  {
+    "rank": 1521,
+    "handle": "Kushal_Gunala",
+    "country": "India"
+  },
+  {
+    "rank": 1538,
+    "handle": "hqcoder",
+    "country": "India"
+  },
+  {
+    "rank": 1541,
+    "handle": "grim.reaper.25",
+    "country": "India"
+  },
+  {
+    "rank": 1546,
+    "handle": "grecil",
+    "country": "India"
+  },
+  {
+    "rank": 1548,
+    "handle": "ihgazi",
+    "country": "India"
+  },
+  {
+    "rank": 1551,
+    "handle": "smthing_dfrnt",
+    "country": "India"
+  },
+  {
+    "rank": 1560,
+    "handle": "Normie_007",
+    "country": "India"
+  },
+  {
+    "rank": 1573,
+    "handle": "TanMinati",
+    "country": "India"
+  },
+  {
+    "rank": 1574,
+    "handle": "Pratham18",
+    "country": "India"
+  },
+  {
+    "rank": 1581,
+    "handle": "Sidd_Rai",
+    "country": "India"
+  },
+  {
+    "rank": 1584,
+    "handle": "ForDiv3Only-DontGoBlue",
+    "country": "India"
+  },
+  {
+    "rank": 1592,
+    "handle": "parthsarthidutt_45",
+    "country": "India"
+  },
+  {
+    "rank": 1599,
+    "handle": "magnus_carlsen_h",
+    "country": "India"
+  },
+  {
+    "rank": 1601,
+    "handle": "ydv_m_k",
+    "country": "India"
+  },
+  {
+    "rank": 1604,
+    "handle": "Arsh_Chand",
+    "country": "India"
+  },
+  {
+    "rank": 1606,
+    "handle": "rock0fages",
+    "country": "India"
+  },
+  {
+    "rank": 1627,
+    "handle": "devraushan",
+    "country": "India"
+  },
+  {
+    "rank": 1630,
+    "handle": "souvikofculture",
+    "country": "India"
+  },
+  {
+    "rank": 1649,
     "handle": "AryanArya02",
     "country": "India"
   },
   {
-    "rank": 5562,
-    "handle": "AdityaMishraOG",
+    "rank": 1659,
+    "handle": "Garvit_Goyal",
     "country": "India"
   },
   {
-    "rank": 5577,
-    "handle": "Varun_Kumar27",
+    "rank": 1664,
+    "handle": "aditya1064",
     "country": "India"
   },
   {
-    "rank": 5600,
-    "handle": "nio2004",
+    "rank": 1667,
+    "handle": "king2008",
+    "country": "India"
+  },
+  {
+    "rank": 1669,
+    "handle": "Animesh_369",
+    "country": "India"
+  },
+  {
+    "rank": 1671,
+    "handle": "prasoon107",
+    "country": "India"
+  },
+  {
+    "rank": 1677,
+    "handle": "gagandeep.singh",
+    "country": "India"
+  },
+  {
+    "rank": 1681,
+    "handle": "Mr__D",
+    "country": "India"
+  },
+  {
+    "rank": 1687,
+    "handle": "Shahidtk",
+    "country": "India"
+  },
+  {
+    "rank": 1695,
+    "handle": "Nmj2504",
+    "country": "India"
+  },
+  {
+    "rank": 1703,
+    "handle": "venkatasaikarthik2006",
+    "country": "India"
+  },
+  {
+    "rank": 1704,
+    "handle": "Yaichi",
+    "country": "India"
+  },
+  {
+    "rank": 1710,
+    "handle": "_gautam_11",
+    "country": "India"
+  },
+  {
+    "rank": 1714,
+    "handle": "JK_9054",
+    "country": "India"
+  },
+  {
+    "rank": 1721,
+    "handle": "blazedishoon1409",
+    "country": "India"
+  },
+  {
+    "rank": 1722,
+    "handle": "saiadarsh_1",
+    "country": "India"
+  },
+  {
+    "rank": 1727,
+    "handle": "73501",
+    "country": "India"
+  },
+  {
+    "rank": 1731,
+    "handle": "niku_raaz",
+    "country": "India"
+  },
+  {
+    "rank": 1734,
+    "handle": "shreeram77",
+    "country": "India"
+  },
+  {
+    "rank": 1737,
+    "handle": "Kunal_K99418",
+    "country": "India"
+  },
+  {
+    "rank": 1742,
+    "handle": "JBR_CP_1000101",
+    "country": "India"
+  },
+  {
+    "rank": 1745,
+    "handle": "Arpit0123",
+    "country": "India"
+  },
+  {
+    "rank": 1749,
+    "handle": "maichelyamaha",
+    "country": "India"
+  },
+  {
+    "rank": 1753,
+    "handle": "sr2706",
+    "country": "India"
+  },
+  {
+    "rank": 1759,
+    "handle": "aanjaneyeah",
+    "country": "India"
+  },
+  {
+    "rank": 1762,
+    "handle": "kunalgul",
+    "country": "India"
+  },
+  {
+    "rank": 1774,
+    "handle": "Swayamo",
+    "country": "India"
+  },
+  {
+    "rank": 1781,
+    "handle": "RishikeshChaudhari",
+    "country": "India"
+  },
+  {
+    "rank": 1786,
+    "handle": "PhoenixTejas",
+    "country": "India"
+  },
+  {
+    "rank": 1788,
+    "handle": "Saksham_Garg48",
+    "country": "India"
+  },
+  {
+    "rank": 1799,
+    "handle": "there_was_a_blog_3dots",
+    "country": "India"
+  },
+  {
+    "rank": 1810,
+    "handle": "kartik4323",
+    "country": "India"
+  },
+  {
+    "rank": 1814,
+    "handle": "_sudhanshu",
+    "country": "India"
+  },
+  {
+    "rank": 1828,
+    "handle": "panchangamakhil",
+    "country": "India"
+  },
+  {
+    "rank": 1833,
+    "handle": "OP_JASH",
+    "country": "India"
+  },
+  {
+    "rank": 1834,
+    "handle": "sayon29",
+    "country": "India"
+  },
+  {
+    "rank": 1837,
+    "handle": "ajeetsingha2255",
+    "country": "India"
+  },
+  {
+    "rank": 1845,
+    "handle": "aryankesharwani142004",
+    "country": "India"
+  },
+  {
+    "rank": 1852,
+    "handle": "sayansamantabirth2005",
+    "country": "India"
+  },
+  {
+    "rank": 1859,
+    "handle": "FRshubham",
+    "country": "India"
+  },
+  {
+    "rank": 1862,
+    "handle": "Ayanokojii",
+    "country": "India"
+  },
+  {
+    "rank": 1865,
+    "handle": "Jenil_01",
+    "country": "India"
+  },
+  {
+    "rank": 1868,
+    "handle": "vedant-k",
+    "country": "India"
+  },
+  {
+    "rank": 1871,
+    "handle": "Pranvesh",
+    "country": "India"
+  },
+  {
+    "rank": 1877,
+    "handle": "sranjodh",
+    "country": "India"
+  },
+  {
+    "rank": 1886,
+    "handle": "Yoder2k4",
+    "country": "India"
+  },
+  {
+    "rank": 1888,
+    "handle": "amrutenac4",
+    "country": "India"
+  },
+  {
+    "rank": 1894,
+    "handle": "darkphoenix2208",
+    "country": "India"
+  },
+  {
+    "rank": 1898,
+    "handle": "srujal194",
+    "country": "India"
+  },
+  {
+    "rank": 1900,
+    "handle": "Speedster1010",
+    "country": "India"
+  },
+  {
+    "rank": 1912,
+    "handle": "Bruten",
+    "country": "India"
+  },
+  {
+    "rank": 1916,
+    "handle": "grandfather",
+    "country": "India"
+  },
+  {
+    "rank": 1919,
+    "handle": "maulik_sharma",
+    "country": "India"
+  },
+  {
+    "rank": 1921,
+    "handle": "zero7",
+    "country": "India"
+  },
+  {
+    "rank": 1924,
+    "handle": "_Tarks",
+    "country": "India"
+  },
+  {
+    "rank": 1926,
+    "handle": "Zeeshan9173",
+    "country": "India"
+  },
+  {
+    "rank": 1928,
+    "handle": "NaRsU_98",
+    "country": "India"
+  },
+  {
+    "rank": 1932,
+    "handle": "prakhar7472pk",
+    "country": "India"
+  },
+  {
+    "rank": 1947,
+    "handle": "yadvendra_iitd",
+    "country": "India"
+  },
+  {
+    "rank": 1958,
+    "handle": "alpha1215",
+    "country": "India"
+  },
+  {
+    "rank": 1967,
+    "handle": "Karthik1812",
+    "country": "India"
+  },
+  {
+    "rank": 1976,
+    "handle": "rishmish0806",
+    "country": "India"
+  },
+  {
+    "rank": 1979,
+    "handle": "Anand_Bharti",
+    "country": "India"
+  },
+  {
+    "rank": 1984,
+    "handle": "pavan_potluri",
+    "country": "India"
+  },
+  {
+    "rank": 1986,
+    "handle": "Sai_Lokesh_789",
+    "country": "India"
+  },
+  {
+    "rank": 1989,
+    "handle": "novus547",
+    "country": "India"
+  },
+  {
+    "rank": 1993,
+    "handle": "Sidhant08",
+    "country": "India"
+  },
+  {
+    "rank": 1996,
+    "handle": "Abhishek5944",
+    "country": "India"
+  },
+  {
+    "rank": 1999,
+    "handle": "flameZ",
+    "country": "India"
+  },
+  {
+    "rank": 2006,
+    "handle": "arshad_shahzeb",
+    "country": "India"
+  },
+  {
+    "rank": 2014,
+    "handle": "once_and_again",
+    "country": "India"
+  },
+  {
+    "rank": 2017,
+    "handle": "ShadowBurst",
+    "country": "India"
+  },
+  {
+    "rank": 2023,
+    "handle": "Sohail_Kasmani",
+    "country": "India"
+  },
+  {
+    "rank": 2025,
+    "handle": "Devblitz",
+    "country": "India"
+  },
+  {
+    "rank": 2028,
+    "handle": "tuberculosis",
+    "country": "India"
+  },
+  {
+    "rank": 2030,
+    "handle": "debnathdipayan042",
+    "country": "India"
+  },
+  {
+    "rank": 2035,
+    "handle": "YLNarasimha1711",
+    "country": "India"
+  },
+  {
+    "rank": 2037,
+    "handle": "parekh",
+    "country": "India"
+  },
+  {
+    "rank": 2040,
+    "handle": "vaibhavseksaria",
+    "country": "India"
+  },
+  {
+    "rank": 2041,
+    "handle": "Blue_Orchid",
+    "country": "India"
+  },
+  {
+    "rank": 2045,
+    "handle": "Sk2003_23",
+    "country": "India"
+  },
+  {
+    "rank": 2047,
+    "handle": "Harsh_Goladara",
+    "country": "India"
+  },
+  {
+    "rank": 2049,
+    "handle": "yvmr_33",
+    "country": "India"
+  },
+  {
+    "rank": 2057,
+    "handle": "DSKroc",
+    "country": "India"
+  },
+  {
+    "rank": 2067,
+    "handle": "Raj_Tiwari",
+    "country": "India"
+  },
+  {
+    "rank": 2079,
+    "handle": "lazy_tree",
+    "country": "India"
+  },
+  {
+    "rank": 2084,
+    "handle": "dhruvrajdo005",
+    "country": "India"
+  },
+  {
+    "rank": 2086,
+    "handle": "rishirathore214",
+    "country": "India"
+  },
+  {
+    "rank": 2094,
+    "handle": "SAJAL_JAINN",
+    "country": "India"
+  },
+  {
+    "rank": 2095,
+    "handle": "Jithesh_Reddy",
+    "country": "India"
+  },
+  {
+    "rank": 2100,
+    "handle": "Pos_E1",
+    "country": "India"
+  },
+  {
+    "rank": 2103,
+    "handle": "walter_whitee",
+    "country": "India"
+  },
+  {
+    "rank": 2107,
+    "handle": "MayankGaurav",
+    "country": "India"
+  },
+  {
+    "rank": 2122,
+    "handle": "vss_1307",
+    "country": "India"
+  },
+  {
+    "rank": 2124,
+    "handle": "MASTER_RAFAT",
+    "country": "India"
+  },
+  {
+    "rank": 2133,
+    "handle": "Krutish_Raval",
+    "country": "India"
+  },
+  {
+    "rank": 2143,
+    "handle": "sreejan_gupta",
+    "country": "India"
+  },
+  {
+    "rank": 2151,
+    "handle": "parthagarwal8910",
+    "country": "India"
+  },
+  {
+    "rank": 2154,
+    "handle": "HarshitKing",
+    "country": "India"
+  },
+  {
+    "rank": 2161,
+    "handle": "Animesh15Aug",
+    "country": "India"
+  },
+  {
+    "rank": 2163,
+    "handle": "Chinmay_Kulkarni_Codes",
+    "country": "India"
+  },
+  {
+    "rank": 2168,
+    "handle": "seldonian",
+    "country": "India"
+  },
+  {
+    "rank": 2174,
+    "handle": "raodurlabh",
+    "country": "India"
+  },
+  {
+    "rank": 2178,
+    "handle": "aks_22",
+    "country": "India"
+  },
+  {
+    "rank": 2184,
+    "handle": "Cappybara",
+    "country": "India"
+  },
+  {
+    "rank": 2193,
+    "handle": "-_rehankhan7_-",
+    "country": "India"
+  },
+  {
+    "rank": 2194,
+    "handle": "Abhimanyu_Kadhane",
+    "country": "India"
+  },
+  {
+    "rank": 2204,
+    "handle": "sleepyAdarsh",
+    "country": "India"
+  },
+  {
+    "rank": 2210,
+    "handle": "so_long",
+    "country": "India"
+  },
+  {
+    "rank": 2216,
+    "handle": "7_7_7_7_",
+    "country": "India"
+  },
+  {
+    "rank": 2220,
+    "handle": "koushikgunnam",
+    "country": "India"
+  },
+  {
+    "rank": 2224,
+    "handle": "AmanSR",
+    "country": "India"
+  },
+  {
+    "rank": 2227,
+    "handle": "sky1610",
+    "country": "India"
+  },
+  {
+    "rank": 2228,
+    "handle": "arham005",
+    "country": "India"
+  },
+  {
+    "rank": 2230,
+    "handle": "At_tiwari078",
+    "country": "India"
+  },
+  {
+    "rank": 2231,
+    "handle": "chaitanya_2408",
+    "country": "India"
+  },
+  {
+    "rank": 2234,
+    "handle": "TheLxcifer",
+    "country": "India"
+  },
+  {
+    "rank": 2236,
+    "handle": "Kushi",
+    "country": "India"
+  },
+  {
+    "rank": 2237,
+    "handle": "athiest07",
+    "country": "India"
+  },
+  {
+    "rank": 2240,
+    "handle": "her0raj_21",
+    "country": "India"
+  },
+  {
+    "rank": 2246,
+    "handle": "krishankant05",
+    "country": "India"
+  },
+  {
+    "rank": 2259,
+    "handle": "RajaVamshiNath",
+    "country": "India"
+  },
+  {
+    "rank": 2262,
+    "handle": "NuclearMint",
+    "country": "India"
+  },
+  {
+    "rank": 2272,
+    "handle": "Fusion15",
+    "country": "India"
+  },
+  {
+    "rank": 2277,
+    "handle": "Adgaur027",
+    "country": "India"
+  },
+  {
+    "rank": 2282,
+    "handle": "SyntaxSorcererr",
+    "country": "India"
+  },
+  {
+    "rank": 2286,
+    "handle": "sachinkashi21",
+    "country": "India"
+  },
+  {
+    "rank": 2295,
+    "handle": "Krishhna",
+    "country": "India"
+  },
+  {
+    "rank": 2306,
+    "handle": "dumbquant",
+    "country": "India"
+  },
+  {
+    "rank": 2311,
+    "handle": "apoorvtandon81",
+    "country": "India"
+  },
+  {
+    "rank": 2316,
+    "handle": "nox_owl",
+    "country": "India"
+  },
+  {
+    "rank": 2325,
+    "handle": "akhil",
+    "country": "India"
+  },
+  {
+    "rank": 2328,
+    "handle": "PetrificusTotalus",
+    "country": "India"
+  },
+  {
+    "rank": 2330,
+    "handle": "SiddharthJoshi",
+    "country": "India"
+  },
+  {
+    "rank": 2332,
+    "handle": "anshhhhh",
+    "country": "India"
+  },
+  {
+    "rank": 2334,
+    "handle": "SINNOCENT",
+    "country": "India"
+  },
+  {
+    "rank": 2338,
+    "handle": "sumyuckk",
+    "country": "India"
+  },
+  {
+    "rank": 2345,
+    "handle": "BoundlessBit",
+    "country": "India"
+  },
+  {
+    "rank": 2348,
+    "handle": "jaygoti2006",
+    "country": "India"
+  },
+  {
+    "rank": 2352,
+    "handle": "animan17",
+    "country": "India"
+  },
+  {
+    "rank": 2358,
+    "handle": "ujjawals159",
+    "country": "India"
+  },
+  {
+    "rank": 2362,
+    "handle": "Roshan.029",
+    "country": "India"
+  },
+  {
+    "rank": 2370,
+    "handle": "kgm.kg.m2722",
+    "country": "India"
+  },
+  {
+    "rank": 2379,
+    "handle": "Champion",
+    "country": "India"
+  },
+  {
+    "rank": 2383,
+    "handle": "weedish_16",
+    "country": "India"
+  },
+  {
+    "rank": 2399,
+    "handle": "nerfe_d",
+    "country": "India"
+  },
+  {
+    "rank": 2403,
+    "handle": "imSkandTG",
+    "country": "India"
+  },
+  {
+    "rank": 2404,
+    "handle": "seven_mark",
+    "country": "India"
+  },
+  {
+    "rank": 2415,
+    "handle": "zero_92",
+    "country": "India"
+  },
+  {
+    "rank": 2417,
+    "handle": "Iemonjuice",
+    "country": "India"
+  },
+  {
+    "rank": 2424,
+    "handle": "Gits_oel",
+    "country": "India"
+  },
+  {
+    "rank": 2431,
+    "handle": "sujalagrawal",
+    "country": "India"
+  },
+  {
+    "rank": 2434,
+    "handle": "hariom_nabira",
+    "country": "India"
+  },
+  {
+    "rank": 2445,
+    "handle": "Nehal21",
+    "country": "India"
+  },
+  {
+    "rank": 2454,
+    "handle": "amod_24",
+    "country": "India"
+  },
+  {
+    "rank": 2459,
+    "handle": "yashgarg887",
+    "country": "India"
+  },
+  {
+    "rank": 2470,
+    "handle": "arun_7609",
+    "country": "India"
+  },
+  {
+    "rank": 2487,
+    "handle": "advaitrege",
+    "country": "India"
+  },
+  {
+    "rank": 2492,
+    "handle": "MasterMuskan",
+    "country": "India"
+  },
+  {
+    "rank": 2501,
+    "handle": "sohamjiddewar777",
+    "country": "India"
+  },
+  {
+    "rank": 2508,
+    "handle": "PiYuSh._.05",
+    "country": "India"
+  },
+  {
+    "rank": 2512,
+    "handle": "eshaansodhi",
+    "country": "India"
+  },
+  {
+    "rank": 2519,
+    "handle": "Jon_Snow.",
+    "country": "India"
+  },
+  {
+    "rank": 2524,
+    "handle": "yaio.abc",
+    "country": "India"
+  },
+  {
+    "rank": 2531,
+    "handle": "AnkanMisra",
+    "country": "India"
+  },
+  {
+    "rank": 2536,
+    "handle": "khan.daniyal1329",
+    "country": "India"
+  },
+  {
+    "rank": 2543,
+    "handle": "LuzZ_ShayanZ",
+    "country": "India"
+  },
+  {
+    "rank": 2548,
+    "handle": "chiragshirsath",
+    "country": "India"
+  },
+  {
+    "rank": 2564,
+    "handle": "sarthakkjha",
+    "country": "India"
+  },
+  {
+    "rank": 2569,
+    "handle": "Saumya_coder",
+    "country": "India"
+  },
+  {
+    "rank": 2575,
+    "handle": "BigMistake",
+    "country": "India"
+  },
+  {
+    "rank": 2581,
+    "handle": "ShaikAbdulSameer",
+    "country": "India"
+  },
+  {
+    "rank": 2585,
+    "handle": "rum22",
+    "country": "India"
+  },
+  {
+    "rank": 2591,
+    "handle": "mayank1075.mahajan",
+    "country": "India"
+  },
+  {
+    "rank": 2598,
+    "handle": "silentail",
+    "country": "India"
+  },
+  {
+    "rank": 2604,
+    "handle": "keshavmittal31",
+    "country": "India"
+  },
+  {
+    "rank": 2607,
+    "handle": "HaRsH_sHUKlA-",
+    "country": "India"
+  },
+  {
+    "rank": 2613,
+    "handle": "KrishnaSh1355",
+    "country": "India"
+  },
+  {
+    "rank": 2618,
+    "handle": "sriram007cs",
+    "country": "India"
+  },
+  {
+    "rank": 2622,
+    "handle": "LuckyAgrawal",
+    "country": "India"
+  },
+  {
+    "rank": 2625,
+    "handle": "anirudhc69",
+    "country": "India"
+  },
+  {
+    "rank": 2633,
+    "handle": "punisher044",
+    "country": "India"
+  },
+  {
+    "rank": 2637,
+    "handle": "Varalika",
+    "country": "India"
+  },
+  {
+    "rank": 2643,
+    "handle": "aryan26aa",
+    "country": "India"
+  },
+  {
+    "rank": 2648,
+    "handle": "naman_dwivedi",
+    "country": "India"
+  },
+  {
+    "rank": 2665,
+    "handle": "kanishkgupta071",
+    "country": "India"
+  },
+  {
+    "rank": 2674,
+    "handle": "bitthal04",
+    "country": "India"
+  },
+  {
+    "rank": 2677,
+    "handle": "hetvi.kalariya.",
+    "country": "India"
+  },
+  {
+    "rank": 2683,
+    "handle": "progskipper",
+    "country": "India"
+  },
+  {
+    "rank": 2692,
+    "handle": "naveen06699",
+    "country": "India"
+  },
+  {
+    "rank": 2699,
+    "handle": "Maven_19",
+    "country": "India"
+  },
+  {
+    "rank": 2701,
+    "handle": "yuvraj133",
+    "country": "India"
+  },
+  {
+    "rank": 2713,
+    "handle": "hombrecito2580",
+    "country": "India"
+  },
+  {
+    "rank": 2720,
+    "handle": "Kailash01",
+    "country": "India"
+  },
+  {
+    "rank": 2726,
+    "handle": "_etTuBrutE_",
+    "country": "India"
+  },
+  {
+    "rank": 2729,
+    "handle": "adi_tya_710",
+    "country": "India"
+  },
+  {
+    "rank": 2734,
+    "handle": "Ram_2809",
+    "country": "India"
+  },
+  {
+    "rank": 2739,
+    "handle": "prxtxk",
+    "country": "India"
+  },
+  {
+    "rank": 2755,
+    "handle": "Griffiths_",
+    "country": "India"
+  },
+  {
+    "rank": 2759,
+    "handle": "shankhadeepg444",
+    "country": "India"
+  },
+  {
+    "rank": 2765,
+    "handle": "swaraj.unde",
+    "country": "India"
+  },
+  {
+    "rank": 2777,
+    "handle": "manasraj007",
+    "country": "India"
+  },
+  {
+    "rank": 2782,
+    "handle": "ambaliyasho2004",
+    "country": "India"
+  },
+  {
+    "rank": 2790,
+    "handle": "ornaldo7",
+    "country": "India"
+  },
+  {
+    "rank": 2795,
+    "handle": "syssstum_007",
+    "country": "India"
+  },
+  {
+    "rank": 2799,
+    "handle": "Mystical-Nifer",
+    "country": "India"
+  },
+  {
+    "rank": 2809,
+    "handle": "AdityaDSingh",
+    "country": "India"
+  },
+  {
+    "rank": 2812,
+    "handle": "ritviks15",
+    "country": "India"
+  },
+  {
+    "rank": 2816,
+    "handle": "Aman_27p",
+    "country": "India"
+  },
+  {
+    "rank": 2820,
+    "handle": "dijkstra_bull",
+    "country": "India"
+  },
+  {
+    "rank": 2835,
+    "handle": "saurav_chaudhary26",
+    "country": "India"
+  },
+  {
+    "rank": 2842,
+    "handle": "shashank2401",
+    "country": "India"
+  },
+  {
+    "rank": 2849,
+    "handle": "kumardasshankit973",
+    "country": "India"
+  },
+  {
+    "rank": 2853,
+    "handle": "sparshhchandra",
+    "country": "India"
+  },
+  {
+    "rank": 2860,
+    "handle": "keshav_.agg",
+    "country": "India"
+  },
+  {
+    "rank": 2867,
+    "handle": "SLASH_27",
+    "country": "India"
+  },
+  {
+    "rank": 2876,
+    "handle": "manish9660",
+    "country": "India"
+  },
+  {
+    "rank": 2881,
+    "handle": "souvik_jana_",
+    "country": "India"
+  },
+  {
+    "rank": 2887,
+    "handle": "aditya_11_singh",
+    "country": "India"
+  },
+  {
+    "rank": 2893,
+    "handle": "chanakya_sujal",
+    "country": "India"
+  },
+  {
+    "rank": 2896,
+    "handle": "Adarsh__Pal",
+    "country": "India"
+  },
+  {
+    "rank": 2902,
+    "handle": "modi.yash3108",
+    "country": "India"
+  },
+  {
+    "rank": 2905,
+    "handle": "Krishnadev44",
+    "country": "India"
+  },
+  {
+    "rank": 2914,
+    "handle": "ashishraj_4404",
+    "country": "India"
+  },
+  {
+    "rank": 2930,
+    "handle": "amanraj07331",
+    "country": "India"
+  },
+  {
+    "rank": 2935,
+    "handle": "aparna_singha",
+    "country": "India"
+  },
+  {
+    "rank": 2942,
+    "handle": "srikar3010",
+    "country": "India"
+  },
+  {
+    "rank": 2950,
+    "handle": "Vivek15Sahu",
+    "country": "India"
+  },
+  {
+    "rank": 2958,
+    "handle": "KK_rules",
+    "country": "India"
+  },
+  {
+    "rank": 2966,
+    "handle": "Arkadeb",
+    "country": "India"
+  },
+  {
+    "rank": 2971,
+    "handle": "Ricoprogrammer",
+    "country": "India"
+  },
+  {
+    "rank": 2983,
+    "handle": "choudharyyashu054",
+    "country": "India"
+  },
+  {
+    "rank": 2987,
+    "handle": "helem_jose73",
+    "country": "India"
+  },
+  {
+    "rank": 2996,
+    "handle": "b_like_karthik",
+    "country": "India"
+  },
+  {
+    "rank": 3001,
+    "handle": "SIGTERM",
+    "country": "India"
+  },
+  {
+    "rank": 3004,
+    "handle": "srishtik_16",
+    "country": "India"
+  },
+  {
+    "rank": 3011,
+    "handle": "AtulKS",
+    "country": "India"
+  },
+  {
+    "rank": 3015,
+    "handle": "JAYAcoder",
+    "country": "India"
+  },
+  {
+    "rank": 3022,
+    "handle": "Proachtavish",
+    "country": "India"
+  },
+  {
+    "rank": 3026,
+    "handle": "girish_dhakar",
+    "country": "India"
+  },
+  {
+    "rank": 3036,
+    "handle": "ShreyGupta1060",
+    "country": "India"
+  },
+  {
+    "rank": 3045,
+    "handle": "akhilpatnaik10",
+    "country": "India"
+  },
+  {
+    "rank": 3055,
+    "handle": "kiero",
+    "country": "India"
+  },
+  {
+    "rank": 3063,
+    "handle": "CodeSniperMan",
+    "country": "India"
+  },
+  {
+    "rank": 3067,
+    "handle": "boderline",
+    "country": "India"
+  },
+  {
+    "rank": 3077,
+    "handle": "Md_Anas_Ali_Usmani",
+    "country": "India"
+  },
+  {
+    "rank": 3084,
+    "handle": "dhruv_lakhani94",
+    "country": "India"
+  },
+  {
+    "rank": 3091,
+    "handle": "kv_dhruv",
+    "country": "India"
+  },
+  {
+    "rank": 3095,
+    "handle": "Lucifer489",
+    "country": "India"
+  },
+  {
+    "rank": 3106,
+    "handle": "sohailkazi",
+    "country": "India"
+  },
+  {
+    "rank": 3114,
+    "handle": "abhi_atg",
+    "country": "India"
+  },
+  {
+    "rank": 3118,
+    "handle": "kurumi_0_0",
+    "country": "India"
+  },
+  {
+    "rank": 3124,
+    "handle": "nandan-akshit",
+    "country": "India"
+  },
+  {
+    "rank": 3132,
+    "handle": "BharatTaneja01",
+    "country": "India"
+  },
+  {
+    "rank": 3138,
+    "handle": "Harsha884499",
+    "country": "India"
+  },
+  {
+    "rank": 3145,
+    "handle": "Rudra-Pratap",
+    "country": "India"
+  },
+  {
+    "rank": 3151,
+    "handle": "sinistration",
+    "country": "India"
+  },
+  {
+    "rank": 3157,
+    "handle": "0_keshav_0",
+    "country": "India"
+  },
+  {
+    "rank": 3165,
+    "handle": "mightguy106",
+    "country": "India"
+  },
+  {
+    "rank": 3174,
+    "handle": "hvpatel.me",
+    "country": "India"
+  },
+  {
+    "rank": 3183,
+    "handle": "ChatIsThisReal",
+    "country": "India"
+  },
+  {
+    "rank": 3188,
+    "handle": "aryan.dagar",
+    "country": "India"
+  },
+  {
+    "rank": 3194,
+    "handle": "hars_raj",
+    "country": "India"
+  },
+  {
+    "rank": 3206,
+    "handle": "SkywalkerX",
+    "country": "India"
+  },
+  {
+    "rank": 3209,
+    "handle": "boyzz",
+    "country": "India"
+  },
+  {
+    "rank": 3217,
+    "handle": "Ravindra_Rinwa",
+    "country": "India"
+  },
+  {
+    "rank": 3222,
+    "handle": "Newt_ScAmANdeR",
+    "country": "India"
+  },
+  {
+    "rank": 3225,
+    "handle": "vatsal_04",
+    "country": "India"
+  },
+  {
+    "rank": 3230,
+    "handle": "Gojo",
+    "country": "India"
+  },
+  {
+    "rank": 3239,
+    "handle": "LetSSolve",
+    "country": "India"
+  },
+  {
+    "rank": 3250,
+    "handle": "Neev4321",
+    "country": "India"
+  },
+  {
+    "rank": 3260,
+    "handle": "yashrockz",
+    "country": "India"
+  },
+  {
+    "rank": 3265,
+    "handle": "_yo_boii",
+    "country": "India"
+  },
+  {
+    "rank": 3273,
+    "handle": "Poonia",
+    "country": "India"
+  },
+  {
+    "rank": 3280,
+    "handle": "vineetiwari",
+    "country": "India"
+  },
+  {
+    "rank": 3294,
+    "handle": "omgholap",
+    "country": "India"
+  },
+  {
+    "rank": 3305,
+    "handle": "adityagarg006",
+    "country": "India"
+  },
+  {
+    "rank": 3310,
+    "handle": "the_explorer_adarsh",
+    "country": "India"
+  },
+  {
+    "rank": 3318,
+    "handle": "gouravk",
+    "country": "India"
+  },
+  {
+    "rank": 3325,
+    "handle": "Dynamo_14",
+    "country": "India"
+  },
+  {
+    "rank": 3331,
+    "handle": "Ace_18",
+    "country": "India"
+  },
+  {
+    "rank": 3353,
+    "handle": "khandelwalsaksham2105",
+    "country": "India"
+  },
+  {
+    "rank": 3363,
+    "handle": "siddharth1119sid",
+    "country": "India"
+  },
+  {
+    "rank": 3371,
+    "handle": "ch_tushar616",
+    "country": "India"
+  },
+  {
+    "rank": 3375,
+    "handle": "owais78",
+    "country": "India"
+  },
+  {
+    "rank": 3389,
+    "handle": "spideyady",
+    "country": "India"
+  },
+  {
+    "rank": 3398,
+    "handle": "AJ148",
+    "country": "India"
+  },
+  {
+    "rank": 3404,
+    "handle": "ConvxO2",
+    "country": "India"
+  },
+  {
+    "rank": 3411,
+    "handle": "naitikagarwal",
+    "country": "India"
+  },
+  {
+    "rank": 3415,
+    "handle": "umang_does_cp",
+    "country": "India"
+  },
+  {
+    "rank": 3420,
+    "handle": "sai_ravi",
+    "country": "India"
+  },
+  {
+    "rank": 3428,
+    "handle": "PA1_KUMAR_13",
+    "country": "India"
+  },
+  {
+    "rank": 3433,
+    "handle": "-rynk2200",
+    "country": "India"
+  },
+  {
+    "rank": 3438,
+    "handle": "prateekverma1681998",
+    "country": "India"
+  },
+  {
+    "rank": 3446,
+    "handle": "Black_Jesus",
+    "country": "India"
+  },
+  {
+    "rank": 3454,
+    "handle": "adithya19",
+    "country": "India"
+  },
+  {
+    "rank": 3459,
+    "handle": "il-pragadish-aak",
+    "country": "India"
+  },
+  {
+    "rank": 3462,
+    "handle": "ayushmittal007",
+    "country": "India"
+  },
+  {
+    "rank": 3470,
+    "handle": "nullptrx",
+    "country": "India"
+  },
+  {
+    "rank": 3473,
+    "handle": "harshsah006",
+    "country": "India"
+  },
+  {
+    "rank": 3482,
+    "handle": "mastersaksham12345",
+    "country": "India"
+  },
+  {
+    "rank": 3491,
+    "handle": "IEC2024044",
+    "country": "India"
+  },
+  {
+    "rank": 3495,
+    "handle": "pragati6412",
+    "country": "India"
+  },
+  {
+    "rank": 3510,
+    "handle": "deepak_k27",
+    "country": "India"
+  },
+  {
+    "rank": 3516,
+    "handle": "Vanshaj_Bhardwaj",
+    "country": "India"
+  },
+  {
+    "rank": 3528,
+    "handle": "AaryanSriram",
+    "country": "India"
+  },
+  {
+    "rank": 3549,
+    "handle": "itadori_sid21",
+    "country": "India"
+  },
+  {
+    "rank": 3553,
+    "handle": "Saksham_Wadhwa",
+    "country": "India"
+  },
+  {
+    "rank": 3558,
+    "handle": "9ine",
+    "country": "India"
+  },
+  {
+    "rank": 3575,
+    "handle": "khush-010",
+    "country": "India"
+  },
+  {
+    "rank": 3581,
+    "handle": "sidharthankitraj",
+    "country": "India"
+  },
+  {
+    "rank": 3589,
+    "handle": "pratyanch_jain",
+    "country": "India"
+  },
+  {
+    "rank": 3593,
+    "handle": "shivam_goyal_",
+    "country": "India"
+  },
+  {
+    "rank": 3606,
+    "handle": "Jayansh_805",
+    "country": "India"
+  },
+  {
+    "rank": 3616,
+    "handle": "Steampunkstar",
+    "country": "India"
+  },
+  {
+    "rank": 3625,
+    "handle": "FireANMA",
+    "country": "India"
+  },
+  {
+    "rank": 3634,
+    "handle": "itsmearyan0205",
+    "country": "India"
+  },
+  {
+    "rank": 3637,
+    "handle": "krn.maheshwari9",
+    "country": "India"
+  },
+  {
+    "rank": 3643,
+    "handle": "sushant_4599",
+    "country": "India"
+  },
+  {
+    "rank": 3651,
+    "handle": "Mridul_007",
+    "country": "India"
+  },
+  {
+    "rank": 3656,
+    "handle": "sgirish_1204",
+    "country": "India"
+  },
+  {
+    "rank": 3659,
+    "handle": "RajdeepSingh_23",
+    "country": "India"
+  },
+  {
+    "rank": 3680,
+    "handle": "Dynamic_Dishank",
+    "country": "India"
+  },
+  {
+    "rank": 3686,
+    "handle": "verma_aakash",
+    "country": "India"
+  },
+  {
+    "rank": 3695,
+    "handle": "ItsAllMe",
+    "country": "India"
+  },
+  {
+    "rank": 3702,
+    "handle": "sachin1829",
+    "country": "India"
+  },
+  {
+    "rank": 3706,
+    "handle": "mithilesh_19",
+    "country": "India"
+  },
+  {
+    "rank": 3713,
+    "handle": "Harsh06_09",
+    "country": "India"
+  },
+  {
+    "rank": 3723,
+    "handle": "viditanupgupta",
+    "country": "India"
+  },
+  {
+    "rank": 3731,
+    "handle": "Deepak-singh",
+    "country": "India"
+  },
+  {
+    "rank": 3735,
+    "handle": "F_Minor",
+    "country": "India"
+  },
+  {
+    "rank": 3747,
+    "handle": "CF94raj",
+    "country": "India"
+  },
+  {
+    "rank": 3754,
+    "handle": "Parth1636",
+    "country": "India"
+  },
+  {
+    "rank": 3764,
+    "handle": "pushpraj_singh",
+    "country": "India"
+  },
+  {
+    "rank": 3774,
+    "handle": "88sama88",
+    "country": "India"
+  },
+  {
+    "rank": 3778,
+    "handle": "Santhu_01",
+    "country": "India"
+  },
+  {
+    "rank": 3790,
+    "handle": "BeyonderxX",
+    "country": "India"
+  },
+  {
+    "rank": 3799,
+    "handle": "blaze_byte",
+    "country": "India"
+  },
+  {
+    "rank": 3808,
+    "handle": "tirth_kheni",
+    "country": "India"
+  },
+  {
+    "rank": 3814,
+    "handle": "aaryanman05",
+    "country": "India"
+  },
+  {
+    "rank": 3816,
+    "handle": "Ayanokoji7",
+    "country": "India"
+  },
+  {
+    "rank": 3822,
+    "handle": "supersparton0",
+    "country": "India"
+  },
+  {
+    "rank": 3830,
+    "handle": "anubhavhajela4",
+    "country": "India"
+  },
+  {
+    "rank": 3835,
+    "handle": "kaustavbhowal",
+    "country": "India"
+  },
+  {
+    "rank": 3837,
+    "handle": "ashwini.kumar.25",
+    "country": "India"
+  },
+  {
+    "rank": 3844,
+    "handle": "roshan_saini_18",
+    "country": "India"
+  },
+  {
+    "rank": 3853,
+    "handle": "Rajai_kambal",
+    "country": "India"
+  },
+  {
+    "rank": 3864,
+    "handle": "lovishj188",
+    "country": "India"
+  },
+  {
+    "rank": 3873,
+    "handle": "ameyatambat2004",
+    "country": "India"
+  },
+  {
+    "rank": 3877,
+    "handle": "adroitanuj",
+    "country": "India"
+  },
+  {
+    "rank": 3887,
+    "handle": "sandeep172918",
+    "country": "India"
+  },
+  {
+    "rank": 3896,
+    "handle": "gowtham_g30",
+    "country": "India"
+  },
+  {
+    "rank": 3902,
+    "handle": "EulersPython",
+    "country": "India"
+  },
+  {
+    "rank": 3915,
+    "handle": "Anonymous369",
+    "country": "India"
+  },
+  {
+    "rank": 3921,
+    "handle": "Balaji_B",
+    "country": "India"
+  },
+  {
+    "rank": 3930,
+    "handle": "77adityasharma",
+    "country": "India"
+  },
+  {
+    "rank": 3935,
+    "handle": "shadow4720",
+    "country": "India"
+  },
+  {
+    "rank": 3943,
+    "handle": "pappuovi8",
+    "country": "India"
+  },
+  {
+    "rank": 3958,
+    "handle": "the_KNIGHT_9211",
+    "country": "India"
+  },
+  {
+    "rank": 3973,
+    "handle": "Adii",
+    "country": "India"
+  },
+  {
+    "rank": 3984,
+    "handle": "Ajay967",
+    "country": "India"
+  },
+  {
+    "rank": 3987,
+    "handle": "452aman",
+    "country": "India"
+  },
+  {
+    "rank": 3996,
+    "handle": "Subrat_2004",
+    "country": "India"
+  },
+  {
+    "rank": 4004,
+    "handle": "aLazyCoderr",
+    "country": "India"
+  },
+  {
+    "rank": 4010,
+    "handle": "LuxTheDeveloper",
+    "country": "India"
+  },
+  {
+    "rank": 4017,
+    "handle": "rk7.04916291",
+    "country": "India"
+  },
+  {
+    "rank": 4025,
+    "handle": "smol_vamp",
+    "country": "India"
+  },
+  {
+    "rank": 4028,
+    "handle": "Itsadijmbt",
+    "country": "India"
+  },
+  {
+    "rank": 4030,
+    "handle": "incheif",
+    "country": "India"
+  },
+  {
+    "rank": 4037,
+    "handle": "palsaksham025",
+    "country": "India"
+  },
+  {
+    "rank": 4041,
+    "handle": "lazyflash99",
+    "country": "India"
+  },
+  {
+    "rank": 4050,
+    "handle": "sunny_76",
+    "country": "India"
+  },
+  {
+    "rank": 4056,
+    "handle": "Paneer_homeless_28",
+    "country": "India"
+  },
+  {
+    "rank": 4062,
+    "handle": "Grandmaster10",
+    "country": "India"
+  },
+  {
+    "rank": 4070,
+    "handle": "Divs30",
+    "country": "India"
+  },
+  {
+    "rank": 4081,
+    "handle": "iec2024031",
+    "country": "India"
+  },
+  {
+    "rank": 4107,
+    "handle": "Paryatak123",
+    "country": "India"
+  },
+  {
+    "rank": 4111,
+    "handle": "BugHunter_X",
+    "country": "India"
+  },
+  {
+    "rank": 4114,
+    "handle": "ypsd",
+    "country": "India"
+  },
+  {
+    "rank": 4123,
+    "handle": "rajatg1578",
+    "country": "India"
+  },
+  {
+    "rank": 4128,
+    "handle": "CalmOverFlow",
+    "country": "India"
+  },
+  {
+    "rank": 4132,
+    "handle": "Ansh_Mahajan",
+    "country": "India"
+  },
+  {
+    "rank": 4144,
+    "handle": "SamyaSaha08",
+    "country": "India"
+  },
+  {
+    "rank": 4152,
+    "handle": "karanreddy132",
+    "country": "India"
+  },
+  {
+    "rank": 4159,
+    "handle": "reyven",
+    "country": "India"
+  },
+  {
+    "rank": 4168,
+    "handle": "SK_SHANIF",
+    "country": "India"
+  },
+  {
+    "rank": 4175,
+    "handle": "PanDa_HG",
+    "country": "India"
+  },
+  {
+    "rank": 4184,
+    "handle": "minus_M1",
+    "country": "India"
+  },
+  {
+    "rank": 4191,
+    "handle": "met_thunder",
+    "country": "India"
+  },
+  {
+    "rank": 4204,
+    "handle": "ShreyBhut",
+    "country": "India"
+  },
+  {
+    "rank": 4212,
+    "handle": "shivamsp13",
+    "country": "India"
+  },
+  {
+    "rank": 4218,
+    "handle": "Hitarth_0212",
+    "country": "India"
+  },
+  {
+    "rank": 4225,
+    "handle": "deepakydv26422",
+    "country": "India"
+  },
+  {
+    "rank": 4235,
+    "handle": "CipherMaestro",
+    "country": "India"
+  },
+  {
+    "rank": 4243,
+    "handle": "umeshola07",
+    "country": "India"
+  },
+  {
+    "rank": 4251,
+    "handle": "sanskarsovitkaredison934",
+    "country": "India"
+  },
+  {
+    "rank": 4260,
+    "handle": "Anubhav_Rajput",
+    "country": "India"
+  },
+  {
+    "rank": 4268,
+    "handle": "angelkumar44",
+    "country": "India"
+  },
+  {
+    "rank": 4272,
+    "handle": "2111sahil",
+    "country": "India"
+  },
+  {
+    "rank": 4281,
+    "handle": "meer45",
+    "country": "India"
+  },
+  {
+    "rank": 4286,
+    "handle": "CrimsonMarauderr",
+    "country": "India"
+  },
+  {
+    "rank": 4301,
+    "handle": "rizz_08",
+    "country": "India"
+  },
+  {
+    "rank": 4308,
+    "handle": "Rajdeep_P1",
+    "country": "India"
+  },
+  {
+    "rank": 4311,
+    "handle": "sankK",
+    "country": "India"
+  },
+  {
+    "rank": 4319,
+    "handle": "sindhujap1110",
+    "country": "India"
+  },
+  {
+    "rank": 4330,
+    "handle": "Rohit_86624",
+    "country": "India"
+  },
+  {
+    "rank": 4342,
+    "handle": "prayag2",
+    "country": "India"
+  },
+  {
+    "rank": 4366,
+    "handle": "AmeyaT",
+    "country": "India"
+  },
+  {
+    "rank": 4375,
+    "handle": "Redemptionizer_72",
+    "country": "India"
+  },
+  {
+    "rank": 4383,
+    "handle": "mnnit.prakharg",
+    "country": "India"
+  },
+  {
+    "rank": 4397,
+    "handle": "BanSsal",
+    "country": "India"
+  },
+  {
+    "rank": 4408,
+    "handle": "ACE0807",
+    "country": "India"
+  },
+  {
+    "rank": 4413,
+    "handle": "Aisenh037",
+    "country": "India"
+  },
+  {
+    "rank": 4422,
+    "handle": "World_Champion",
+    "country": "India"
+  },
+  {
+    "rank": 4430,
+    "handle": "NanuG",
+    "country": "India"
+  },
+  {
+    "rank": 4437,
+    "handle": "asmita27",
+    "country": "India"
+  },
+  {
+    "rank": 4447,
+    "handle": "ppbharm2005",
+    "country": "India"
+  },
+  {
+    "rank": 4455,
+    "handle": "shashankRoy",
+    "country": "India"
+  },
+  {
+    "rank": 4465,
+    "handle": "itschaudhary18",
+    "country": "India"
+  },
+  {
+    "rank": 4470,
+    "handle": "Ashish_Moun",
+    "country": "India"
+  },
+  {
+    "rank": 4476,
+    "handle": "yash_fsoc",
+    "country": "India"
+  },
+  {
+    "rank": 4484,
+    "handle": "s_b_phantom",
+    "country": "India"
+  },
+  {
+    "rank": 4506,
+    "handle": "s02s_code",
+    "country": "India"
+  },
+  {
+    "rank": 4512,
+    "handle": "dp177",
+    "country": "India"
+  },
+  {
+    "rank": 4520,
+    "handle": "Shubham_Kankotiya",
+    "country": "India"
+  },
+  {
+    "rank": 4534,
+    "handle": "painless_147",
+    "country": "India"
+  },
+  {
+    "rank": 4541,
+    "handle": "ROHIT_MAHAWAR",
+    "country": "India"
+  },
+  {
+    "rank": 4550,
+    "handle": "movement124",
+    "country": "India"
+  },
+  {
+    "rank": 4556,
+    "handle": "kunal_j2e",
+    "country": "India"
+  },
+  {
+    "rank": 4585,
+    "handle": "akshay_834",
+    "country": "India"
+  },
+  {
+    "rank": 4593,
+    "handle": "AJ_mark26",
+    "country": "India"
+  },
+  {
+    "rank": 4598,
+    "handle": "rithp",
+    "country": "India"
+  },
+  {
+    "rank": 4610,
+    "handle": "yashjp",
+    "country": "India"
+  },
+  {
+    "rank": 4617,
+    "handle": "Gokuu007",
+    "country": "India"
+  },
+  {
+    "rank": 4622,
+    "handle": "ChinmayP07",
+    "country": "India"
+  },
+  {
+    "rank": 4626,
+    "handle": "shoaib__5x",
+    "country": "India"
+  },
+  {
+    "rank": 4630,
+    "handle": "Adarsh_Jupudi",
+    "country": "India"
+  },
+  {
+    "rank": 4636,
+    "handle": "harish1108",
+    "country": "India"
+  },
+  {
+    "rank": 4652,
+    "handle": "rohitsmdc812",
+    "country": "India"
+  },
+  {
+    "rank": 4656,
+    "handle": "Trevor007",
+    "country": "India"
+  },
+  {
+    "rank": 4661,
+    "handle": "vignatej",
+    "country": "India"
+  },
+  {
+    "rank": 4665,
+    "handle": "Sujay_B",
+    "country": "India"
+  },
+  {
+    "rank": 4674,
+    "handle": "Electricks",
+    "country": "India"
+  },
+  {
+    "rank": 4680,
+    "handle": "he_aniket",
+    "country": "India"
+  },
+  {
+    "rank": 4687,
+    "handle": "realaditya_24",
+    "country": "India"
+  },
+  {
+    "rank": 4694,
+    "handle": "jai_gurudev",
+    "country": "India"
+  },
+  {
+    "rank": 4702,
+    "handle": "anoop553477",
+    "country": "India"
+  },
+  {
+    "rank": 4710,
+    "handle": "tinkalkumariiit58",
+    "country": "India"
+  },
+  {
+    "rank": 4718,
+    "handle": "iamshaurya",
+    "country": "India"
+  },
+  {
+    "rank": 4725,
+    "handle": "karthikeya48",
+    "country": "India"
+  },
+  {
+    "rank": 4734,
+    "handle": "ObviouslyBhavya",
+    "country": "India"
+  },
+  {
+    "rank": 4741,
+    "handle": "mdxz",
+    "country": "India"
+  },
+  {
+    "rank": 4746,
+    "handle": "mustansirkanchwala45",
+    "country": "India"
+  },
+  {
+    "rank": 4749,
+    "handle": "jUst20102001",
+    "country": "India"
+  },
+  {
+    "rank": 4756,
+    "handle": "Chaitu123432",
+    "country": "India"
+  },
+  {
+    "rank": 4760,
+    "handle": "Aatish_044",
+    "country": "India"
+  },
+  {
+    "rank": 4769,
+    "handle": "kenma_w",
+    "country": "India"
+  },
+  {
+    "rank": 4776,
+    "handle": "hello_universe456",
+    "country": "India"
+  },
+  {
+    "rank": 4786,
+    "handle": "simplesumit12",
+    "country": "India"
+  },
+  {
+    "rank": 4796,
+    "handle": "abhayrajnegi0416",
+    "country": "India"
+  },
+  {
+    "rank": 4812,
+    "handle": "aayushdalal",
+    "country": "India"
+  },
+  {
+    "rank": 4827,
+    "handle": "nipunsamal_474",
+    "country": "India"
+  },
+  {
+    "rank": 4830,
+    "handle": "newyear",
+    "country": "India"
+  },
+  {
+    "rank": 4837,
+    "handle": "suyasho786",
+    "country": "India"
+  },
+  {
+    "rank": 4841,
+    "handle": "nimishnatani",
+    "country": "India"
+  },
+  {
+    "rank": 4848,
+    "handle": "AnuWrath",
+    "country": "India"
+  },
+  {
+    "rank": 4856,
+    "handle": "krishsaini_777",
+    "country": "India"
+  },
+  {
+    "rank": 4860,
+    "handle": "zenitsu7",
+    "country": "India"
+  },
+  {
+    "rank": 4868,
+    "handle": "SLEDGER",
+    "country": "India"
+  },
+  {
+    "rank": 4877,
+    "handle": "Mishra_2006",
+    "country": "India"
+  },
+  {
+    "rank": 4884,
+    "handle": "Sk8r",
+    "country": "India"
+  },
+  {
+    "rank": 4887,
+    "handle": "Sahilpal45",
+    "country": "India"
+  },
+  {
+    "rank": 4891,
+    "handle": "Abhinandanporwal",
+    "country": "India"
+  },
+  {
+    "rank": 4900,
+    "handle": "dazai05",
+    "country": "India"
+  },
+  {
+    "rank": 4911,
+    "handle": "Maddy_Great",
+    "country": "India"
+  },
+  {
+    "rank": 4919,
+    "handle": "AlindTyagi",
+    "country": "India"
+  },
+  {
+    "rank": 4929,
+    "handle": "white_hat_senior",
+    "country": "India"
+  },
+  {
+    "rank": 4946,
+    "handle": "zyphor",
+    "country": "India"
+  },
+  {
+    "rank": 4952,
+    "handle": "Om_Bhati_Temp",
+    "country": "India"
+  },
+  {
+    "rank": 4955,
+    "handle": "Prabhdeep-24",
+    "country": "India"
+  },
+  {
+    "rank": 4964,
+    "handle": "Yuvraj_Rathod",
+    "country": "India"
+  },
+  {
+    "rank": 4969,
+    "handle": "darksider362911",
+    "country": "India"
+  },
+  {
+    "rank": 4973,
+    "handle": "Shivdatta",
+    "country": "India"
+  },
+  {
+    "rank": 4978,
+    "handle": "Nerdy_specs11",
+    "country": "India"
+  },
+  {
+    "rank": 4980,
+    "handle": "burstingfire355",
+    "country": "India"
+  },
+  {
+    "rank": 4983,
+    "handle": "chaar_butternaan",
+    "country": "India"
+  },
+  {
+    "rank": 4992,
+    "handle": "Nishant_sh",
+    "country": "India"
+  },
+  {
+    "rank": 4995,
+    "handle": "nagesharjariya",
+    "country": "India"
+  },
+  {
+    "rank": 4999,
+    "handle": "Milindp_16",
+    "country": "India"
+  },
+  {
+    "rank": 5005,
+    "handle": "llawliet030874",
+    "country": "India"
+  },
+  {
+    "rank": 5014,
+    "handle": "dev1276",
+    "country": "India"
+  },
+  {
+    "rank": 5019,
+    "handle": "satyajit1206",
+    "country": "India"
+  },
+  {
+    "rank": 5026,
+    "handle": "Anurarchbtw",
+    "country": "India"
+  },
+  {
+    "rank": 5033,
+    "handle": "anand__code",
+    "country": "India"
+  },
+  {
+    "rank": 5043,
+    "handle": "Gamin8ing",
+    "country": "India"
+  },
+  {
+    "rank": 5050,
+    "handle": "Sh1nChan",
+    "country": "India"
+  },
+  {
+    "rank": 5064,
+    "handle": "ap12345",
+    "country": "India"
+  },
+  {
+    "rank": 5075,
+    "handle": "Shivansh_Srivastava",
+    "country": "India"
+  },
+  {
+    "rank": 5083,
+    "handle": "manav_jmr",
+    "country": "India"
+  },
+  {
+    "rank": 5087,
+    "handle": "Abhijeet_Jain",
+    "country": "India"
+  },
+  {
+    "rank": 5096,
+    "handle": "genka.",
+    "country": "India"
+  },
+  {
+    "rank": 5101,
+    "handle": "s.v.santhosh",
+    "country": "India"
+  },
+  {
+    "rank": 5121,
+    "handle": "Dev777",
+    "country": "India"
+  },
+  {
+    "rank": 5133,
+    "handle": "AnK7r_A",
+    "country": "India"
+  },
+  {
+    "rank": 5137,
+    "handle": "SayMyName_",
+    "country": "India"
+  },
+  {
+    "rank": 5143,
+    "handle": "AryFox",
+    "country": "India"
+  },
+  {
+    "rank": 5153,
+    "handle": "Jennie_20",
+    "country": "India"
+  },
+  {
+    "rank": 5162,
+    "handle": "Akash_Reddy_18",
+    "country": "India"
+  },
+  {
+    "rank": 5164,
+    "handle": "ShadowSlayer1",
+    "country": "India"
+  },
+  {
+    "rank": 5174,
+    "handle": "PDey_46",
+    "country": "India"
+  },
+  {
+    "rank": 5182,
+    "handle": "duster_amigos",
+    "country": "India"
+  },
+  {
+    "rank": 5205,
+    "handle": "Parth_Maliye",
+    "country": "India"
+  },
+  {
+    "rank": 5211,
+    "handle": "Sakshi_22",
+    "country": "India"
+  },
+  {
+    "rank": 5217,
+    "handle": "aakarshtyagi964",
+    "country": "India"
+  },
+  {
+    "rank": 5223,
+    "handle": "aaryantripathi",
+    "country": "India"
+  },
+  {
+    "rank": 5227,
+    "handle": "PinkCarrot",
+    "country": "India"
+  },
+  {
+    "rank": 5236,
+    "handle": "deveshlokare1968",
+    "country": "India"
+  },
+  {
+    "rank": 5240,
+    "handle": "gr_priyk",
+    "country": "India"
+  },
+  {
+    "rank": 5247,
+    "handle": "kd_57788",
+    "country": "India"
+  },
+  {
+    "rank": 5256,
+    "handle": "devilshubhra",
+    "country": "India"
+  },
+  {
+    "rank": 5260,
+    "handle": "devanshudubey7349",
+    "country": "India"
+  },
+  {
+    "rank": 5269,
+    "handle": "guniverse",
+    "country": "India"
+  },
+  {
+    "rank": 5275,
+    "handle": "vikaschowdary591",
+    "country": "India"
+  },
+  {
+    "rank": 5285,
+    "handle": "Shubh_wizard",
+    "country": "India"
+  },
+  {
+    "rank": 5291,
+    "handle": "arnavrana07",
+    "country": "India"
+  },
+  {
+    "rank": 5297,
+    "handle": "sartx25",
+    "country": "India"
+  },
+  {
+    "rank": 5301,
+    "handle": "AlakshendraB",
+    "country": "India"
+  },
+  {
+    "rank": 5307,
+    "handle": "Siddharth_Pathak",
+    "country": "India"
+  },
+  {
+    "rank": 5319,
+    "handle": "aman768",
+    "country": "India"
+  },
+  {
+    "rank": 5326,
+    "handle": "vectordeepanshu",
+    "country": "India"
+  },
+  {
+    "rank": 5329,
+    "handle": "rajansingh8593",
+    "country": "India"
+  },
+  {
+    "rank": 5339,
+    "handle": "shiva___np",
+    "country": "India"
+  },
+  {
+    "rank": 5347,
+    "handle": "Alphabet",
+    "country": "India"
+  },
+  {
+    "rank": 5353,
+    "handle": "RoyalSoumyaranjan",
+    "country": "India"
+  },
+  {
+    "rank": 5367,
+    "handle": "suryansh1706",
+    "country": "India"
+  },
+  {
+    "rank": 5378,
+    "handle": "krishnaagarwal.in",
+    "country": "India"
+  },
+  {
+    "rank": 5384,
+    "handle": "darkkid",
+    "country": "India"
+  },
+  {
+    "rank": 5393,
+    "handle": "ygyashgoyal",
+    "country": "India"
+  },
+  {
+    "rank": 5397,
+    "handle": "ankur7karn",
+    "country": "India"
+  },
+  {
+    "rank": 5403,
+    "handle": "ayushpan",
+    "country": "India"
+  },
+  {
+    "rank": 5409,
+    "handle": "DarkNinjaEZ",
+    "country": "India"
+  },
+  {
+    "rank": 5423,
+    "handle": "Divyankar",
+    "country": "India"
+  },
+  {
+    "rank": 5432,
+    "handle": "prime8930",
+    "country": "India"
+  },
+  {
+    "rank": 5436,
+    "handle": "Zoro_Harshith",
+    "country": "India"
+  },
+  {
+    "rank": 5442,
+    "handle": "VaiseIamHere",
+    "country": "India"
+  },
+  {
+    "rank": 5444,
+    "handle": "Deepanshu_Pundir1709",
+    "country": "India"
+  },
+  {
+    "rank": 5448,
+    "handle": "hem_patel_02",
+    "country": "India"
+  },
+  {
+    "rank": 5455,
+    "handle": "PulkitGarg01",
+    "country": "India"
+  },
+  {
+    "rank": 5462,
+    "handle": "withprabhav",
+    "country": "India"
+  },
+  {
+    "rank": 5472,
+    "handle": "Ani17et",
+    "country": "India"
+  },
+  {
+    "rank": 5479,
+    "handle": "Optimus_prime6",
+    "country": "India"
+  },
+  {
+    "rank": 5481,
+    "handle": "yasirmn11",
+    "country": "India"
+  },
+  {
+    "rank": 5487,
+    "handle": "noushil004",
+    "country": "India"
+  },
+  {
+    "rank": 5490,
+    "handle": "Darknight26",
+    "country": "India"
+  },
+  {
+    "rank": 5492,
+    "handle": "sarathchandrakvl07",
+    "country": "India"
+  },
+  {
+    "rank": 5493,
+    "handle": "Pradeepkj154",
+    "country": "India"
+  },
+  {
+    "rank": 5497,
+    "handle": "Abhishek2006",
+    "country": "India"
+  },
+  {
+    "rank": 5512,
+    "handle": "katib_03",
+    "country": "India"
+  },
+  {
+    "rank": 5515,
+    "handle": "Ashish_Bhardwaj",
+    "country": "India"
+  },
+  {
+    "rank": 5520,
+    "handle": "piyusha_kumar1234",
+    "country": "India"
+  },
+  {
+    "rank": 5527,
+    "handle": "secret_script",
+    "country": "India"
+  },
+  {
+    "rank": 5539,
+    "handle": "kushagra5214",
+    "country": "India"
+  },
+  {
+    "rank": 5554,
+    "handle": "kunalgunwal",
+    "country": "India"
+  },
+  {
+    "rank": 5559,
+    "handle": "24112006",
+    "country": "India"
+  },
+  {
+    "rank": 5561,
+    "handle": "thakuranshuman2005",
+    "country": "India"
+  },
+  {
+    "rank": 5568,
+    "handle": "Gohilsarthak75458732",
+    "country": "India"
+  },
+  {
+    "rank": 5581,
+    "handle": "Grim.Reaper",
+    "country": "India"
+  },
+  {
+    "rank": 5583,
+    "handle": "parthcoding",
+    "country": "India"
+  },
+  {
+    "rank": 5593,
+    "handle": "ShivamG93",
+    "country": "India"
+  },
+  {
+    "rank": 5599,
+    "handle": "smilingsisyphus",
+    "country": "India"
+  },
+  {
+    "rank": 5603,
+    "handle": "Tigabhi",
+    "country": "India"
+  },
+  {
+    "rank": 5605,
+    "handle": "Ayushman1109",
+    "country": "India"
+  },
+  {
+    "rank": 5609,
+    "handle": "sidharthvalsan",
+    "country": "India"
+  },
+  {
+    "rank": 5613,
+    "handle": "rg_13471",
+    "country": "India"
+  },
+  {
+    "rank": 5617,
+    "handle": "ArcticFox",
+    "country": "India"
+  },
+  {
+    "rank": 5621,
+    "handle": "Moushuf",
+    "country": "India"
+  },
+  {
+    "rank": 5635,
+    "handle": "bot_nobita",
+    "country": "India"
+  },
+  {
+    "rank": 5639,
+    "handle": "Kunal_Kumar5069",
+    "country": "India"
+  },
+  {
+    "rank": 5648,
+    "handle": "Ishan_07",
+    "country": "India"
+  },
+  {
+    "rank": 5656,
+    "handle": "gigga_dummy",
+    "country": "India"
+  },
+  {
+    "rank": 5668,
+    "handle": "Bhagat.09",
+    "country": "India"
+  },
+  {
+    "rank": 5671,
+    "handle": "hritik4november2003",
+    "country": "India"
+  },
+  {
+    "rank": 5677,
+    "handle": "sohxm2k",
+    "country": "India"
+  },
+  {
+    "rank": 5689,
+    "handle": "BOT_GIAN",
+    "country": "India"
+  },
+  {
+    "rank": 5692,
+    "handle": "CodeDestroyer_24",
+    "country": "India"
+  },
+  {
+    "rank": 5698,
+    "handle": "ChinmayA_G",
+    "country": "India"
+  },
+  {
+    "rank": 5707,
+    "handle": "aloo08051999",
+    "country": "India"
+  },
+  {
+    "rank": 5710,
+    "handle": "Shubham15986",
+    "country": "India"
+  },
+  {
+    "rank": 5714,
+    "handle": "patelunique1",
+    "country": "India"
+  },
+  {
+    "rank": 5719,
+    "handle": "raghavgupta0123456",
+    "country": "India"
+  },
+  {
+    "rank": 5723,
+    "handle": "nav_04",
+    "country": "India"
+  },
+  {
+    "rank": 5727,
+    "handle": "knlydv",
+    "country": "India"
+  },
+  {
+    "rank": 5729,
+    "handle": "KunjGupta",
+    "country": "India"
+  },
+  {
+    "rank": 5744,
+    "handle": "heisenpeak..123",
+    "country": "India"
+  },
+  {
+    "rank": 5750,
+    "handle": "akshaybunny18",
+    "country": "India"
+  },
+  {
+    "rank": 5756,
+    "handle": "Chaotic_Cyris07",
+    "country": "India"
+  },
+  {
+    "rank": 5768,
+    "handle": "gangwarcoderr",
+    "country": "India"
+  },
+  {
+    "rank": 5770,
+    "handle": "chunchun69maru",
+    "country": "India"
+  },
+  {
+    "rank": 5773,
+    "handle": "vikaskathuria",
+    "country": "India"
+  },
+  {
+    "rank": 5775,
+    "handle": "div.n.007",
+    "country": "India"
+  },
+  {
+    "rank": 5777,
+    "handle": "ritika.sahu2021",
+    "country": "India"
+  },
+  {
+    "rank": 5792,
+    "handle": "kilaparthisiddhu",
+    "country": "India"
+  },
+  {
+    "rank": 5798,
+    "handle": "Bhagavat6001",
+    "country": "India"
+  },
+  {
+    "rank": 5804,
+    "handle": "Nevil_Anghan",
+    "country": "India"
+  },
+  {
+    "rank": 5809,
+    "handle": "RAVI_SAHU",
+    "country": "India"
+  },
+  {
+    "rank": 5815,
+    "handle": "Dushyant_J",
+    "country": "India"
+  },
+  {
+    "rank": 5821,
+    "handle": "charankumargadde",
+    "country": "India"
+  },
+  {
+    "rank": 5827,
+    "handle": "vinitp866",
+    "country": "India"
+  },
+  {
+    "rank": 5833,
+    "handle": "Aryannn09",
+    "country": "India"
+  },
+  {
+    "rank": 5839,
+    "handle": "Pratyush_007",
+    "country": "India"
+  },
+  {
+    "rank": 5848,
+    "handle": "codemart786",
+    "country": "India"
+  },
+  {
+    "rank": 5852,
+    "handle": "armageddon_45",
+    "country": "India"
+  },
+  {
+    "rank": 5856,
+    "handle": "KrisH_2207",
+    "country": "India"
+  },
+  {
+    "rank": 5865,
+    "handle": "tikamgarh_coder",
+    "country": "India"
+  },
+  {
+    "rank": 5867,
+    "handle": "CODER7677",
+    "country": "India"
+  },
+  {
+    "rank": 5875,
+    "handle": "rohitsatpute480",
+    "country": "India"
+  },
+  {
+    "rank": 5884,
+    "handle": "m.anav_dbz07",
+    "country": "India"
+  },
+  {
+    "rank": 5890,
+    "handle": "Nikhil_Patidar687",
+    "country": "India"
+  },
+  {
+    "rank": 5894,
+    "handle": "Div1828",
+    "country": "India"
+  },
+  {
+    "rank": 5897,
+    "handle": "Lakshya_Rani",
+    "country": "India"
+  },
+  {
+    "rank": 5909,
+    "handle": "j.nikunj",
+    "country": "India"
+  },
+  {
+    "rank": 5918,
+    "handle": "King_Msk7",
+    "country": "India"
+  },
+  {
+    "rank": 5928,
+    "handle": "parteekmalik5",
+    "country": "India"
+  },
+  {
+    "rank": 5931,
+    "handle": "weirdo13",
+    "country": "India"
+  },
+  {
+    "rank": 5934,
+    "handle": "hilagshah19",
+    "country": "India"
+  },
+  {
+    "rank": 5936,
+    "handle": "ch_aryan",
+    "country": "India"
+  },
+  {
+    "rank": 5941,
+    "handle": "mailsuhas.madhu",
+    "country": "India"
+  },
+  {
+    "rank": 5946,
+    "handle": "VoidRanger",
+    "country": "India"
+  },
+  {
+    "rank": 5951,
+    "handle": "advant",
+    "country": "India"
+  },
+  {
+    "rank": 5956,
+    "handle": "4M49_H3R3",
+    "country": "India"
+  },
+  {
+    "rank": 5978,
+    "handle": "_bitbender_",
+    "country": "India"
+  },
+  {
+    "rank": 5983,
+    "handle": "code_fighter1011",
+    "country": "India"
+  },
+  {
+    "rank": 5987,
+    "handle": "samarthkulkarni",
+    "country": "India"
+  },
+  {
+    "rank": 6004,
+    "handle": "samirpsalim",
+    "country": "India"
+  },
+  {
+    "rank": 6012,
+    "handle": "nayan_balpande",
+    "country": "India"
+  },
+  {
+    "rank": 6021,
+    "handle": "amoghrg_19",
+    "country": "India"
+  },
+  {
+    "rank": 6024,
+    "handle": "D_de1tA",
+    "country": "India"
+  },
+  {
+    "rank": 6026,
+    "handle": "MohdTabishJamal",
+    "country": "India"
+  },
+  {
+    "rank": 6029,
+    "handle": "bajoriya_udit",
+    "country": "India"
+  },
+  {
+    "rank": 6032,
+    "handle": "bye_kes",
+    "country": "India"
+  },
+  {
+    "rank": 6036,
+    "handle": "click_bait",
+    "country": "India"
+  },
+  {
+    "rank": 6041,
+    "handle": "SoumyadeepTus12345",
+    "country": "India"
+  },
+  {
+    "rank": 6058,
+    "handle": "V1rus_17",
+    "country": "India"
+  },
+  {
+    "rank": 6068,
+    "handle": "captain_rage",
+    "country": "India"
+  },
+  {
+    "rank": 6080,
+    "handle": "TejasKatare",
+    "country": "India"
+  },
+  {
+    "rank": 6083,
+    "handle": "anikethere",
+    "country": "India"
+  },
+  {
+    "rank": 6092,
+    "handle": "zinuddin_zidane_0803",
+    "country": "India"
+  },
+  {
+    "rank": 6103,
+    "handle": "CodeWarrior_32",
+    "country": "India"
+  },
+  {
+    "rank": 6109,
+    "handle": "BhavdeepSinghNijhawa",
+    "country": "India"
+  },
+  {
+    "rank": 6110,
+    "handle": "utkarshver11",
+    "country": "India"
+  },
+  {
+    "rank": 6118,
+    "handle": "adarshk0508",
+    "country": "India"
+  },
+  {
+    "rank": 6119,
+    "handle": "chinoscode",
+    "country": "India"
+  },
+  {
+    "rank": 6122,
+    "handle": "Ujjwal_Gupta_96",
+    "country": "India"
+  },
+  {
+    "rank": 6125,
+    "handle": "donthulamanish30",
+    "country": "India"
+  },
+  {
+    "rank": 6145,
+    "handle": "prabhakar16",
+    "country": "India"
+  },
+  {
+    "rank": 6150,
+    "handle": "scarybot",
+    "country": "India"
+  },
+  {
+    "rank": 6156,
+    "handle": "ayush_lingwal",
+    "country": "India"
+  },
+  {
+    "rank": 6163,
+    "handle": "aksh_dman",
+    "country": "India"
+  },
+  {
+    "rank": 6170,
+    "handle": "Yashas333",
+    "country": "India"
+  },
+  {
+    "rank": 6175,
+    "handle": "jigyasu_kalyan",
+    "country": "India"
+  },
+  {
+    "rank": 6177,
+    "handle": "sushantbharti",
+    "country": "India"
+  },
+  {
+    "rank": 6180,
+    "handle": "nappenheimer",
+    "country": "India"
+  },
+  {
+    "rank": 6183,
+    "handle": "dattaraj",
+    "country": "India"
+  },
+  {
+    "rank": 6189,
+    "handle": "greenflame",
+    "country": "India"
+  },
+  {
+    "rank": 6192,
+    "handle": "Darshil",
+    "country": "India"
+  },
+  {
+    "rank": 6197,
+    "handle": "Khosla_adarsh",
+    "country": "India"
+  },
+  {
+    "rank": 6198,
+    "handle": "Bhavin_911",
+    "country": "India"
+  },
+  {
+    "rank": 6205,
+    "handle": "Shreyansh2174",
+    "country": "India"
+  },
+  {
+    "rank": 6209,
+    "handle": "jatinnekela",
+    "country": "India"
+  },
+  {
+    "rank": 6220,
+    "handle": "ashish.kr121314",
+    "country": "India"
+  },
+  {
+    "rank": 6225,
+    "handle": "MehulGupta19",
+    "country": "India"
+  },
+  {
+    "rank": 6234,
+    "handle": "tejas_sajith",
+    "country": "India"
+  },
+  {
+    "rank": 6238,
+    "handle": "nickpatel",
+    "country": "India"
+  },
+  {
+    "rank": 6240,
+    "handle": "Darsh_01",
+    "country": "India"
+  },
+  {
+    "rank": 6254,
+    "handle": "krishg_",
+    "country": "India"
+  },
+  {
+    "rank": 6270,
+    "handle": "itsaj007",
+    "country": "India"
+  },
+  {
+    "rank": 6272,
+    "handle": "Praveen_kumar01",
+    "country": "India"
+  },
+  {
+    "rank": 6282,
+    "handle": "AravVasudeva",
+    "country": "India"
+  },
+  {
+    "rank": 6284,
+    "handle": "Saivishwas",
+    "country": "India"
+  },
+  {
+    "rank": 6286,
+    "handle": "6930kumarkundan",
+    "country": "India"
+  },
+  {
+    "rank": 6296,
+    "handle": "feastyr",
+    "country": "India"
+  },
+  {
+    "rank": 6302,
+    "handle": "Ayush_Raj_2027",
+    "country": "India"
+  },
+  {
+    "rank": 6308,
+    "handle": "KyukerCOOKEDYOU",
+    "country": "India"
+  },
+  {
+    "rank": 6314,
+    "handle": "Phantomloop",
+    "country": "India"
+  },
+  {
+    "rank": 6322,
+    "handle": "anantmohan51",
+    "country": "India"
+  },
+  {
+    "rank": 6327,
+    "handle": "DemigodLucifer007",
+    "country": "India"
+  },
+  {
+    "rank": 6335,
+    "handle": "nikhilkumar301713",
+    "country": "India"
+  },
+  {
+    "rank": 6338,
+    "handle": "priyansh7124",
+    "country": "India"
+  },
+  {
+    "rank": 6339,
+    "handle": "insha7",
+    "country": "India"
+  },
+  {
+    "rank": 6343,
+    "handle": "AllainP",
+    "country": "India"
+  },
+  {
+    "rank": 6353,
+    "handle": "shivanshs864",
+    "country": "India"
+  },
+  {
+    "rank": 6354,
+    "handle": "MANISH_5616",
+    "country": "India"
+  },
+  {
+    "rank": 6355,
+    "handle": "longago_06",
+    "country": "India"
+  },
+  {
+    "rank": 6357,
+    "handle": "Shash_S02",
+    "country": "India"
+  },
+  {
+    "rank": 6360,
+    "handle": "np8006",
+    "country": "India"
+  },
+  {
+    "rank": 6366,
+    "handle": "tejaskk.13",
+    "country": "India"
+  },
+  {
+    "rank": 6379,
+    "handle": "Supro_",
+    "country": "India"
+  },
+  {
+    "rank": 6385,
+    "handle": "shubh230405",
+    "country": "India"
+  },
+  {
+    "rank": 6390,
+    "handle": "zwix",
+    "country": "India"
+  },
+  {
+    "rank": 6394,
+    "handle": "gauravt9431",
+    "country": "India"
+  },
+  {
+    "rank": 6401,
+    "handle": "StayAwayAlways",
+    "country": "India"
+  },
+  {
+    "rank": 6410,
+    "handle": "7vik-13",
+    "country": "India"
+  },
+  {
+    "rank": 6414,
+    "handle": "lokesh_venkatachalam",
+    "country": "India"
+  },
+  {
+    "rank": 6426,
+    "handle": "Xeroficator",
+    "country": "India"
+  },
+  {
+    "rank": 6430,
+    "handle": "Divyansh006",
+    "country": "India"
+  },
+  {
+    "rank": 6441,
+    "handle": "ayush.agarwal161204",
+    "country": "India"
+  },
+  {
+    "rank": 6446,
+    "handle": "rajpatel2619",
+    "country": "India"
+  },
+  {
+    "rank": 6476,
+    "handle": "somujena21",
+    "country": "India"
+  },
+  {
+    "rank": 6484,
+    "handle": "atul_mangal",
+    "country": "India"
+  },
+  {
+    "rank": 6486,
+    "handle": "s_mtCF",
+    "country": "India"
+  },
+  {
+    "rank": 6488,
+    "handle": "sashshaikh12",
+    "country": "India"
+  },
+  {
+    "rank": 6500,
+    "handle": "sharp_band_34",
+    "country": "India"
+  },
+  {
+    "rank": 6505,
+    "handle": "chincoder",
+    "country": "India"
+  },
+  {
+    "rank": 6513,
+    "handle": "saiashish9",
     "country": "India"
   }
 ]
