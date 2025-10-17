@@ -3,10 +3,10 @@
 import requests
 import json
 
-contest_id = "2160" 
+contest_id = "2162" 
 handle = "saiashish9"
 
-url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=7000"
+url = f"https://codeforces.com/api/contest.standings?contestId={contest_id}&from=1&count=1000"
 resp = requests.get(url).json()
 
 if resp["status"] != "OK":

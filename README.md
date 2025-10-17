@@ -1,4 +1,4 @@
-## 📂 Contents (68 A-D+ problems, 16 contests)
+## 📂 Contents (72 A-D+ problems, 17 contests)
 
 1. **Div1 Contest**
 
@@ -25,6 +25,7 @@
 
    1. [1047](./div3/1047) (All India Rank (AIR) 625, All India Top 2.23% out of ~28K global registered participants)
    2. [1054](./div3/1054) (A-E and G) (All India Rank (AIR) 99 (Global 683) out of ~35K global contestants (All India Top 0.28%, 9900/35000))
+   3. [2162](./div3/2162) (A-D) (All India Rank (AIR) 99 (Global 683) out of ~38K global contestants (All India Top 0.28%, 9900/38000))
 
 5. **Div4 Contest**
 
