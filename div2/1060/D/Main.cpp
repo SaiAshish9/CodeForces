@@ -1,100 +1,81 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-#define debug(x) cout << #x << " = " << x << "\n";
-#define vdebug(a)         \
-    cout << #a << " = ";  \
-    for (auto x : a)      \
-        cout << x << " "; \
-    cout << "\n";
+
 mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
-int uid(int a, int b) { return uniform_int_distribution<int>(a, b)(rng); }
-ll uld(ll a, ll b) { return uniform_int_distribution<ll>(a, b)(rng); }
+int randomInt(int a, int b) { return uniform_int_distribution<int>(a, b)(rng); }
+ll randomLong(ll a, ll b) { return uniform_int_distribution<ll>(a, b)(rng); }
 
-void solve()
-{
-    int n;
-    cin >> n;
+void solve() {
+    int numNodes;
+    cin >> numNodes;
 
-    vector<vector<int>> g(n);
-    for (int i = 0; i < n - 1; i++)
-    {
+    vector<vector<int>> adjList(numNodes);
+    for (int i = 0; i < numNodes - 1; i++) {
         int u, v;
         cin >> u >> v;
-        u--;
-        v--;
+        u--; v--;
 
-        g[u].push_back(v);
-        g[v].push_back(u);
+        adjList[u].push_back(v);
+        adjList[v].push_back(u);
     }
 
-    vector<int> dep(n), par(n), ch(n);
-    auto dfs = [&](auto self, int c, int p) -> void
-    {
-        if (p != -1)
-            dep[c] = dep[p] + 1;
-        par[c] = p;
+    vector<int> depth(numNodes), parent(numNodes), childCount(numNodes);
 
-        for (int x : g[c])
-        {
-            if (x == p)
-                continue;
+    auto dfs = [&](auto self, int currentNode, int parentNode) -> void {
+        if (parentNode != -1) depth[currentNode] = depth[parentNode] + 1;
+        parent[currentNode] = parentNode;
 
-            self(self, x, c);
-            ch[c]++;
+        for (int neighbor : adjList[currentNode]) {
+            if (neighbor == parentNode) continue;
+            self(self, neighbor, currentNode);
+            childCount[currentNode]++;
         }
     };
-    dfs(dfs, n - 1, -1);
+    dfs(dfs, numNodes - 1, -1);
 
-    array<vector<int>, 2> leaves;
-    leaves[0];
-
-    for (int i = 0; i < n; i++)
-    {
-        if (ch[i] == 0)
-            leaves[dep[i] & 1].push_back(i);
+    array<vector<int>, 2> leavesByParity;
+    for (int i = 0; i < numNodes; i++) {
+        if (childCount[i] == 0)
+            leavesByParity[depth[i] % 2].push_back(i);
     }
 
-    vector<array<int, 2>> ans;
-    int col = dep[0] & 1;
-    for (int i = 0; i < n - 1; i++)
-    {
-        if (leaves[col ^ 1].empty())
-        {
-            ans.push_back({1, -1});
-            col ^= 1;
+    vector<array<int, 2>> operations;
+    int currentParity = depth[0] % 2;
+
+    for (int i = 0; i < numNodes - 1; i++) {
+        if (leavesByParity[currentParity ^ 1].empty()) {
+            operations.push_back({1, -1});
+            currentParity ^= 1;
         }
 
-        int nxt = leaves[col ^ 1].back();
-        leaves[col ^ 1].pop_back();
-        ans.push_back({2, nxt});
+        int leafNode = leavesByParity[currentParity ^ 1].back();
+        leavesByParity[currentParity ^ 1].pop_back();
+        operations.push_back({2, leafNode});
 
-        int p = par[nxt];
-        ch[p]--;
-        if (ch[p] == 0)
-            leaves[dep[p] & 1].push_back(p);
+        int parentNode = parent[leafNode];
+        childCount[parentNode]--;
+        if (childCount[parentNode] == 0)
+            leavesByParity[depth[parentNode] % 2].push_back(parentNode);
 
-        ans.push_back({1, -1});
-        col ^= 1;
+        operations.push_back({1, -1});
+        currentParity ^= 1;
     }
 
-    cout << ans.size() << "\n";
-    for (auto [x, y] : ans)
-    {
-        if (x == 1)
+    cout << operations.size() << "\n";
+    for (auto [opType, node] : operations) {
+        if (opType == 1)
             cout << "1\n";
         else
-            cout << "2 " << y + 1 << "\n";
+            cout << "2 " << node + 1 << "\n";
     }
 }
 
-int main()
-{
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
 
-    int t;
-    cin >> t;
-    while (t--)
-        solve();
+    int testCases;
+    cin >> testCases;
+    while (testCases--) solve();
 }
