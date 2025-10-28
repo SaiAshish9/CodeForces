@@ -33,7 +33,6 @@
    1. [1050](./div2/1050) (A-E)
    2. [1062](./div2/1062) (A-D & F-G) (All India Rank (AIR) 221 (Global 683) out of ~38K global contestants (All India Top 0.58%, /45000))
 
-
 ---
 
 ```
