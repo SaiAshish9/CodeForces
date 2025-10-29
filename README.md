@@ -31,7 +31,7 @@
 5. **Div4 Contest**
 
    1. [1050](./div2/1050) (A-E)
-   2. [1062](./div2/1062) (A-D & F-G) (All India Rank (AIR) 56 (Global 1179) out of ~45K global contestants (All India Top 2.62%, 1179/45000))
+   2. [1062](./div2/1062) (A-D & F-G) (All India Rank (AIR) 56 (Global 578) out of ~45K global contestants (All India Top 2.55%, 1148/45000))
 
 ---
 
