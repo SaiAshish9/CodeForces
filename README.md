@@ -1,4 +1,4 @@
-## 📂 Contents (83 A-D+ problems, 19 contests)
+## 📂 Contents (87 A-D+ problems, 20 contests)
 
 1. **Div1 Contest**
 
@@ -49,3 +49,7 @@
 ---
 
 <img width="395" height="463" alt="Screenshot 2025-09-26 at 9 53 54 AM" src="https://github.com/user-attachments/assets/02820f03-835e-4d4a-b439-b8132004cc92" />
+
+<!--     int n, x;
+    // Loop until no more input — works like Scanner.hasNext()
+    while (cin >> n >> x) { -->
