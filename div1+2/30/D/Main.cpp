@@ -33,6 +33,7 @@ void construct(int x)
         cout << s << "\n";
     }
 }
+
 void solve()
 {
     cin >> n >> k >> s >> t;
