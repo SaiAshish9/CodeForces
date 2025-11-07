@@ -25,7 +25,6 @@ public class Main {
             int arraySize = scanner.nextInt();
             int queryCount = scanner.nextInt();
 
-            // Reset prefix arrays for each test case
             prefixStepsPlusOne[0] = 0;
             prefixDifferentSteps[0] = 0;
 
