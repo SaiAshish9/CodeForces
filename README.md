@@ -1,4 +1,4 @@
-## 📂 Contents (87 A-D+ problems, 21 contests)
+## 📂 Contents (88 A-D+ problems, 21 contests)
 
 1. **Div1 Contest**
 
