@@ -1,4 +1,4 @@
-## 📂 Contents (88 A-D+ problems, 21 contests)
+## 📂 Contents (93 A-D+ problems, 22 contests)
 
 1. **Div1 Contest**
 
@@ -12,11 +12,13 @@
    6. [Educational 182](./div2/Educational182) (All India Rank (AIR) 166, All India Top 0.63% out of ~26K global contestants)
    7. [1052](./div2/1052)
    8. [1056](./div2/1056)
-   9. [Educational 183 (Rated for Div. 2)](./div2/Educational183) (All India Rank (AIR) 211, All India Top 0.78% out of ~27K global contestants)
+   9. [Educational 183](./div2/Educational183) (All India Rank (AIR) 211, All India Top 0.78% out of ~27K global contestants)
    10. [1057](./div2/1057) (All India Top 2.4% out of ~34K global contestants)
    11. [1058](./div2/1058) (A-E, All India Top 3.9% out of ~25K global contestants)
    12. [1060](./div2/2154) (A-D, AIR 310, All India Top 1% out of ~31K global contestants)
    13. [1063](./div2/2163) (A-D)
+   14. [Educational 184](./div2/Educational184) (A-D2)
+
 
 3. **Div1 + Div2 Contest**
 
