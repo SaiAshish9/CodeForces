@@ -18,7 +18,7 @@
    12. [1060](./div2/2154) (A-D, AIR 310, All India Top 1% out of ~31K global contestants)
    13. [1063](./div2/2163) (A-D)
    14. [Educational 184](./div2/Educational184) (A-D2, AIR 189, All India Top 0.75% out of ~25K global contestants)
-   15. [1064](./div2/2164) (A-D)
+   15. [1064](./div2/2164)
 
 3. **Div1 + Div2 Contest**
 
