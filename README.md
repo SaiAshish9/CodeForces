@@ -32,6 +32,7 @@
    1. [1047](./div3/1047) (All India Rank (AIR) 625, All India Top 2.23% out of ~28K global registered participants)
    2. [1054](./div3/1054) (A-E and G(TLE)) (All India Rank (AIR) 97 (Global 683) out of ~35K global contestants (All India Top 0.27%, 9700/35000))
    3. [2162](./div3/2162) (A-D) (All India Rank (AIR) 221 (Global 683) out of ~38K global contestants (All India Top 0.58%, 22100/38000))
+   4. [1065](./div3/1065)
 
 5. **Div4 Contest**
 
