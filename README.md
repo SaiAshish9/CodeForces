@@ -20,6 +20,7 @@
    14. [Educational 184](./div2/Educational184) (A-D2, AIR 189, All India Top 0.75% out of ~25K global contestants)
    15. [1064](./div2/2164)
    16. [1067](./div2/1067)
+   17. [1068](./div2/1068)
 
 3. **Div1 + Div2 Contest**
 
