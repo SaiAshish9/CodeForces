@@ -29,6 +29,7 @@
    2. [Company: Squarepoint Challenge](./div1+2/1055) (All India Rank (AIR) 519, All India Top 1.99% out of ~26K global contestants)
    3. [Pinely Round 5](./div1+2/5) (All India Rank (AIR) 317, All India Top 1.32% out of ~24K global contestants)
    4. [Global 30](./div1+2/30) (All India Rank (AIR) 223, All India Top 0.85% out of ~26K global contestants)
+   5. [Global 31](./div1+2/2180/) (All India Rank (AIR) 362, All India Top 0.85% out of ~28K global contestants)
 
 4. **Div3 Contest**
 
