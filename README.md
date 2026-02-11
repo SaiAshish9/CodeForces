@@ -22,6 +22,7 @@
    16. [1067](./div2/1067)
    17. [1068](./div2/1068)
    18. [1069](./div2/1069) (A-D, AIR 195, All India Top 1.14% out of ~17K global contestants)
+   19. [1079](./div2/1079)
 
 3. **Div1 + Div2 Contest**
 
